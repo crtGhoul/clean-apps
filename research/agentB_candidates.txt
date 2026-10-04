@@ -1,0 +1,67 @@
+TED: TED Conferences
+GIPHY: Giphy
+Shazam: Apple
+Foodie: SNOW
+CBC Listen: Canadian Broadcasting
+KEXP: KEXP
+ORF Sound: ORF
+RTE Radio Player: RTE
+WordReference: WordReference
+Naver Papago Translate: NAVER
+NPR: NPR
+WNYC: New York Public Radio
+WBUR: WBUR
+Sveriges Radio Play: Sveriges Radio
+theScore: Score Media
+SofaScore: SofaScore
+FotMob: FotMob
+FlashScore: Livesport
+LiveScore: LiveScore
+Yahoo Sports: Yahoo
+Bleacher Report: Bleacher Report
+CBS Sports: CBS
+ESPNcricinfo: ESPN
+Cricbuzz: Times Internet
+AP News: Associated Press
+SmartNews: SmartNews
+Flipboard: Flipboard
+ABC News: ABC
+CBS News: CBS Interactive
+NBC News: NBCUniversal
+USA Today: Gannett
+Reuters News: Thomson Reuters
+CNBC Business News: NBCUniversal
+Yahoo Finance: Yahoo
+Forbes: Forbes Media
+TechCrunch: Yahoo
+MacRumors: MacRumors
+Speedtest by Ookla: Ookla
+Waze: Google
+Yelp: Yelp
+IMDb: IMDb
+Goodreads: Goodreads
+MANGA Plus: Shueisha
+Genius Song Lyrics: Genius Media
+White Noise Free: TMSoft
+Metronome Beats: Stonekick
+FatSecret: FatSecret
+RainViewer: RainViewer
+MyRadar: AtronOmatic
+XE Currency: XE.com
+GasBuddy: GasBuddy
+Flipp: Flipp
+Slickdeals: Slickdeals
+Skyscanner: Skyscanner
+Kayak: KAYAK
+Tripadvisor: Tripadvisor
+Rome2Rio: Rome2Rio
+Hopper: Hopper
+Urban Dictionary: Urban Dictionary
+Dictionary by The Free Dictionary: Farlex
+Moovit: Moovit
+FlightAware: FlightAware
+trivago: trivago
+AccuRadio: AccuRadio
+SuperCook: SuperCook
+Yahoo Weather: Yahoo
+Allrecipes: Dotdash

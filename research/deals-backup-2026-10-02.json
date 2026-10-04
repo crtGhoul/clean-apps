@@ -1,0 +1,244 @@
+[
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "6759118502",
+    "appStoreUrl": "https://apps.apple.com/us/app/space-for-two-relationship-app/id6759118502",
+    "category": "Lifestyle",
+    "deal": {
+      "dateFound": "2026-10-01",
+      "expiry": "2026-10-01 (poster's ozbargain estimate); NOT flagged expired, thread has no failure reports — unlock still presumed live",
+      "offer": "Free Lifetime Premium (normally ~A$39.99): install, finish onboarding, then tap the big gold star on the Premium screen 3 times - unlocks everything for you and your partner.",
+      "source": "https://www.ozbargain.com.au/node/973840",
+      "lastChecked": "2026-10-01"
+    },
+    "developer": "SUGI STUDIO PTY LTD",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-01",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/25/30/a42530d5-ee66-139f-9857-19f0bcd2e3d2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "name": "Space for Two - Relationship App",
+    "oneLine": "Couples app (affections, quizzes, games, shared map, widgets) with Lifetime Premium unlockable free for both partners.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "6804748727",
+    "appStoreUrl": "https://apps.apple.com/us/app/exploreirl/id6804748727",
+    "category": "Travel",
+    "deal": {
+      "dateFound": "2026-10-01",
+      "expiry": "unknown (limited to first 500 downloads; cap may be reached)",
+      "offer": "First 500 downloads get free lifetime All Access: enter the in-app code IRLFAM26 (announced in the maker's YouTube video description, ~2026-09-22).",
+      "source": "https://www.youtube.com/watch?v=K876BCOYLUY"
+    },
+    "developer": "David Wieland",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-01",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/3e/96/5e3e96b2-e576-2560-89a8-a5764812ace3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "name": "ExploreIRL",
+    "oneLine": "Real-world city adventure card game: open packs for your city and complete challenges, trivia and dares with friends.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "6804344537",
+    "appStoreUrl": "https://apps.apple.com/us/app/findnrefill-fuel-ev-savings/id6804344537",
+    "category": "Navigation",
+    "deal": {
+      "dateFound": "2026-10-01",
+      "expiry": "2026-10-17",
+      "offer": "100% off FindNRefill Pro (was A$7.99): redeem Apple offer code OZBARGAIN at apps.apple.com/redeem - unlocks advanced price alerts, trip stops and full CarPlay access.",
+      "source": "https://www.ozbargain.com.au/node/976585"
+    },
+    "developer": "Marvin Reid",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-01",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/9e/ff/939effb6-2f56-3099-00df-fdd61b8ce64e/AppIcon-0-0-1x_U007epad-0-2-85-220.png/100x100bb.jpg",
+    "name": "FindNRefill: Fuel & EV Savings",
+    "oneLine": "Live petrol, diesel and EV charging price map with price-drop alerts, vehicle profiles and CarPlay support.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "6776191216",
+    "appStoreUrl": "https://apps.apple.com/au/app/chitpact/id6776191216",
+    "category": "Finance",
+    "deal": {
+      "dateFound": "2026-10-01",
+      "expiry": "2026-10-14",
+      "offer": "12 months free of the Essential plan (normally ~A$3/month): enter code FREEYEAR at app.chitpact.com - first 30 users, no credit card required.",
+      "source": "https://www.ozbargain.com.au/node/975016"
+    },
+    "developer": "Zayrium Pty Ltd",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-01",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/29/b4/3029b4ba-2d0f-661a-f001-0185ea5f600b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "name": "ChitPact",
+    "oneLine": "Bill-splitting app for housemates, couples and friends; no bank login required, hosted in Azure Australia East.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": false,
+    "appStoreId": "6768951389",
+    "appStoreUrl": "https://apps.apple.com/au/app/shoparound/id6768951389",
+    "category": "Shopping",
+    "deal": {
+      "dateFound": "2026-10-01",
+      "expiry": "ongoing (dev announcement 2026-08-25, still live)",
+      "offer": "All premium features free for everyone: the developer dropped the subscription entirely (was A$2.99/month). No trial, no paywall - app remains ad-supported.",
+      "source": "https://www.ozbargain.com.au/node/972647"
+    },
+    "developer": "Christopher Scully",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-01",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/ba/a0/88baa01f-b6dc-a7c7-de38-8b98d95bffb2/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "name": "shoparound",
+    "oneLine": "Local shopping companion app whose developer dropped the paywall - all premium features now free for everyone (ad-supported).",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "6761677088",
+    "appStoreUrl": "https://apps.apple.com/us/app/dark-logger-migraine-tracker/id6761677088",
+    "category": "Health & Fitness",
+    "deal": {
+      "dateFound": "2026-10-01",
+      "expiry": "ongoing (stated as currently running, updated ~2026-09-28)",
+      "offer": "FREE lifetime report unlock promo currently running in the iOS app (normally US$9.99 lifetime unlock) - stated by the maker on Product Hunt, available immediately in-app.",
+      "source": "https://www.producthunt.com/p/darklogger-migraine-headache-tracker"
+    },
+    "developer": "Zeph LLC",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-01",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/d8/ad/57d8add2-0692-d387-5d34-747fbed0d7cd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "name": "Dark Logger: Migraine Tracker",
+    "oneLine": "Photophobia-friendly migraine tracker: one-tap logging, barometric-pressure capture, offline, with neurologist-ready PDF reports.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "dev-statement",
+    "adsFree": true,
+    "appStoreId": "6805626334",
+    "appStoreUrl": "https://apps.apple.com/us/app/larpgpt-larp-ai-photo-prompts/id6805626334",
+    "category": "Photo & Video",
+    "deal": {
+      "dateFound": "2026-10-01",
+      "expiry": "unknown (no stated end; dev post ~2026-09-20, app updated 2026-09-30)",
+      "offer": "Free year of the full version (normally US$19.99/year): redeem Apple offer code LARPGPTPROMPTENG at apps.apple.com/redeem - renews at full price after one year unless cancelled.",
+      "source": "https://vibingtalk.com/index.php?threads/560-hand-written-image-prompts-all-built-from-the-same-five-slots-is-that-the-right-decomposition.1574493/"
+    },
+    "developer": "ROMEO ILARIO FLAVIO GAMBINO",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-01",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/38/d8/9638d8dd-2478-5dcc-8bd0-73e451c49b60/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "name": "LarpGPT: Larp AI Photo Prompts",
+    "oneLine": "560 hand-written luxury-lifestyle photo prompts for AI image tools; no account, no ads, nothing leaves the phone.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "dev-statement",
+    "adsFree": true,
+    "appStoreId": "6758965032",
+    "appStoreUrl": "https://apps.apple.com/us/app/quran-prayer-quranway/id6758965032",
+    "category": "Reference",
+    "deal": {
+      "dateFound": "2026-10-01",
+      "expiry": "unknown (no stated end)",
+      "offer": "Try QuranWay Plus with Apple offer code THEQURANWAY (dev's own offer code, published in his Medium privacy article 2026-09-03).",
+      "source": "https://medium.com/@andy.a.g/why-privacy-matters-in-a-quran-app-and-what-we-actually-do-about-it-401c20cb9263"
+    },
+    "developer": "BPA SOLUTIONS",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-01",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0b/76/3d/0b763d73-22bb-7386-c655-0e87c8afce32/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
+    "name": "Quran & Prayer - QuranWay",
+    "oneLine": "Privacy-first Quran app: GPS prayer times, qibla, recitation by 6 qaris, memorization tools, no account; dev states no ads shown in the app.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "6456176249",
+    "appStoreUrl": "https://apps.apple.com/us/app/bevel-ai-health-coach/id6456176249",
+    "category": "Health & Fitness",
+    "deal": {
+      "dateFound": "2026-10-01",
+      "expiry": "ongoing (standing referral program, thread posted 2026-09-09)",
+      "offer": "30 days of Bevel Pro free for referees via the referral program (Pro normally US$14.99/month or $99.99/year; unlocks Bevel Intelligence AI coaching, Health Records, Biological Age).",
+      "source": "https://www.ozbargain.com.au/node/974411"
+    },
+    "developer": "Starlight Tech LLC",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-01",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fd/b8/b9/fdb8b95c-d5bb-d441-046a-cbb2bc550d29/AppIconFlatAuto-0-0-1x_U007ephone-0-0-0-1-0-0-85-220.png/100x100bb.jpg",
+    "name": "Bevel: AI Health Coach",
+    "oneLine": "AI health coach on top of Apple Health: recovery, sleep, strain, nutrition, strength plans and biological age (4.9 stars, 16k+ ratings).",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing+description",
+    "adsFree": true,
+    "appStoreId": "1541447815",
+    "appStoreUrl": "https://apps.apple.com/us/app/pocket-invoice-invoice-maker/id1541447815",
+    "category": "Finance",
+    "deal": {
+      "dateFound": "2026-10-01",
+      "expiry": "unknown (developer dropped the paywall in-app; still free on the live listing as of 2026-10-01 — verify before grabbing)",
+      "offer": "All premium features free (was ~$59.99/year): the developer dropped the paywall — the listing now states 'All features are free to use—no subscription required'.",
+      "source": "https://gummysearch.com/r/AppHookup/",
+      "lastChecked": "2026-10-01"
+    },
+    "developer": "Northline Technology Co., Ltd.",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-10-01",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/5d/63/7b5d636a-292a-81e4-839e-8964a7937232/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "name": "Pocket Invoice: Invoice Maker",
+    "oneLine": "Professional invoice and estimate maker for freelancers and small businesses: e-signatures, client management, reports and inventory — paywall dropped, everything free.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing+description",
+    "adsFree": true,
+    "appStoreId": "1498019884",
+    "appStoreUrl": "https://apps.apple.com/us/app/castlevania-40th-anniversary/id1498019884",
+    "category": "Games",
+    "deal": {
+      "dateFound": "2026-10-01",
+      "expiry": "2026-10-24",
+      "offer": "FREE full-game download until Oct 24 (Konami's 40th Anniversary promo): claim it now to keep it forever - Konami says the game remains playable even after its App Store availability ends.",
+      "source": "https://t.me/freegames/9166"
+    },
+    "developer": "Konami Digital Entertainment Co., Ltd.",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-10-01",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/27/af/ed27afe5-3d3a-2033-a2f0-2f5b42e15baa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "name": "Castlevania: 40th Anniversary",
+    "oneLine": "Konami's 40th-anniversary mobile port of the original Castlevania: full game, free download, offline single-player, no in-app purchases, no ads mentioned.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing+description",
+    "adsFree": true,
+    "appStoreId": "666526099",
+    "appStoreUrl": "https://apps.apple.com/us/app/bugs-and-insects-with-grandma/id666526099",
+    "category": "Education",
+    "deal": {
+      "dateFound": "2026-10-01",
+      "expiry": "unknown (no stated end; price drop from $2.99 to Free — verify before grabbing)",
+      "offer": "Full app FREE (was $2.99): 10 bug mini-games + 8 narrated real-bug videos for ages 6 and under, developed by an educational psychologist with a parental gate.",
+      "source": "https://t.me/freegames/9182"
+    },
+    "developer": "Fairlady Media",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-10-01",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/f3/e5/a6f3e5c9-b73c-bfef-7bbb-c3eb2cf91fa4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "name": "Bugs and Insects with Grandma",
+    "oneLine": "Kids bug-learning app (ages 6 and under): 10 mini-games and 8 narrated real-bug videos, with a parental gate for external links.",
+    "price": "Free"
+  }
+]
