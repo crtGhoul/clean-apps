@@ -12,12 +12,18 @@ A curated, verified directory of iPhone apps: **minimum ads, no paywall, no paid
 
 | Path | What it is |
 |---|---|
-| `apps.json` | 150 verified apps (fields: name, appStoreId, category, price, hasIAP, adsTier, version, …) |
-| `deals.json` | Time-sensitive free-premium / lifetime-unlock deals (`deal.wasPrice`, `deal.dealKind`) |
+| `apps.json` | 162 verified apps (fields: name, appStoreId, category, price, hasIAP, adsTier, version, catchLabel, privacy, …) |
+| `deals.json` | Time-sensitive free-premium / lifetime-unlock deals (`deal.wasPrice`, `deal.dealKind`, `deal.firstTimeFree`) |
 | `knockoffs.json` | Flagged App Store knockoffs (feeds the checker's warning banner) |
 | `traitors.json` | Apps that turned dirty after being listed (never silently deleted) |
-| `alternatives.json` | 50 "clean alternative to X" mappings (SEO pages) |
+| `alternatives.json` | 52 "clean alternative to X" mappings with `popularAppAnnualCost` (SEO pages show "switching saves $X/yr") |
+| `bad_actors.json` | Developers rejected on sight (deal + submission pipelines auto-reject) |
+| `deal-blocklist.json` | User-killed deals never to re-add |
 | `sweep.py` | Weekly App Store sweep: keyword enumeration, IAP/offer-label checks, `--version-check` mode |
+| `sweep-candidates.json` | Sweep candidates awaiting Wednesday human ad-review |
+| `sweep-rotation.json` | Keyword-rotation state for the Tuesday sweep |
+| `harvest_privacy.py` | Harvests App Store privacy-nutrition labels into `apps.json` |
+| `deal_lookup.py` | Deal lookup helpers |
 | `measure.py` | Directory measurement helpers |
 | `backfill_versions.py` | One-time: backfill App Store versions into `apps.json` |
 | `site/clean-apps.html` | Exported built copy of the live site (reference only — not the editable source) |
