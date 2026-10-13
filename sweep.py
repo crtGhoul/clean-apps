@@ -43,6 +43,24 @@ KEYWORDS = [
 
 PAGE_DELAY = 1.5   # politeness delay between storefront fetches
 MAX_PER_RUN = 400  # cap on new candidates checked per run
+ROTATION_JSON = f"{BASE}/sweep-rotation.json"  # remembers where the keyword rotation left off
+
+
+def rotation_offset(n_keywords):
+    """Where this run should start in KEYWORDS. The 400/run cap means one run
+    only covers a few keyword groups, so without rotation the same head
+    keywords would be swept every week and the tail never. The offset advances
+    by the number of fully-swept groups each run, cycling through all groups."""
+    try:
+        return json.load(open(ROTATION_JSON)).get("offset", 0) % n_keywords
+    except (FileNotFoundError, ValueError, KeyError):
+        return 0
+
+
+def save_rotation_offset(offset, n_keywords):
+    json.dump({"offset": offset % n_keywords,
+               "date": datetime.now(timezone.utc).strftime("%Y-%m-%d")},
+              open(ROTATION_JSON, "w"))
 
 
 def itunes_search(term, limit=200):
@@ -170,9 +188,14 @@ def main():
         version_check()
         return
     test = "--test" in sys.argv
-    keywords = KEYWORDS[:2] if test else KEYWORDS
+    if test:
+        keywords, offset = KEYWORDS[:2], 0
+    else:
+        offset = rotation_offset(len(KEYWORDS))
+        keywords = KEYWORDS[offset:] + KEYWORDS[:offset]
     known = load_known_ids()
     seen, checked, candidates = set(), 0, []
+    groups_completed = 0
 
     for kw in keywords:
         try:
@@ -223,6 +246,7 @@ def main():
                   f"adSignal={candidates[-1]['adSignal']} isNew={candidates[-1]['isNew']}")
         if checked >= MAX_PER_RUN and not test:
             break
+        groups_completed += 1
 
     print(f"[sweep] done: {checked} listings checked, {len(candidates)} candidates")
     if test:
@@ -235,6 +259,11 @@ def main():
     existing.extend(candidates)
     json.dump(existing, open(CANDIDATES_JSON, "w"), indent=2, ensure_ascii=False)
     print(f"[sweep] wrote {len(existing)} total candidates to {CANDIDATES_JSON}")
+    # Advance the keyword rotation past the fully-swept groups so next week's
+    # run covers new ground instead of re-sweeping the same head keywords.
+    # The group where the cap hit is NOT advanced past — it gets retried.
+    save_rotation_offset(offset + groups_completed, len(KEYWORDS))
+    print(f"[sweep] rotation offset -> {(offset + groups_completed) % len(KEYWORDS)}")
 
 
 if __name__ == "__main__":
