@@ -1,1 +1,51 @@
-[]
+{
+  "1513554812": {
+    "name": "Zotero",
+    "oldVersion": null,
+    "newVersion": "2.0.8",
+    "status": "reverified",
+    "date": "2026-10-04"
+  },
+  "1072807669": {
+    "name": "foobar2000",
+    "oldVersion": null,
+    "newVersion": "2.25.10",
+    "status": "reverified",
+    "date": "2026-10-04"
+  },
+  "6593660679": {
+    "name": "Streamyfin",
+    "oldVersion": null,
+    "newVersion": "0.55.0",
+    "status": "reverified",
+    "date": "2026-10-04"
+  },
+  "1374073304": {
+    "name": "Whale - Naver Whale Browser",
+    "oldVersion": null,
+    "newVersion": "4.0.2",
+    "status": "reverified",
+    "date": "2026-10-04"
+  },
+  "6497335175": {
+    "name": "Bitwarden Authenticator",
+    "oldVersion": null,
+    "newVersion": "2026.9.1",
+    "status": "reverified",
+    "date": "2026-10-04"
+  },
+  "292987597": {
+    "name": "White Noise Lite",
+    "oldVersion": null,
+    "newVersion": "8.7.3",
+    "status": "reverified",
+    "date": "2026-10-04"
+  },
+  "324906251": {
+    "name": "NPR: National & Local News",
+    "oldVersion": null,
+    "newVersion": "7.10.2",
+    "status": "reverified",
+    "date": "2026-10-04"
+  }
+}
