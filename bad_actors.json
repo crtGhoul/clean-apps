@@ -1,0 +1,82 @@
+[
+  {
+    "developer": "Ginger Labs, Inc.",
+    "apps": [
+      "Notability"
+    ],
+    "whatHappened": "Switched the $8.99 one-time-purchase app to freemium subscription and told existing paid users their features would stop working after 1 year; after 2 days of intense backlash (users cited App Store guideline 3.1.2(a)) the company reversed course and granted lifetime access to all prior purchasers.",
+    "date": "2021-11",
+    "sources": [
+      "https://www.macrumors.com/2021/11/02/notability-users-frustrated-subscription-model/?Bibblio_source=true",
+      "https://9to5mac.com/2021/11/03/notability-subscription-broke-app-store-rules/",
+      "https://www.imore.com/notability-users-will-no-longer-lose-features-they-paid-part-apps-impending-freemium-switch",
+      "https://appleinsider.com/articles/21/11/03/notability-backs-down-on-subscriptions-for-existing-users"
+    ],
+    "evidenceGrade": "press",
+    "public": true,
+    "dateFlagged": "2026-10-06"
+  },
+  {
+    "developer": "Bloop S.R.L",
+    "apps": [
+      "Airmail"
+    ],
+    "whatHappened": "Unannounced switch from $4.99 one-time purchase to $2.99/month or $9.99/year subscription; push notifications and multi-account support were paywalled for users who had already paid; after backlash the dev partially reversed, restoring push notifications for existing purchasers in v1.8.26.",
+    "date": "2019-07",
+    "sources": [
+      "https://www.macrumors.com/2019/07/15/airmail-subscription-based-pricing/",
+      "https://www.imore.com/ios-app-airmail-unannounced-switch-subscription-based-pricing-angers-users",
+      "https://www.iphoneincanada.ca/2019/07/16/airmail-subscription-model-sparks-outrage/"
+    ],
+    "evidenceGrade": "press",
+    "public": true,
+    "dateFlagged": "2026-10-06"
+  },
+  {
+    "developer": "FiLMiC Inc (now Bending Spoons Apps ApS)",
+    "apps": [
+      "FiLMiC Pro",
+      "FiLMiC Legacy"
+    ],
+    "whatHappened": "v7 replaced the one-time purchase with a $2.99/week or $50/year subscription; users who had paid felt bait-and-switched (recording worked but exporting required a subscription); the dev offered FiLMiC Legacy (v6) as a fallback for existing users.",
+    "date": "2022-12",
+    "sources": [
+      "https://piunikaweb.com/2022/12/30/filmic-pro-subscription-based-model-with-v7-update-faces-flak/",
+      "https://nofilmschool.com/filmic-pro-vs-7-and-its-weekly-subscription-has-arrived",
+      "https://www.4kshooters.net/2022/09/06/filmic-pros-new-pricing-scheme-raises-ire-of-mobile-filmmakers/"
+    ],
+    "evidenceGrade": "press",
+    "public": true,
+    "dateFlagged": "2026-10-06"
+  },
+  {
+    "developer": "Fongo Inc.",
+    "apps": [
+      "Fongo"
+    ],
+    "whatHappened": "In Q1 2024 Fongo revoked previously-sold Lifetime Ad Removal licenses and replaced them with a monthly subscription (offering ~24 months of the new sub as compensation); users reported ads reappearing despite their lifetime purchase.",
+    "date": "2024-04",
+    "sources": [
+      "https://forums.redflagdeals.com/fongo-app-removing-my-c-permanent-ads-removal-c-purchase-2686747/",
+      "https://www.reddit.com/r/Fongo/comments/1bzxzr5/ads_have_started_appearing_even_with_lifetime/",
+      "https://consumerrights.wiki/index.php?title=Fongo_changes_purchased_Lifetime_Ad_Removal_to_Monthly_Subscription&diff=cur&oldid=9444&mobileaction=toggle_view_mobile"
+    ],
+    "evidenceGrade": "community",
+    "public": false,
+    "dateFlagged": "2026-10-06"
+  },
+  {
+    "developer": "The Iconfactory",
+    "apps": [
+      "Linea Sketch"
+    ],
+    "whatHappened": "A v2 auto-update pushed paid users into the new subscription model, watermarking existing artwork unless they subscribed; users complained they were never clearly warned before updating.",
+    "date": "2020-04",
+    "sources": [
+      "https://forums.macrumors.com/threads/linea-sketch-joins-the-subscription-band-wagon.2229950/"
+    ],
+    "evidenceGrade": "community",
+    "public": false,
+    "dateFlagged": "2026-10-06"
+  }
+]
