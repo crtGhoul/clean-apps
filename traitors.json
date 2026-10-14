@@ -1,15 +1,71 @@
 [
- {
-  "name": "Enclave - Local AI Assistant",
-  "appStoreId": "6476614556",
-  "dateFlagged": "2026-10-07",
-  "whatChanged": "In-App Purchases label appeared on the App Store listing (absent at verification 2026-10-06). Description advertises a Pro subscription for cloud models.",
-  "action": "removed from clean listings"
- },
- {
-  "name": "Memodo: Local AI Note Taker",
-  "appStoreId": "6816436573",
-  "dateFlagged": "2026-10-11",
-  "whatChanged": "Deal died: returned to paid ($4.99) on the US App Store. Removed from free-apps directory."
- }
+  {
+    "name": "Enclave - Local AI Assistant",
+    "appStoreId": "6476614556",
+    "dateFlagged": "2026-10-07",
+    "whatChanged": "In-App Purchases label appeared on the App Store listing (absent at verification 2026-10-06). Description advertises a Pro subscription for cloud models.",
+    "action": "removed from clean listings"
+  },
+  {
+    "name": "Memodo: Local AI Note Taker",
+    "appStoreId": "6816436573",
+    "dateFlagged": "2026-10-11",
+    "whatChanged": "Deal died: returned to paid ($4.99) on the US App Store. Removed from free-apps directory."
+  },
+  {
+    "name": "theScore: Sports News & Scores",
+    "appStoreId": "285692706",
+    "dateFlagged": "2026-10-14",
+    "oldVersion": "26.15.0",
+    "newVersion": "26.15.1",
+    "whatChanged": "ad-traitor signal: 3 recent reviews complain about ads (tier=minimal); e.g. 'Ads: Ads with sound auto play when scrolling the news and there’s no way to turn it off.'"
+  },
+  {
+    "name": "Goodreads: Book Tracker & More",
+    "appStoreId": "355833469",
+    "dateFlagged": "2026-10-14",
+    "oldVersion": "4.36.1",
+    "newVersion": "4.37.0",
+    "whatChanged": "ad-traitor signal: 4 recent reviews complain about ads (tier=minimal); e.g. 'Nice app; the ads are insufferable: Goodreads is nice. A good way to log books I’ve read and record my reactions. But the app is inundat'"
+  },
+  {
+    "name": "Slickdeals: Deals & Discounts",
+    "appStoreId": "584632814",
+    "dateFlagged": "2026-10-14",
+    "oldVersion": "6.34.1",
+    "newVersion": "6.35.0",
+    "whatChanged": "ad-traitor signal: 5 recent reviews complain about ads (tier=minimal); e.g. 'Popup Trash: Popup ads for apps, except it’s not really just a Popup, you just get thrown into the App Store with'"
+  },
+  {
+    "name": "Yahoo Weather: Daily Forecasts",
+    "appStoreId": "628677149",
+    "dateFlagged": "2026-10-14",
+    "oldVersion": "3.2.3",
+    "newVersion": "3.2.4",
+    "whatChanged": "ad-traitor signal: 7 recent reviews complain about ads (tier=minimal); e.g. 'Don’t update your phones old app: Rats! I wish I hadn’t updated my app. The interface is completely different and I used this app on a'"
+  },
+  {
+    "name": "Yahoo Sports: Scores and News",
+    "appStoreId": "286058814",
+    "dateFlagged": "2026-10-14",
+    "oldVersion": "12.25.0",
+    "newVersion": "12.26.0",
+    "whatChanged": "ad-traitor signal: 10 recent reviews complain about ads (tier=minimal); e.g. 'Total junk: Now there’s forced ads and a milestones bar that you can never turn off… For anyone who used to like'"
+  },
+  {
+    "name": "ABC News: Live & Breaking",
+    "appStoreId": "300255638",
+    "dateFlagged": "2026-10-14",
+    "oldVersion": "8.97.0",
+    "newVersion": "8.98.0",
+    "whatChanged": "ad-traitor signal: 3 recent reviews complain about ads (tier=minimal); e.g. 'Too many ads: Up to date news reporting with endless ads'"
+  },
+  {
+    "name": "PocketPal AI",
+    "appStoreId": "6502579498",
+    "dateFlagged": "2026-10-14",
+    "oldVersion": "v1.18.0",
+    "newVersion": "v1.19.1",
+    "whatChanged": "added In-App Purchases label"
+  }
 ]
