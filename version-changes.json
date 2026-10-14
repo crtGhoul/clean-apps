@@ -1,51 +1,416 @@
-{
-  "1513554812": {
-    "name": "Zotero",
-    "oldVersion": null,
-    "newVersion": "2.0.8",
+[
+  {
+    "appStoreId": "1029207872",
+    "name": "Google Keep",
+    "oldVersion": "2.2026.39103",
+    "newVersion": "2.2026.41101",
+    "dateDetected": "2026-10-14",
     "status": "reverified",
-    "date": "2026-10-04"
+    "date": "2026-10-14"
   },
-  "1072807669": {
-    "name": "foobar2000",
-    "oldVersion": null,
-    "newVersion": "2.25.10",
+  {
+    "appStoreId": "1353634006",
+    "name": "Google Tasks",
+    "oldVersion": "26.39.0",
+    "newVersion": "26.41.0",
+    "dateDetected": "2026-10-14",
     "status": "reverified",
-    "date": "2026-10-04"
+    "date": "2026-10-14"
   },
-  "6593660679": {
+  {
+    "appStoreId": "414706506",
+    "name": "Google Translate",
+    "oldVersion": "10.40.384",
+    "newVersion": "10.42.291",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "1557175442",
+    "name": "Obsidian",
+    "oldVersion": "1.13.7",
+    "newVersion": "1.14.5",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "6444121398",
+    "name": "Ente Auth",
+    "oldVersion": "v4.4.25",
+    "newVersion": "v4.4.26",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "1504416652",
+    "name": "GeoGebra Calculator Suite",
+    "oldVersion": "5.4.930",
+    "newVersion": "5.4.932",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "1470499037",
+    "name": "Tailscale",
+    "oldVersion": "1.102.4",
+    "newVersion": "1.104.1",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "439438619",
+    "name": "Snapseed: Photo Editor",
+    "oldVersion": "4.1.4",
+    "newVersion": "4.1.5",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "6449580241",
+    "name": "Blackmagic Camera",
+    "oldVersion": "3.5.1",
+    "newVersion": "3.5.2",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "1491270519",
+    "name": "Audius Music",
+    "oldVersion": "1.1.198",
+    "newVersion": "1.1.199",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "310211433",
+    "name": "Radio France - podcast, direct",
+    "oldVersion": "10.0.0",
+    "newVersion": "10.0.2",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "433155921",
+    "name": "DR LYD",
+    "oldVersion": "8.42.0",
+    "newVersion": "8.43.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "542317657",
+    "name": "Yle Areena",
+    "oldVersion": "11.5.0",
+    "newVersion": "11.6.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "6593660679",
     "name": "Streamyfin",
-    "oldVersion": null,
-    "newVersion": "0.55.0",
+    "oldVersion": "0.55.0",
+    "newVersion": "0.55.2",
+    "dateDetected": "2026-10-14",
     "status": "reverified",
-    "date": "2026-10-04"
+    "date": "2026-10-14"
   },
-  "1374073304": {
+  {
+    "appStoreId": "343544214",
+    "name": "SVT Play",
+    "oldVersion": "10.26.0",
+    "newVersion": "10.27.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "989804926",
+    "name": "Firefox",
+    "oldVersion": "157.0",
+    "newVersion": "158.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "1374073304",
     "name": "Whale - Naver Whale Browser",
-    "oldVersion": null,
-    "newVersion": "4.0.2",
+    "oldVersion": "4.0.2",
+    "newVersion": "4.0.3",
+    "dateDetected": "2026-10-14",
     "status": "reverified",
-    "date": "2026-10-04"
+    "date": "2026-10-14"
   },
-  "6497335175": {
-    "name": "Bitwarden Authenticator",
-    "oldVersion": null,
-    "newVersion": "2026.9.1",
+  {
+    "appStoreId": "6741758667",
+    "name": "Proton Authenticator",
+    "oldVersion": "1.4.4",
+    "newVersion": "1.4.5",
+    "dateDetected": "2026-10-14",
     "status": "reverified",
-    "date": "2026-10-04"
+    "date": "2026-10-14"
   },
-  "292987597": {
-    "name": "White Noise Lite",
-    "oldVersion": null,
-    "newVersion": "8.7.3",
+  {
+    "appStoreId": "422663827",
+    "name": "Duo Mobile",
+    "oldVersion": "4.122.0",
+    "newVersion": "4.123.0",
+    "dateDetected": "2026-10-14",
     "status": "reverified",
-    "date": "2026-10-04"
+    "date": "2026-10-14"
   },
-  "324906251": {
-    "name": "NPR: National & Local News",
-    "oldVersion": null,
-    "newVersion": "7.10.2",
+  {
+    "appStoreId": "490989206",
+    "name": "Yr.no",
+    "oldVersion": "6.3.8",
+    "newVersion": "6.4.0",
+    "dateDetected": "2026-10-14",
     "status": "reverified",
-    "date": "2026-10-04"
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "1146717204",
+    "name": "GeoGebra Graphing Calculator",
+    "oldVersion": "5.4.930",
+    "newVersion": "5.4.932",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "580643740",
+    "name": "Hoopla: Your Library Anywhere",
+    "oldVersion": "4.88",
+    "newVersion": "5.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "293622097",
+    "name": "Google Earth",
+    "oldVersion": "10.119.62",
+    "newVersion": "10.121.84",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "376183339",
+    "name": "TED Talks: Watch and Learn",
+    "oldVersion": "8009",
+    "newVersion": "8010",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "284993459",
+    "name": "Shazam: Find Music & Concerts",
+    "oldVersion": "27.0",
+    "newVersion": "27.1",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "515127233",
+    "name": "WordReference Dictionary",
+    "oldVersion": "5.0.95",
+    "newVersion": "5.0.97",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "285692706",
+    "name": "theScore: Sports News & Scores",
+    "oldVersion": "26.15.0",
+    "newVersion": "26.15.1",
+    "dateDetected": "2026-10-14",
+    "status": "flagged-traitor",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "323229106",
+    "name": "Waze Navigation & Live Traffic",
+    "oldVersion": "5.24.5.1",
+    "newVersion": "5.25.5.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "284910350",
+    "name": "Yelp: Food, Services & Reviews",
+    "oldVersion": "26.40.0",
+    "newVersion": "26.42.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "355833469",
+    "name": "Goodreads: Book Tracker & More",
+    "oldVersion": "4.36.1",
+    "newVersion": "4.37.0",
+    "dateDetected": "2026-10-14",
+    "status": "flagged-traitor",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "315241195",
+    "name": "Xe Money Transfer & Currency",
+    "oldVersion": "8.0.7",
+    "newVersion": "8.0.8",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "725097967",
+    "name": "Flipp: Shop Grocery Deals",
+    "oldVersion": "111.0.0",
+    "newVersion": "112.0.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "584632814",
+    "name": "Slickdeals: Deals & Discounts",
+    "oldVersion": "6.34.1",
+    "newVersion": "6.35.0",
+    "dateDetected": "2026-10-14",
+    "status": "flagged-traitor",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "376888389",
+    "name": "trivago: Compare hotel prices",
+    "oldVersion": "6.68.1",
+    "newVersion": "7.0.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "415458524",
+    "name": "Skyscanner Flights & Travel",
+    "oldVersion": "7.211",
+    "newVersion": "7.212",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "305204535",
+    "name": "KAYAK: Flights, Hotels & Cars",
+    "oldVersion": "295.0.1",
+    "newVersion": "296.0.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "284876795",
+    "name": "Tripadvisor: Plan & Book Trips",
+    "oldVersion": "70.1.0",
+    "newVersion": "70.2.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "904052407",
+    "name": "Hopper: Flights, Hotels & Cars",
+    "oldVersion": "7.118.0",
+    "newVersion": "7.119.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "628677149",
+    "name": "Yahoo Weather: Daily Forecasts",
+    "oldVersion": "3.2.3",
+    "newVersion": "3.2.4",
+    "dateDetected": "2026-10-14",
+    "status": "flagged-traitor",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "286058814",
+    "name": "Yahoo Sports: Scores and News",
+    "oldVersion": "12.25.0",
+    "newVersion": "12.26.0",
+    "dateDetected": "2026-10-14",
+    "status": "flagged-traitor",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "300255638",
+    "name": "ABC News: Live & Breaking",
+    "oldVersion": "8.97.0",
+    "newVersion": "8.98.0",
+    "dateDetected": "2026-10-14",
+    "status": "flagged-traitor",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "342254135",
+    "name": "KEXP",
+    "oldVersion": "4.5.1",
+    "newVersion": "4.6.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "470493202",
+    "name": "RTÉ Listen",
+    "oldVersion": "30.24.0 (297)",
+    "newVersion": "30.26.0 (298)",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "6745342698",
+    "name": "uBlock Origin Lite",
+    "oldVersion": "2026.930.1227",
+    "newVersion": "2026.1012.1545",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "1112482869",
+    "name": "ABC Kids - Tracing & Phonics",
+    "oldVersion": "2.2.9",
+    "newVersion": "2.3.0",
+    "dateDetected": "2026-10-14",
+    "status": "reverified",
+    "date": "2026-10-14"
+  },
+  {
+    "appStoreId": "6502579498",
+    "name": "PocketPal AI",
+    "oldVersion": "v1.18.0",
+    "newVersion": "v1.19.1",
+    "dateDetected": "2026-10-14",
+    "status": "flagged-traitor",
+    "date": "2026-10-14"
   }
-}
+]
