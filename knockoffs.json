@@ -1,1 +1,42 @@
-[]
+[
+  {
+    "name": "Drops for Claude Code",
+    "appStoreId": "6760681118",
+    "appStoreUrl": "https://apps.apple.com/us/app/id6760681118",
+    "impersonates": "Claude",
+    "officialDeveloper": "Anthropic PBC",
+    "knockoffSeller": "Parra LLC",
+    "whyFlagged": "free download with weekly-subscription IAP trap",
+    "dateFlagged": "2026-10-14"
+  },
+  {
+    "name": "Prompts for Midjourney AI: MLX",
+    "appStoreId": "6755180534",
+    "appStoreUrl": "https://apps.apple.com/us/app/id6755180534",
+    "impersonates": "Midjourney",
+    "officialDeveloper": "Midjourney",
+    "knockoffSeller": "Patel Sameer Ibrahim",
+    "whyFlagged": "free download with weekly-subscription IAP trap",
+    "dateFlagged": "2026-10-14"
+  },
+  {
+    "name": "Image with Midjourney Studio",
+    "appStoreId": "6767476824",
+    "appStoreUrl": "https://apps.apple.com/us/app/id6767476824",
+    "impersonates": "Midjourney",
+    "officialDeveloper": "Midjourney",
+    "knockoffSeller": "SUNONE P.C.",
+    "whyFlagged": "free download with weekly-subscription IAP trap",
+    "dateFlagged": "2026-10-14"
+  },
+  {
+    "name": "Prompts for Midjourney AI: Art",
+    "appStoreId": "6761429712",
+    "appStoreUrl": "https://apps.apple.com/us/app/id6761429712",
+    "impersonates": "Midjourney",
+    "officialDeveloper": "Midjourney",
+    "knockoffSeller": "Oleksandr Mahas",
+    "whyFlagged": "free download with weekly-subscription IAP trap",
+    "dateFlagged": "2026-10-14"
+  }
+]
