@@ -20,7 +20,8 @@ import urllib.error
 import http.client
 
 APPS_JSON = "/home/hatch/workspace/clean-apps/apps.json"
-CHECK_DATE = "2026-10-04"
+from datetime import datetime, timezone
+CHECK_DATE = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 DELAY = 1.5
 
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
@@ -192,7 +193,9 @@ def harvest_one(app):
 def main():
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else None
     apps = json.load(open(APPS_JSON, encoding="utf-8"))
-    targets = apps if limit is None else apps[:limit]
+    targets = [a for a in apps if not a.get("privacy")]
+    if limit is not None:
+        targets = targets[:limit]
     full = partial = null = 0
     for n, app in enumerate(targets, 1):
         try:
