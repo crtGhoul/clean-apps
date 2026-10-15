@@ -33,7 +33,7 @@
       "expiry": "2026-10-17",
       "offer": "100% off FindNRefill Pro (was A$7.99): redeem Apple offer code OZBARGAIN at apps.apple.com/redeem - unlocks advanced price alerts, trip stops and full CarPlay access. Offer may be exhausted — verify before grabbing.",
       "source": "https://www.ozbargain.com.au/node/976585",
-      "lastChecked": "2026-10-13",
+      "lastChecked": "2026-10-15",
       "wasPrice": "A$7.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false
@@ -44,30 +44,6 @@
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/9e/ff/939effb6-2f56-3099-00df-fdd61b8ce64e/AppIcon-0-0-1x_U007epad-0-2-85-220.png/100x100bb.jpg",
     "name": "FindNRefill: Fuel & EV Savings",
     "oneLine": "Live petrol, diesel and EV charging price map with price-drop alerts, vehicle profiles and CarPlay support.",
-    "price": "Free"
-  },
-  {
-    "adsCheckMethod": "listing",
-    "adsFree": true,
-    "appStoreId": "6776191216",
-    "appStoreUrl": "https://apps.apple.com/au/app/chitpact/id6776191216",
-    "category": "Finance",
-    "deal": {
-      "dateFound": "2026-10-01",
-      "expiry": "2026-10-14",
-      "offer": "12 months free of the Essential plan (normally ~A$3/month): enter code FREEYEAR at app.chitpact.com - first 30 users, no credit card required. First 30 spots may be gone - verify before grabbing.",
-      "source": "https://www.ozbargain.com.au/node/975016",
-      "lastChecked": "2026-10-13",
-      "wasPrice": "~A$3/month",
-      "dealKind": "free-unlock",
-      "firstTimeFree": false
-    },
-    "developer": "Zayrium Pty Ltd",
-    "hasIAP": true,
-    "iapVerifiedDate": "2026-10-01",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/29/b4/3029b4ba-2d0f-661a-f001-0185ea5f600b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-    "name": "ChitPact",
-    "oneLine": "Bill-splitting app for housemates, couples and friends; no bank login required, hosted in Azure Australia East.",
     "price": "Free"
   },
   {
@@ -173,7 +149,7 @@
       "expiry": "unknown (developer dropped the paywall in-app; still free on the live listing as of 2026-10-01 — verify before grabbing)",
       "offer": "All premium features free (was ~$59.99/year): the developer dropped the paywall — the listing now states 'All features are free to use—no subscription required'.",
       "source": "https://gummysearch.com/r/AppHookup/",
-      "lastChecked": "2026-10-05",
+      "lastChecked": "2026-10-15",
       "wasPrice": "~$59.99/year",
       "dealKind": "free-unlock",
       "firstTimeFree": false
@@ -220,7 +196,7 @@
       "expiry": "unknown (posted 2026-10-02 — verify before grabbing)",
       "offer": "Free Lifetime (normally $19.99): countdowns and anniversaries in one app, with a real lunar calendar and holiday rules for 16 regions.",
       "source": "https://t.me/freegames",
-      "lastChecked": "2026-10-14",
+      "lastChecked": "2026-10-15",
       "wasPrice": "$19.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false
@@ -244,7 +220,7 @@
       "expiry": "unknown (offer code MUTEVIDEO at apps.apple.com/redeem — verify before grabbing)",
       "offer": "Full app FREE (was $3.99): redeem Apple offer code MUTEVIDEO at apps.apple.com/redeem — mute videos and extract audio on-device, no uploads.",
       "source": "https://t.me/freegames",
-      "lastChecked": "2026-10-02",
+      "lastChecked": "2026-10-15",
       "wasPrice": "$3.99",
       "dealKind": "gone-free",
       "firstTimeFree": true
@@ -268,7 +244,7 @@
       "expiry": "unknown (price drop from $1.99 to Free — verify before grabbing)",
       "offer": "Full game FREE (was $1.99): 50 handcrafted gravity puzzles — you rotate the world, not the blocks. No in-app purchases, no ads.",
       "source": "https://tx.me/s/r_apphookup",
-      "lastChecked": "2026-10-02",
+      "lastChecked": "2026-10-15",
       "wasPrice": "$1.99",
       "dealKind": "gone-free",
       "firstTimeFree": true
@@ -292,7 +268,7 @@
       "expiry": "unknown (price drop from $3 to Free — verify before grabbing)",
       "offer": "Full app FREE (was $3): kids piano + spelling learning app (ages 2+) with a friendly baby-dino guide. No in-app purchases.",
       "source": "https://9to5toys.com/2026/10/02/ios-app-deals-not-another-weekend/",
-      "lastChecked": "2026-10-02",
+      "lastChecked": "2026-10-15",
       "wasPrice": "$3",
       "dealKind": "gone-free",
       "firstTimeFree": true
@@ -304,30 +280,6 @@
     "name": "Baba Piano - Music & Spelling",
     "oneLine": "Kids piano and spelling learning app (ages 2+) with a friendly baby-dino guide.",
     "price": "Free"
-  },
-  {
-    "name": "Pocket Delver",
-    "appStoreId": "6764038610",
-    "appStoreUrl": "https://apps.apple.com/us/app/pocket-delver/id6764038610",
-    "developer": "SPECTADO, s.r.o.",
-    "category": "Games",
-    "price": "Free",
-    "hasIAP": false,
-    "iapVerifiedDate": "2026-10-04",
-    "adsTier": null,
-    "adsFree": true,
-    "adsCheckMethod": "listing+description",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/72/14/b9721429-8796-1e75-c63e-d5e81e05bf14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-    "oneLine": "Tight retro puzzle game about digging, falling rocks and sparkling gems - hand-crafted levels, no ads, no in-app purchases, playable offline.",
-    "deal": {
-      "dateFound": "2026-10-04",
-      "offer": "Full game FREE (was $0.99): every hand-placed puzzle level, Game Center leaderboards and achievements - one purchase, the whole game.",
-      "expiry": "unknown (price drop - verify before grabbing)",
-      "source": "https://www.reddit.com/r/AppHookup/comments/1wweaol/ios_weekly_game_deals_post_blasphemous_planescape/",
-      "wasPrice": "$0.99",
-      "dealKind": "gone-free",
-      "firstTimeFree": true
-    }
   },
   {
     "name": "Goldweek - PTO and Vacation",
@@ -350,7 +302,7 @@
       "source": "@freegames",
       "wasPrice": "$9.99",
       "dealKind": "free-unlock",
-      "lastChecked": "2026-10-14",
+      "lastChecked": "2026-10-15",
       "firstTimeFree": false
     }
   },
@@ -411,7 +363,7 @@
       "expiry": "~2026-10-13 (1-week giveaway — verify before grabbing)",
       "offer": "Lifetime Pro FREE (was $49.99): the live listing shows 'MindPass Pro Lifetime $0.00' — install/update to v1.5.1+, finish the welcome screens → Settings → 'Lifetime Pro. On us.' → claim. App blocker that trades scrolling for short reads.",
       "source": "https://www.reddit.com/r/AppGiveaway/comments/1wzd6ss/ios_4999_free_lifetime_mindpass_less_scrolling/",
-      "lastChecked": "2026-10-14",
+      "lastChecked": "2026-10-15",
       "wasPrice": "$49.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false
@@ -438,7 +390,7 @@
       "wasPrice": "$9.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-10-14"
+      "lastChecked": "2026-10-15"
     },
     "developer": "DJAMSHID JURAYEV",
     "hasIAP": false,
@@ -701,7 +653,7 @@
       "offer": "Full app FREE (was $14.99): Log your floss by DMC or Anchor color number, track every project in one place, and get a shopping list so you never buy a duplicate skein. 4.6 stars. Has in-app purchases.",
       "expiry": "unknown (gone-free price drop — verify before grabbing)",
       "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
-      "lastChecked": "2026-10-14",
+      "lastChecked": "2026-10-15",
       "wasPrice": "$14.99",
       "dealKind": "gone-free",
       "firstTimeFree": true
@@ -726,7 +678,7 @@
       "offer": "Full app FREE (was $14.99): Recipe manager that imports recipes from almost any website — ingredients, steps, cook times, serving sizes. Handy for meal prep and weekly plans. No in-app purchases.",
       "expiry": "unknown (gone-free price drop — verify before grabbing)",
       "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
-      "lastChecked": "2026-10-14",
+      "lastChecked": "2026-10-15",
       "wasPrice": "$14.99",
       "dealKind": "gone-free",
       "firstTimeFree": true
@@ -751,7 +703,7 @@
       "offer": "Full app FREE (was $9.99): Reads the data your Apple Watch already collects and gives you a morning readiness score, then suggests push hard or take it easy. No extra hardware needed. Has in-app purchases.",
       "expiry": "unknown (gone-free price drop — verify before grabbing)",
       "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
-      "lastChecked": "2026-10-14",
+      "lastChecked": "2026-10-15",
       "wasPrice": "$9.99",
       "dealKind": "gone-free",
       "firstTimeFree": true
@@ -776,7 +728,7 @@
       "offer": "Full app FREE (was $1.99): Retro photo app for lomography-style shots. 4.5 stars from 292 ratings. Has in-app purchases.",
       "expiry": "unknown (gone-free price drop — verify before grabbing)",
       "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
-      "lastChecked": "2026-10-14",
+      "lastChecked": "2026-10-15",
       "wasPrice": "$1.99",
       "dealKind": "gone-free",
       "firstTimeFree": true
@@ -801,8 +753,56 @@
       "offer": "Full app FREE (was $0.99): Pixel art editor for iPhone and iPad. 4.7 stars. Has in-app purchases.",
       "expiry": "unknown (gone-free price drop — verify before grabbing)",
       "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
-      "lastChecked": "2026-10-14",
+      "lastChecked": "2026-10-15",
       "wasPrice": "$0.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    }
+  },
+  {
+    "name": "Times Tables: Math for Kids",
+    "appStoreId": "6741796505",
+    "appStoreUrl": "https://apps.apple.com/us/app/times-tables-math-for-kids/id6741796505",
+    "category": "Education",
+    "developer": "Titans of Industry",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-14",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/39/cf/b139cffd-dcae-1f5f-a362-941bfd3e97b8/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "3D times-tables practice for kids (3rd-5th grade): race, runner, bubbles and castle-builder games with a personal 3D buddy, streaks, and a parent report. No ads. Has in-app purchases.",
+    "adsCheckMethod": "listing+description",
+    "adsFree": true,
+    "deal": {
+      "dateFound": "2026-10-14",
+      "offer": "Free Lifetime premium (was $5.99 one-time): unlocks tables 6-12 plus the Candyville, Winterland, Desert and Moon worlds - 6 3D game modes, streaks, parent report. App itself is Free on the live listing with an 'Unlock all tables $5.99' IAP; the @freegames r/AppHookup mirror flags the lifetime unlock as free - verify before grabbing.",
+      "expiry": "unknown (limited-time promo - verify before grabbing)",
+      "source": "https://t.me/freegames/9207",
+      "wasPrice": "$5.99",
+      "dealKind": "free-unlock",
+      "lastChecked": "2026-10-15",
+      "firstTimeFree": false
+    }
+  },
+  {
+    "name": "PDF Reader Pro Edition®",
+    "appStoreId": "364502063",
+    "appStoreUrl": "https://apps.apple.com/us/app/pdf-reader-pro-edition/id364502063",
+    "developer": "iTECH DEVELOPMENT SYSTEMS INC.",
+    "category": "Business",
+    "price": "Free",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-10-15",
+    "adsTier": null,
+    "adsFree": true,
+    "adsCheckMethod": "listing",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/65/4c/e3/654ce352-faec-7822-29e3-dc99635581d1/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-10.png/100x100bb.jpg",
+    "oneLine": "Read, annotate and sign PDFs: highlights, stamps, signatures, form filling, built-in scanner and cloud support — no in-app purchases.",
+    "deal": {
+      "dateFound": "2026-10-15",
+      "offer": "Full app FREE (was $2): read, annotate and sign PDFs — highlights, stamps, signatures, form filling, built-in scanner and cloud support. 4.4 stars (1,732 ratings). No in-app purchases. Listing banner says 'ON SALE 80% OFF FOR A LIMITED TIME ONLY'. Note: app last updated 2019 — verify it runs well on your device before grabbing.",
+      "expiry": "unknown (price drop — verify before grabbing)",
+      "source": "https://9to5toys.com/2026/10/15/ios-app-deals/",
+      "wasPrice": "$2",
       "dealKind": "gone-free",
       "firstTimeFree": true
     }
