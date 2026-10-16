@@ -587,54 +587,6 @@
     }
   },
   {
-    "name": "Blackthorn Castle",
-    "appStoreId": "966038711",
-    "appStoreUrl": "https://apps.apple.com/us/app/blackthorn-castle/id966038711",
-    "developer": "Syntaxity Inc.",
-    "category": "Adventure",
-    "price": "Free",
-    "hasIAP": true,
-    "iapVerifiedDate": "2026-10-13",
-    "adsTier": null,
-    "adsFree": true,
-    "adsCheckMethod": "listing+description",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/ec/18/7a/ec187a1e-d7fa-6b73-f81b-aa350cbc80e5/AppIcon-1x_U007emarketing-0-7-85-220.png/100x100bb.jpg",
-    "oneLine": "Classic point-and-click adventure: hunt a stolen artifact through a forgotten 14th-century castle — dozens of puzzles, no ads; optional hint/fast-travel unlocks sold separately.",
-    "deal": {
-      "dateFound": "2026-10-13",
-      "offer": "Full game FREE (was $2.99): classic point-and-click adventure — explore the castle, dark forest and hidden passageways solving dozens of puzzles. 4.7 stars (1,181 ratings). No ads; hint and fast-travel unlocks ($0.99 each) sold separately.",
-      "expiry": "unknown (price drop from $2.99 to Free — verify before grabbing)",
-      "source": "https://360-reader.com/paid-iphone-games-gone-free/",
-      "wasPrice": "$2.99",
-      "dealKind": "gone-free",
-      "firstTimeFree": true
-    }
-  },
-  {
-    "name": "8bitWar: Origins",
-    "appStoreId": "890932971",
-    "appStoreUrl": "https://apps.apple.com/us/app/8bitwar-origins/id890932971",
-    "developer": "Rosendahl Software AB",
-    "category": "Strategy",
-    "price": "Free",
-    "hasIAP": false,
-    "iapVerifiedDate": "2026-10-13",
-    "adsTier": null,
-    "adsFree": true,
-    "adsCheckMethod": "listing+description",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/49/49/c4/4949c478-d4a0-97ca-9af9-ca684ab0dd42/mzl.kfvgmlni.png/100x100bb.jpg",
-    "oneLine": "Retro-styled tactics battler: hire units, set formations and outthink the enemy across 60 levels — same-device and online multiplayer, no ads, no in-app purchases.",
-    "deal": {
-      "dateFound": "2026-10-13",
-      "offer": "Full game FREE (was $1.99): retro tactics game — hire units, set formations and counter the enemy army across 60 levels, same-device or online multiplayer. 4.7 stars (193 ratings). No in-app purchases, no ads.",
-      "expiry": "unknown (price drop from $1.99 to Free — verify before grabbing)",
-      "source": "https://360-reader.com/paid-iphone-games-gone-free/",
-      "wasPrice": "$1.99",
-      "dealKind": "gone-free",
-      "firstTimeFree": true
-    }
-  },
-  {
     "name": "Stitch Organizer: Cross Stitch",
     "appStoreId": "6787266532",
     "appStoreUrl": "https://apps.apple.com/us/app/x/id6787266532",
@@ -806,5 +758,120 @@
       "dealKind": "gone-free",
       "firstTimeFree": true
     }
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "6761420833",
+    "appStoreUrl": "https://apps.apple.com/us/app/airpianopro/id6761420833",
+    "category": "Music",
+    "deal": {
+      "dateFound": "2026-10-16",
+      "expiry": "unknown",
+      "offer": "Full app FREE (was $5): play music in thin air with camera hand tracking, 128 HD instruments, looper, sequencer, effects and MIDI. Pro tier unlocked by a $4.99 one-time IAP.",
+      "source": "https://9to5toys.com/2026/10/16/ios-app-deals-sentinels-of-the-multiverse/",
+      "wasPrice": "$5.00",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "John Briscella",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-16",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/f3/50/5af35026-542b-c83b-9f0c-52af968d9a5b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "name": "AirPianoPro",
+    "oneLine": "Play 128 instruments in mid-air with camera hand tracking — no touch needed.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "1207247199",
+    "appStoreUrl": "https://apps.apple.com/us/app/pulse-metronome/id1207247199",
+    "category": "Music",
+    "deal": {
+      "dateFound": "2026-10-16",
+      "expiry": "dev states free through end of October 2026",
+      "offer": "Full app FREE (was $1): metronome with built-in timing exercises, setlists and classical tempo markings. Developer states the giveaway runs through the end of October. No in-app purchases, no data collected.",
+      "source": "https://9to5toys.com/2026/10/16/ios-app-deals-sentinels-of-the-multiverse/",
+      "wasPrice": "$1.00",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "thoor software AB",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-10-16",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/ac/03/9cac0378-5ed2-f7af-7125-c761fb626e04/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.jpg",
+    "name": "Pulse - Metronome",
+    "oneLine": "Metronome with timing exercises; dev says free till end of October.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "510249014",
+    "appStoreUrl": "https://apps.apple.com/us/app/level-hd/id510249014",
+    "category": "Utilities",
+    "deal": {
+      "dateFound": "2026-10-16",
+      "expiry": "unknown",
+      "offer": "Full app FREE (was $1): carpenter's level for iPhone and iPad. No in-app purchases, no data collected.",
+      "source": "https://9to5toys.com/2026/10/16/ios-app-deals-sentinels-of-the-multiverse/",
+      "wasPrice": "$1.00",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "良峰 侯",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-10-16",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/31/7a/5c/317a5c62-0c0f-38c8-b215-cbd1ab428d6b/AppIcon-EW-0-0-1x_U007emarketing-0-0-0-7-0-85-220-0.png/100x100bb.jpg",
+    "name": "Level HD.",
+    "oneLine": "Carpenter's bubble level for iPhone and iPad.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "937788787",
+    "appStoreUrl": "https://apps.apple.com/us/app/8bitwar-apokalyps/id937788787",
+    "category": "Games",
+    "deal": {
+      "dateFound": "2026-10-16",
+      "expiry": "unknown",
+      "offer": "Full game FREE (was $4): 180 levels of 8-bit strategy; play against a friend on the same device or online. No in-app purchases.",
+      "source": "https://9to5toys.com/2026/10/16/ios-app-deals-sentinels-of-the-multiverse/",
+      "wasPrice": "$4.00",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "Rosendahl Software AB",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-10-16",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/f9/3f/cb/f93fcbda-75f3-dc66-e780-1ba2b466d036/mzl.kkmamxdz.png/100x100bb.jpg",
+    "name": "8bitWar: Apokalyps",
+    "oneLine": "180 levels of 8-bit strategy warfare — hire units and counter the enemy army.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "6781537149",
+    "appStoreUrl": "https://apps.apple.com/us/app/not-my-tempo-voice-metronome/id6781537149",
+    "category": "Music",
+    "deal": {
+      "dateFound": "2026-10-16",
+      "expiry": "unknown",
+      "offer": "Pro Lifetime FREE (was $9.99): redeem Apple offer code OCTO at apps.apple.com/redeem — hands-free metronome you control by voice ('start', 'faster', 'tempo 120'). Open-ended dev promo, no stated limit; redeem soon.",
+      "source": "https://www.reddit.com/r/AppGiveaway/comments/1x4jxul/ios_not_my_tempo_pro_lifetime_999_usd_to_free/",
+      "wasPrice": "$9.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false
+    },
+    "developer": "hyunho lee",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-16",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/06/3a/ad/063aadc8-d43b-6142-7cd6-2660-9fa4-0a6c2b1b8b47/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "name": "Not My Tempo: Voice Metronome",
+    "oneLine": "Hands-free metronome you control with your voice.",
+    "price": "Free"
   }
 ]
