@@ -25,30 +25,6 @@
   {
     "adsCheckMethod": "listing",
     "adsFree": true,
-    "appStoreId": "6804344537",
-    "appStoreUrl": "https://apps.apple.com/us/app/findnrefill-fuel-ev-savings/id6804344537",
-    "category": "Navigation",
-    "deal": {
-      "dateFound": "2026-10-01",
-      "expiry": "2026-10-17",
-      "offer": "100% off FindNRefill Pro (was A$7.99): redeem Apple offer code OZBARGAIN at apps.apple.com/redeem - unlocks advanced price alerts, trip stops and full CarPlay access. Offer may be exhausted — verify before grabbing.",
-      "source": "https://www.ozbargain.com.au/node/976585",
-      "lastChecked": "2026-10-15",
-      "wasPrice": "A$7.99",
-      "dealKind": "free-unlock",
-      "firstTimeFree": false
-    },
-    "developer": "Marvin Reid",
-    "hasIAP": true,
-    "iapVerifiedDate": "2026-10-01",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/9e/ff/939effb6-2f56-3099-00df-fdd61b8ce64e/AppIcon-0-0-1x_U007epad-0-2-85-220.png/100x100bb.jpg",
-    "name": "FindNRefill: Fuel & EV Savings",
-    "oneLine": "Live petrol, diesel and EV charging price map with price-drop alerts, vehicle profiles and CarPlay support.",
-    "price": "Free"
-  },
-  {
-    "adsCheckMethod": "listing",
-    "adsFree": true,
     "appStoreId": "6761677088",
     "appStoreUrl": "https://apps.apple.com/us/app/dark-logger-migraine-tracker/id6761677088",
     "category": "Health & Fitness",
@@ -360,10 +336,10 @@
     "category": "Productivity",
     "deal": {
       "dateFound": "2026-10-08",
-      "expiry": "~2026-10-13 (1-week giveaway — verify before grabbing)",
+      "expiry": "~2026-10-15 (1-week giveaway likely ended — verify before grabbing)",
       "offer": "Lifetime Pro FREE (was $49.99): the live listing shows 'MindPass Pro Lifetime $0.00' — install/update to v1.5.1+, finish the welcome screens → Settings → 'Lifetime Pro. On us.' → claim. App blocker that trades scrolling for short reads.",
       "source": "https://www.reddit.com/r/AppGiveaway/comments/1wzd6ss/ios_4999_free_lifetime_mindpass_less_scrolling/",
-      "lastChecked": "2026-10-15",
+      "lastChecked": "2026-10-17",
       "wasPrice": "$49.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false
@@ -873,5 +849,124 @@
     "name": "Not My Tempo: Voice Metronome",
     "oneLine": "Hands-free metronome you control with your voice.",
     "price": "Free"
+  },
+  {
+    "name": "Palang Book: Kids Animation",
+    "appStoreId": "6789852144",
+    "appStoreUrl": "https://apps.apple.com/us/app/palang-book-kids-animation/id6789852144",
+    "developer": "hyunho lee",
+    "category": "Lifestyle",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-16",
+    "adsCheckMethod": "listing+description",
+    "adsFree": true,
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/66/7b/09667b49-a022-b079-c0ce-9d4e5d5ababf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "Kids flipbook animation app (iPad-only): trace 10 outline sets page by page, add stamps and colors, record voice, save finished animations as video.",
+    "deal": {
+      "dateFound": "2026-10-16",
+      "offer": "Lifetime Pass FREE (was $9.99): the maker gives the one-time Lifetime Pass away — redeem Apple offer code OCTO at apps.apple.com/redeem. Unlocks every tracing set incl. future ones, unlimited artworks/videos/pages and recording time, removes the end-card on saved videos; not a subscription, works with Family Sharing. Verify before grabbing.",
+      "expiry": "2026-10-31 (maker's promo, ends Oct 31)",
+      "source": "https://t.me/freegames/9212",
+      "wasPrice": "$9.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false
+    }
+  },
+  {
+    "name": "PocketTok - Save Videos",
+    "appStoreId": "6814715702",
+    "appStoreUrl": "https://apps.apple.com/us/app/pockettok-save-videos/id6814715702",
+    "developer": "TRILLIWON, Co.",
+    "category": "Photo & Video",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-17",
+    "adsTier": null,
+    "adsFree": true,
+    "adsCheckMethod": "dev-statement",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/ba/1d/c0ba1d21-669b-f051-2de7-5f0bbad297fc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "Save TikToks, reels and photo posts to a private on-device library — collections, creator/caption search, full-screen feed. No account, no ads.",
+    "deal": {
+      "dateFound": "2026-10-17",
+      "offer": "Lifetime Pro FREE (normally $99.99 — dev says this is the last time): download the app, open the upgrade screen, tap the Lifetime option and pick Lifetime — it's $0. Unlocks unlimited saves, auto-replay, PiP and background audio.",
+      "expiry": "unknown (dev says 'last time I'm doing this' — grab soon)",
+      "source": "https://www.reddit.com/r/AppGiveaway/comments/1x81t8i/ios9999_0_pockettok_tiktok_instagram_downloader/",
+      "wasPrice": "$99.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false
+    }
+  },
+  {
+    "name": "EchoDay: AI Calendar Planner",
+    "appStoreId": "6751630276",
+    "appStoreUrl": "https://apps.apple.com/us/app/echoday-ai-calendar-planner/id6751630276",
+    "developer": "App Lab Hub",
+    "category": "Productivity",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-17",
+    "adsTier": null,
+    "adsFree": true,
+    "adsCheckMethod": "dev-statement",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/48/2c/b7/482cb74b-3ab4-c0c5-8b0e-705694bc7b7b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+    "oneLine": "AI daily planner with Apple Intelligence: chat with your calendar, smart summaries, conflicts and priorities — all on-device, no cloud, no tracking. 4.4 stars.",
+    "deal": {
+      "dateFound": "2026-10-17",
+      "offer": "Lifetime Pro FREE (normally $39.99) for 48 hours: Settings → Upgrade → View All Plans. Privacy-first AI calendar that chats with your schedule — everything processed on-device.",
+      "expiry": "~2026-10-18 (48-hour window, posted ~2026-10-16 — verify before grabbing)",
+      "source": "https://www.reddit.com/r/AppHookup/comments/1wzch1v/iosdaily_planner_echoday3999_free_lifetimesmart/",
+      "wasPrice": "$39.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false
+    }
+  },
+  {
+    "name": "Say In Bulbs: LED Message Sign",
+    "appStoreId": "6808346842",
+    "appStoreUrl": "https://apps.apple.com/us/app/say-in-bulbs-led-message-sign/id6808346842",
+    "developer": "Kamil Popczyk",
+    "category": "Utilities",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-17",
+    "adsTier": null,
+    "adsFree": true,
+    "adsCheckMethod": "dev-statement",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/9c/ef/1f9cefe8-a6dc-79eb-632a-009b4f04435f/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "Turn any screen into a scrolling dot-matrix LED sign — airport pickups, concerts, games. Runs on iPhone, iPad, Mac, Watch and TV. No account, no analytics.",
+    "deal": {
+      "dateFound": "2026-10-17",
+      "offer": "Pro FREE (normally $3.99 one-time, not a subscription): 1,000 unlocks — open bypop.dev/sib-free, follow on any one social platform, pass the check, redeem the code in the App Store. Unlocks 6 LED colors, glow mode, effects and unlimited saved signs.",
+      "expiry": "2026-10-23 (or when the 1,000 codes run out — verify before grabbing)",
+      "source": "https://www.reddit.com/r/AppGiveaway/comments/1x7gc91/iosmacoswatchostvos_399_free_lifetime_pro_say_in/",
+      "wasPrice": "$3.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false
+    }
+  },
+  {
+    "name": "Private Safe Pic Vault: Tresor",
+    "appStoreId": "721103141",
+    "appStoreUrl": "https://apps.apple.com/us/app/private-safe-pic-vault-tresor/id721103141",
+    "developer": "Nitin Gohel",
+    "category": "Photo & Video",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-10-17",
+    "adsTier": null,
+    "adsFree": true,
+    "adsCheckMethod": "dev-statement",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/66/07/49/66074990-1e6d-85b1-cfd7-4700e92d6ade/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "Private photo/video vault with per-album PINs, break-in detection and local Wi-Fi transfer to Mac/PC — no account, media stays on-device.",
+    "deal": {
+      "dateFound": "2026-10-17",
+      "offer": "Lifetime PRO FREE (normally $29.99) for 48 hours: download the app and check the Lifetime PRO upgrade — confirm the price shows as FREE before completing.",
+      "expiry": "~2026-10-18 (48-hour window — verify before grabbing)",
+      "source": "https://www.reddit.com/r/AppGiveaway/comments/1x7semm/ios_2999_free_lifetime_tresor_private_safe_pic/",
+      "wasPrice": "$29.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false
+    }
   }
 ]
