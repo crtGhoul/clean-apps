@@ -14,10 +14,10 @@ Usage:
     python3 sweep.py --version-check  # diff stored versions vs live, writes version-changes.json
 """
 
-import json, re, sys, time, urllib.request, urllib.parse
+import json, re, sys, time, os, urllib.request, urllib.parse
 from datetime import datetime, timezone
 
-BASE = "/home/hatch/workspace/clean-apps"
+BASE = os.path.dirname(os.path.abspath(__file__))
 APPS_JSON = f"{BASE}/apps.json"
 DEALS_JSON = f"{BASE}/deals.json"
 CANDIDATES_JSON = f"{BASE}/sweep-candidates.json"
