@@ -12,6 +12,7 @@ Polite to Apple: 1.5s between requests, backoff on 429/503 honoring
 Retry-After, max 3 retries per app then privacy:null. Never crashes on one app.
 """
 import json
+import os
 import re
 import sys
 import time
@@ -19,7 +20,7 @@ import urllib.request
 import urllib.error
 import http.client
 
-APPS_JSON = "/home/hatch/workspace/clean-apps/apps.json"
+APPS_JSON = os.path.join(os.path.dirname(os.path.abspath(__file__)), "apps.json")
 from datetime import datetime, timezone
 CHECK_DATE = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 DELAY = 1.5
