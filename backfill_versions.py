@@ -5,10 +5,10 @@ Batch-looks-up all app IDs via the iTunes lookup API (one call handles
 ~200 IDs) and stores `version` + `versionCheckedDate` per app.
 Run once now, then sweep.py --version-check keeps it fresh.
 """
-import json, time, urllib.request
+import json, time, os, urllib.request
 from datetime import datetime, timezone
 
-BASE = "/home/hatch/workspace/clean-apps"
+BASE = os.path.dirname(os.path.abspath(__file__))
 APPS_JSON = f"{BASE}/apps.json"
 UA = {"User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15"}
 
