@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Measure what fraction of sampled App Store listings are free with no IAP.
 Statistical sample — does not write anything."""
-import sys, time, json
-sys.path.insert(0, "/home/hatch/workspace/clean-apps")
+import sys, time, json, os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from sweep import itunes_search, offer_data, ad_signal, UA  # noqa
 
 KEYWORDS = ["photo editor", "video editor", "vpn", "file manager",
