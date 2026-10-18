@@ -1,6 +1,6 @@
 # Clean Apps — verified iPhone apps with no ads and no in-app purchases
 
-Live site: https://crtghoul.github.io/clean-apps/
+Live: [GitHub Pages](https://crtghoul.github.io/clean-apps/) · [Cloudflare mirror](https://clean-apps.pages.dev)
 
 A curated, verified directory of iPhone apps: **no ads, no paywalls, no paid purchases**.
 - **No ads** tier = zero ads, zero IAP.
