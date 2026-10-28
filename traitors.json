@@ -67,5 +67,19 @@
     "oldVersion": "v1.18.0",
     "newVersion": "v1.19.1",
     "whatChanged": "added In-App Purchases label"
+  },
+  {
+    "name": "Private Browsing Web Browser",
+    "appStoreId": "368483462",
+    "dateFlagged": "2026-10-28",
+    "whatChanged": "Ad-traitor scan 2026-10-28: 4 recent App Store reviews complain about ads on this 'none'-tier app (1★ 'Full screen, pop-ups. Ads all over.', 1★ 'bombarded by targeted ads', 5★ 'ads started appearing', 3★ 'tons of ads'). Complaints describe app-level ads/fullscreen pop-ups, exceeding the no-ads tier.",
+    "action": "removed from clean listings"
+  },
+  {
+    "name": "My File Organizer",
+    "appStoreId": "919405673",
+    "dateFlagged": "2026-10-28",
+    "whatChanged": "Ad-traitor scan 2026-10-28: 2 recent 1★ reviews describe app-served ads on this 'none'-tier app — 'typical banner ads, but also full screen ads' and an ad popping up during downloads that closes the app when dismissed.",
+    "action": "removed from clean listings"
   }
 ]
