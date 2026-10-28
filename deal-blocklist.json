@@ -18,5 +18,30 @@
     "name": "Morrow — Curated Wallpapers",
     "reason": "expired 2026-10-11: dev ended the 100-iOS-pass giveaway (stated on the r/AppGiveaway post — 'Not taking any new requests')",
     "dateBlocked": "2026-10-11"
+  },
+  {
+    "name": "Castlevania: 40th Anniversary",
+    "reason": "expired: expired 2026-10-24; delisted from US App Store (lookup returns no result)",
+    "dateBlocked": "2026-10-28"
+  },
+  {
+    "name": "Say In Bulbs: LED Message Sign",
+    "reason": "expired: stated expiry 2026-10-23 passed (1,000-code promo)",
+    "dateBlocked": "2026-10-28"
+  },
+  {
+    "name": "Winged Game",
+    "reason": "expired: price back up to $0.99 on live US listing",
+    "dateBlocked": "2026-10-28"
+  },
+  {
+    "name": "Level HD.",
+    "reason": "expired: price back up to $0.99 on live US listing",
+    "dateBlocked": "2026-10-28"
+  },
+  {
+    "name": "8bitWar: Apokalyps",
+    "reason": "expired: price back up to $3.99 on live US listing",
+    "dateBlocked": "2026-10-28"
   }
 ]
