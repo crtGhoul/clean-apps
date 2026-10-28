@@ -38,5 +38,35 @@
     "knockoffSeller": "Oleksandr Mahas",
     "whyFlagged": "free download with weekly-subscription IAP trap",
     "dateFlagged": "2026-10-14"
+  },
+  {
+    "name": "Prompts for Midjourney: AI Art",
+    "appStoreId": "6798674196",
+    "appStoreUrl": "https://apps.apple.com/us/app/id6798674196",
+    "impersonates": "Midjourney",
+    "officialDeveloper": "Midjourney, Inc.",
+    "knockoffSeller": "Anatoli Remenets",
+    "whyFlagged": "Free download with weekly/monthly/yearly credit subscriptions; 1.0★ (6 ratings) with reviews calling it a 'total scam' with deceptive free-trial charges — name + weekly sub + deception complaints.",
+    "dateFlagged": "2026-10-28"
+  },
+  {
+    "name": "Prompts MidjourneyAI: Artronix",
+    "appStoreId": "6780195905",
+    "appStoreUrl": "https://apps.apple.com/us/app/id6780195905",
+    "impersonates": "Midjourney",
+    "officialDeveloper": "Midjourney, Inc.",
+    "knockoffSeller": "Nidhi Tank",
+    "whyFlagged": "Trades on the Midjourney name; 1.0★ (4 ratings): 'unusable without a subscription' and 'misleading description — just a prompt library, not an AI tool.'",
+    "dateFlagged": "2026-10-28"
+  },
+  {
+    "name": "MJ AI Image Generator",
+    "appStoreId": "6792293260",
+    "appStoreUrl": "https://apps.apple.com/us/app/id6792293260",
+    "impersonates": "Midjourney",
+    "officialDeveloper": "Midjourney, Inc.",
+    "knockoffSeller": "Emrullah Bas",
+    "whyFlagged": "Uses 'MJ' (standard Midjourney shorthand) as its brand in Midjourney search results, with an auto-renewing $6.99/week subscription (in the $2.99–$9.99 trap band); 1.0★ (2 ratings). Description says 'Prompts for Stable Diffusion', so impersonation rests on branding + trap pricing.",
+    "dateFlagged": "2026-10-28"
   }
 ]
