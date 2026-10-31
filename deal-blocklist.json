@@ -15,8 +15,8 @@
   "dateBlocked": "2026-10-06"
  },
  {
-  "name": "Morrow \u2014 Curated Wallpapers",
-  "reason": "expired 2026-10-11: dev ended the 100-iOS-pass giveaway (stated on the r/AppGiveaway post \u2014 'Not taking any new requests')",
+  "name": "Morrow — Curated Wallpapers",
+  "reason": "expired 2026-10-11: dev ended the 100-iOS-pass giveaway (stated on the r/AppGiveaway post — 'Not taking any new requests')",
   "dateBlocked": "2026-10-11"
  },
  {
@@ -48,5 +48,15 @@
   "name": "Offline Quran Kareem Pro 3 HD",
   "reason": "expired: price back up to $3.99 on live US listing (verified 2026-10-30)",
   "dateBlocked": "2026-10-30"
+ },
+ {
+  "name": "World of Juice",
+  "reason": "expired: price back up to $3.99 on live US listing (verified 2026-10-31)",
+  "dateBlocked": "2026-10-31"
+ },
+ {
+  "name": "PocketTok - Save Videos",
+  "reason": "expired: 2+ independent commenters on the r/AppGiveaway post report the Lifetime option no longer shows as free (verified 2026-10-31)",
+  "dateBlocked": "2026-10-31"
  }
 ]
