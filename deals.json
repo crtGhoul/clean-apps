@@ -1589,5 +1589,28 @@
   "name": "Numerology",
   "oneLine": "Tibetan and Vedic numerology for names, words and dates — no data collected.",
   "price": "Free"
+ },
+ {
+  "adsCheckMethod": "listing",
+  "adsFree": true,
+  "appStoreId": "1541858661",
+  "appStoreUrl": "https://apps.apple.com/us/app/christmas-countdown-widget/id1541858661",
+  "category": "Entertainment",
+  "deal": {
+   "dateFound": "2026-11-01",
+   "expiry": "2026-11-03 (100 free Lifetime Premium upgrades; redeem link valid until Nov 3)",
+   "offer": "Lifetime Premium FREE (normally $4.99 one-time): redeem Apple offer code CHRISTMAS2026 at apps.apple.com/redeem — unlocks exclusive snowy-scene widgets and removes the FREE badge from the classic widget. Dev-posted, 100 upgrades. Verify before grabbing.",
+   "source": "https://www.reddit.com/r/AppGiveaway/comments/1xkyupa/ios_lifetime_499_free_christmas_countdown/",
+   "wasPrice": "$4.99",
+   "dealKind": "free-unlock",
+   "firstTimeFree": false
+  },
+  "developer": "Benoit Deguine",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-01",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/3f/c6/b53fc68a-14e4-8a9c-6a86-49d518b39f04/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+  "name": "Christmas Countdown & Widget",
+  "oneLine": "Days or sleeps until Christmas on your Home and Lock Screen widgets — free, no ads, no account.",
+  "price": "Free"
  }
 ]
