@@ -667,29 +667,6 @@
  {
   "adsCheckMethod": "listing",
   "adsFree": true,
-  "appStoreId": "1207247199",
-  "appStoreUrl": "https://apps.apple.com/us/app/pulse-metronome/id1207247199",
-  "category": "Music",
-  "deal": {
-   "dateFound": "2026-10-16",
-   "expiry": "dev states free through end of October 2026",
-   "offer": "Full app FREE (was $1): metronome with built-in timing exercises, setlists and classical tempo markings. Developer states the giveaway runs through the end of October. No in-app purchases, no data collected.",
-   "source": "https://9to5toys.com/2026/10/16/ios-app-deals-sentinels-of-the-multiverse/",
-   "wasPrice": "$1.00",
-   "dealKind": "gone-free",
-   "firstTimeFree": true
-  },
-  "developer": "thoor software AB",
-  "hasIAP": false,
-  "iapVerifiedDate": "2026-10-16",
-  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9c/ac/03/9cac0378-5ed2-f7af-7125-c761fb626e04/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.jpg",
-  "name": "Pulse - Metronome",
-  "oneLine": "Metronome with timing exercises; dev says free till end of October.",
-  "price": "Free"
- },
- {
-  "adsCheckMethod": "listing",
-  "adsFree": true,
   "appStoreId": "6781537149",
   "appStoreUrl": "https://apps.apple.com/us/app/not-my-tempo-voice-metronome/id6781537149",
   "category": "Music",
@@ -709,29 +686,6 @@
   "name": "Not My Tempo: Voice Metronome",
   "oneLine": "Hands-free metronome you control with your voice.",
   "price": "Free"
- },
- {
-  "name": "Palang Book: Kids Animation",
-  "appStoreId": "6789852144",
-  "appStoreUrl": "https://apps.apple.com/us/app/palang-book-kids-animation/id6789852144",
-  "developer": "hyunho lee",
-  "category": "Lifestyle",
-  "price": "Free",
-  "hasIAP": true,
-  "iapVerifiedDate": "2026-10-16",
-  "adsCheckMethod": "listing+description",
-  "adsFree": true,
-  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/66/7b/09667b49-a022-b079-c0ce-9d4e5d5ababf/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-  "oneLine": "Kids flipbook animation app (iPad-only): trace 10 outline sets page by page, add stamps and colors, record voice, save finished animations as video.",
-  "deal": {
-   "dateFound": "2026-10-16",
-   "offer": "Lifetime Pass FREE (was $9.99): the maker gives the one-time Lifetime Pass away — redeem Apple offer code OCTO at apps.apple.com/redeem. Unlocks every tracing set incl. future ones, unlimited artworks/videos/pages and recording time, removes the end-card on saved videos; not a subscription, works with Family Sharing. Verify before grabbing.",
-   "expiry": "2026-10-31 (maker's promo, ends Oct 31)",
-   "source": "https://t.me/freegames/9212",
-   "wasPrice": "$9.99",
-   "dealKind": "free-unlock",
-   "firstTimeFree": false
-  }
  },
  {
   "name": "Waky Alarm - Start proud today",
@@ -1312,28 +1266,6 @@
   }
  },
  {
-  "name": "AniMeteo",
-  "appStoreId": "6817347643",
-  "appStoreUrl": "https://apps.apple.com/app/id6817347643",
-  "developer": "Luca Mattiazzi",
-  "category": "Weather",
-  "price": "Free",
-  "hasIAP": false,
-  "iapVerifiedDate": "2026-10-30",
-  "adsCheckMethod": "listing",
-  "adsFree": true,
-  "oneLine": "Animated pixel-art weather in Apple Watch complications: current conditions, a 12-hour timelapse and next-hour rain scenes.",
-  "deal": {
-   "dateFound": "2026-10-30",
-   "offer": "Full app FREE (was $0.99): animated pixel-art weather complications for Apple Watch — current weather, 12-hour timelapse and next-hour rain, with no account, ads, tracking or subscriptions. Requires watchOS 10 or later.",
-   "expiry": "unknown (gone-free price drop — verify before grabbing)",
-   "source": "@freegames",
-   "wasPrice": "$0.99",
-   "dealKind": "gone-free",
-   "firstTimeFree": true
-  }
- },
- {
   "name": "Spool Podcasts",
   "appStoreId": "6809485942",
   "appStoreUrl": "https://apps.apple.com/app/id6809485942",
@@ -1518,30 +1450,6 @@
   }
  },
  {
-  "name": "HibiDo Pro: Todo Calendar Note",
-  "appStoreId": "1579624598",
-  "appStoreUrl": "https://apps.apple.com/us/app/hibido-pro-todo-calendar-note/id1579624598",
-  "developer": "Sixbytes PLT",
-  "category": "Productivity",
-  "price": "Free",
-  "hasIAP": true,
-  "iapVerifiedDate": "2026-10-31",
-  "adsTier": null,
-  "adsFree": true,
-  "adsCheckMethod": "listing",
-  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fb/b3/36/fbb3366e-0669-1bae-9b0f-19a19c6fa060/AppIcon-pro-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-  "oneLine": "All-in-one to-do, calendar and note organizer with reminders, lists and cross-device sync. 4.8 stars (15 ratings).",
-  "deal": {
-   "dateFound": "2026-10-31",
-   "offer": "Full app FREE (was $3): to-do, calendar and note organizer with reminders, checklists and cross-device sync. Premium upgrade is an optional IAP. Gone-free price drop — verify before grabbing, as these prices can end without notice.",
-   "expiry": "unknown (gone-free price drop — verify before grabbing)",
-   "source": "https://9to5toys.com/2026/10/30/app-store-deals-grim-fandango-remastered/",
-   "wasPrice": "$3",
-   "dealKind": "gone-free",
-   "firstTimeFree": true
-  }
- },
- {
   "name": "Tactus: Feel Music",
   "appStoreId": "6780405360",
   "appStoreUrl": "https://apps.apple.com/us/app/tactus-feel-music/id6780405360",
@@ -1612,5 +1520,74 @@
    "dealKind": "gone-free",
    "firstTimeFree": true
   }
+ },
+ {
+  "adsCheckMethod": "listing",
+  "adsFree": true,
+  "appStoreId": "6755494105",
+  "appStoreUrl": "https://apps.apple.com/us/app/escanear-codigos-qr/id6755494105",
+  "category": "Utilities",
+  "deal": {
+   "dateFound": "2026-11-01",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "offer": "Full app FREE (was $4.99): fast QR and barcode scanner with a theme engine, scan-from-gallery and free QR creation. No data collected, no in-app purchases.",
+   "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+   "wasPrice": "$4.99",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  },
+  "developer": "Md Milon Hossain",
+  "hasIAP": false,
+  "iapVerifiedDate": "2026-11-01",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/34/8e/73348e34-af89-1f35-d074-ef2d77df7d84/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/100x100bb.jpg",
+  "name": "Escanear Codigos QR",
+  "oneLine": "Fast QR and barcode scanner with themes, gallery import and free QR creation — no data collected.",
+  "price": "Free"
+ },
+ {
+  "adsCheckMethod": "listing",
+  "adsFree": true,
+  "appStoreId": "6472628197",
+  "appStoreUrl": "https://apps.apple.com/us/app/blue-for-twitter/id6472628197",
+  "category": "News",
+  "deal": {
+   "dateFound": "2026-11-01",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "offer": "Full app FREE (was $0.99): a calmer Twitter/X client — no ads, no clutter, no distractions, less saturated colors. 4.7 stars (77 ratings). No in-app purchases.",
+   "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+   "wasPrice": "$0.99",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  },
+  "developer": "Kpaw LLC",
+  "hasIAP": false,
+  "iapVerifiedDate": "2026-11-01",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/24/06/c02406c9-afe4-7252-6eae-f2c0907d8b6d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+  "name": "Blue for Twitter",
+  "oneLine": "A calmer Twitter/X client: no ads, no clutter, no distractions.",
+  "price": "Free"
+ },
+ {
+  "adsCheckMethod": "listing",
+  "adsFree": true,
+  "appStoreId": "1195301998",
+  "appStoreUrl": "https://apps.apple.com/us/app/numerology/id1195301998",
+  "category": "Education",
+  "deal": {
+   "dateFound": "2026-11-01",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "offer": "Full app FREE (was $0.99): Tibetan and Vedic numerology for names, words, numbers and dates — per-word values, symbolic images, astrology and tarot links. No data collected, no in-app purchases.",
+   "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+   "wasPrice": "$0.99",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  },
+  "developer": "Nic Kolbe",
+  "hasIAP": false,
+  "iapVerifiedDate": "2026-11-01",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/46/51/694651a1-14b6-970b-7809-64b8bf61a343/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/100x100bb.jpg",
+  "name": "Numerology",
+  "oneLine": "Tibetan and Vedic numerology for names, words and dates — no data collected.",
+  "price": "Free"
  }
 ]
