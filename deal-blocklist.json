@@ -58,5 +58,25 @@
   "name": "PocketTok - Save Videos",
   "reason": "expired: 2+ independent commenters on the r/AppGiveaway post report the Lifetime option no longer shows as free (verified 2026-10-31)",
   "dateBlocked": "2026-10-31"
+ },
+ {
+  "name": "Pulse - Metronome",
+  "reason": "expired: free-through-October promo ended; price back up to $0.99 on live US listing (verified 2026-11-01)",
+  "dateBlocked": "2026-11-01"
+ },
+ {
+  "name": "Palang Book: Kids Animation",
+  "reason": "expired: stated promo end 2026-10-31 passed (free Lifetime Pass via code OCTO)",
+  "dateBlocked": "2026-11-01"
+ },
+ {
+  "name": "HibiDo Pro: Todo Calendar Note",
+  "reason": "expired: price back up to $2.99 on live US listing (verified 2026-11-01, one day after being added)",
+  "dateBlocked": "2026-11-01"
+ },
+ {
+  "name": "AniMeteo",
+  "reason": "expired: price back up to $0.99 on live US listing (verified 2026-11-01)",
+  "dateBlocked": "2026-11-01"
  }
 ]
