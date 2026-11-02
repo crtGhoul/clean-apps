@@ -1612,5 +1612,122 @@
   "name": "Christmas Countdown & Widget",
   "oneLine": "Days or sleeps until Christmas on your Home and Lock Screen widgets — free, no ads, no account.",
   "price": "Free"
+ },
+ {
+  "name": "Sekki: Photo Food Diary",
+  "appStoreId": "6755164924",
+  "appStoreUrl": "https://apps.apple.com/us/app/sekki-photo-food-diary/id6755164924",
+  "developer": "hyunho lee",
+  "category": "Lifestyle",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-01",
+  "adsTier": null,
+  "adsFree": true,
+  "adsCheckMethod": "listing",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/61/02/bb6102a4-a2d9-6df0-2706-a0fa83aad516/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+  "oneLine": "Photo food diary with no calorie counting: snap a meal photo and it files itself under breakfast, lunch, dinner or snack, with streaks and friend cheers. Developer collects no data.",
+  "deal": {
+   "dateFound": "2026-11-01",
+   "offer": "Lifetime Pro FREE (normally $39.99): redeem with code NOVE in-app — unlocks multiple groups, side-by-side meal comparison, most-eaten foods and Face ID lock. The live listing confirms the $39.99 Sekki Pro Lifetime IAP. Verify before grabbing.",
+   "expiry": "Nov 14, 2026 (per post — verify before grabbing)",
+   "source": "https://t.me/freegames/9248",
+   "wasPrice": "$39.99",
+   "dealKind": "free-unlock",
+   "firstTimeFree": false
+  }
+ },
+ {
+  "name": "Sync: Plan & Actual",
+  "appStoreId": "6808510515",
+  "appStoreUrl": "https://apps.apple.com/us/app/sync-plan-actual/id6808510515",
+  "developer": "037",
+  "category": "Productivity",
+  "price": "Free",
+  "hasIAP": false,
+  "iapVerifiedDate": "2026-11-01",
+  "adsTier": null,
+  "adsFree": true,
+  "adsCheckMethod": "listing",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/10/a2/7a/10a27a71-3c13-8ba9-f48c-3e5f0a424667/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+  "oneLine": "Plan your day, log what actually happened, and see both on one timeline — with timers, goals, to-dos and iCloud sync for iPhone and iPad. No sign-up, no server.",
+  "deal": {
+   "dateFound": "2026-11-01",
+   "offer": "Full app FREE (was $4.99): plan your day in the morning, record what actually happened in the evening, and compare both on one timeline. No in-app purchases on the live listing.",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "source": "https://t.me/freegames/9249",
+   "wasPrice": "$4.99",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  }
+ },
+ {
+  "name": "Inclinometer Pro",
+  "appStoreId": "6742665082",
+  "appStoreUrl": "https://apps.apple.com/us/app/inclinometer-pro/id6742665082",
+  "developer": "ERLEND JOHNSRUD VAAGE",
+  "category": "Utilities",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-02",
+  "adsFree": true,
+  "adsCheckMethod": "listing",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/57/6c/3f576ced-6eed-5708-4559-522b6bee1637/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+  "oneLine": "Precision level for iPhone, iPad and Apple Watch: bubble level, edge mode, camera laser level, and a one-time Pro upgrade.",
+  "deal": {
+   "dateFound": "2026-11-02",
+   "offer": "Full app FREE (was $1): precision level with surface and edge modes, degrees/percent/mm-m readouts, calibration, and a camera mode for hanging pictures straight. Pro is a one-time $2.99 unlock for unlimited camera mode, target slope and saved readings. No data collected.",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "source": "https://9to5toys.com/2026/11/02/app-store-deals-kingdom-rush-frontiers-td/",
+   "wasPrice": "$1",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  }
+ },
+ {
+  "name": "Magic 8 Ball: Talking Oracle",
+  "appStoreId": "1512596471",
+  "appStoreUrl": "https://apps.apple.com/us/app/magic-8-ball-talking-oracle/id1512596471",
+  "developer": "Nurhan Ilhanov",
+  "category": "Entertainment",
+  "price": "Free",
+  "hasIAP": false,
+  "iapVerifiedDate": "2026-11-02",
+  "adsFree": true,
+  "adsCheckMethod": "listing",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/eb/66/25eb663a-773d-b0da-dadd-e419617a5b84/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+  "oneLine": "The classic toy rebuilt: ask out loud, shake, and hear the answer spoken back in 19 languages — no ads, no account, fully offline.",
+  "deal": {
+   "dateFound": "2026-11-02",
+   "offer": "Full app FREE (was $5): ask a question, shake, and the ball speaks its answer aloud in your language — 19 languages, 556-quote mode, Apple Watch app, no ads, no tracking, no data collected, no in-app purchases.",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "source": "https://9to5toys.com/2026/11/02/app-store-deals-kingdom-rush-frontiers-td/",
+   "wasPrice": "$5",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  }
+ },
+ {
+  "name": "Shot Tracer",
+  "appStoreId": "1140451547",
+  "appStoreUrl": "https://apps.apple.com/us/app/shot-tracer/id1140451547",
+  "developer": "Visual Vertigo Software Technologies GmbH",
+  "category": "Sports",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-02",
+  "adsFree": true,
+  "adsCheckMethod": "listing",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/b6/47/6db6474b-0d1d-b99f-178c-df243f60e745/AppIcon_ShotTracer-0-0-1x_U007epad-0-1-0-85-220.jpeg/100x100bb.jpg",
+  "oneLine": "Turn golf shots into broadcast-style videos: ball-flight tracing, launch monitor data, 3D map tracers and a putt reader.",
+  "deal": {
+   "dateFound": "2026-11-02",
+   "offer": "Full app FREE (was $6): add TV-style ball tracing lines to your golf videos, with 3D map tracers, putt reader and GPS scorecards. Pro features (launch monitor, live tracer, studio editor) are a paid subscription — the base tracer is free.",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "source": "https://9to5toys.com/2026/11/02/app-store-deals-kingdom-rush-frontiers-td/",
+   "wasPrice": "$6",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  }
  }
 ]
