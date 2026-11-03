@@ -1729,5 +1729,120 @@
    "dealKind": "gone-free",
    "firstTimeFree": true
   }
+ },
+ {
+  "name": "nomi - Meal Planner & Recipes",
+  "appStoreId": "6815107888",
+  "appStoreUrl": "https://apps.apple.com/us/app/nomi-meal-planner-recipes/id6815107888",
+  "developer": "SUGI STUDIO PTY LTD",
+  "category": "Food & Drink",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-03",
+  "adsCheckMethod": "listing",
+  "adsFree": true,
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/2a/e0/842ae0f1-6917-2c2e-30e1-b37c13b520d7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+  "oneLine": "Weekly meal planner built around your budget: a week of dinners, one grocery list sorted by aisle, and recipes you can actually follow.",
+  "deal": {
+   "dateFound": "2026-11-03",
+   "offer": "Lifetime Premium FREE (normally $39.99): enter code SORTEDFORLIFE on the paywall (tap 'Offer code' in the small print) — 2,000 codes per the Nov 2 post. Verify before grabbing.",
+   "expiry": "unknown (2,000 codes — verify before grabbing)",
+   "source": "https://www.ozbargain.com.au/node/980043",
+   "wasPrice": "$39.99",
+   "dealKind": "free-unlock",
+   "firstTimeFree": false
+  }
+ },
+ {
+  "name": "Phone Cleaner-AI Clean Storage",
+  "appStoreId": "6444253288",
+  "appStoreUrl": "https://apps.apple.com/us/app/phone-cleaner-ai-clean-storage/id6444253288",
+  "developer": "彦辉 侯",
+  "category": "Productivity",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-03",
+  "adsCheckMethod": "listing",
+  "adsFree": true,
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/97/63/4497638f-11ee-5e33-1fa8-a916ff300187/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
+  "oneLine": "One-tap cleaner for duplicate and similar photos, screenshots, large videos and duplicate contacts.",
+  "deal": {
+   "dateFound": "2026-11-03",
+   "offer": "Lifetime Premium FREE (post states $69.99; live listing shows Lifetime VIP $34.99): redeem Apple offer code PHONECLEANERAICLEAN at apps.apple.com/redeem — up to 2,000 redemptions, while the offer remains available. Check the App Store confirmation screen before accepting. Verify before grabbing.",
+   "expiry": "unknown (2,000 redemptions — verify before grabbing)",
+   "source": "https://www.reddit.com/r/AppGiveaway/comments/1xmpoli/self_promotion6999free_lifetime_free_lifetime/",
+   "wasPrice": "$69.99",
+   "dealKind": "free-unlock",
+   "firstTimeFree": false
+  }
+ },
+ {
+  "name": "SubsLexa: Subscription Tracker",
+  "appStoreId": "6767228817",
+  "appStoreUrl": "https://apps.apple.com/us/app/subslexa-subscription-tracker/id6767228817",
+  "developer": "Rostam Sadiqi",
+  "category": "Finance",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-03",
+  "adsCheckMethod": "listing",
+  "adsFree": false,
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/9b/66/7d9b6667-8043-b543-b555-686e9583dd7c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+  "oneLine": "Private subscription tracker and bill reminder: renewal alerts, spending insights, no account or bank connection.",
+  "deal": {
+   "dateFound": "2026-11-03",
+   "offer": "Lifetime Premium FREE (normally $14.99): redeem Apple offer code NEWSUBSLEXALIFTIME at apps.apple.com/redeem — post title/body say 500 free lifetime upgrades (post image says 200). No expiry date stated. Note: live listing flags the app as containing advertising. Verify before grabbing.",
+   "expiry": "unknown (limited upgrades — verify before grabbing)",
+   "source": "https://www.reddit.com/r/AppGiveaway/comments/1xmozmi/ios_1499_free_lifetime_subslexa_subslexa/",
+   "wasPrice": "$14.99",
+   "dealKind": "free-unlock",
+   "firstTimeFree": false
+  }
+ },
+ {
+  "name": "PasteKit: Clipboard Keyboard",
+  "appStoreId": "6798929348",
+  "appStoreUrl": "https://apps.apple.com/us/app/pastekit-clipboard-keyboard/id6798929348",
+  "developer": "PT. PEMROGRAM KODE INDONESIA",
+  "category": "Utilities",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-03",
+  "adsCheckMethod": "listing+description",
+  "adsFree": true,
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/08/dc/c608dc01-06c5-207d-a1e9-f7c5ab957a13/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+  "oneLine": "Clipboard keyboard for your go-to replies and snippets: save once, insert from the keyboard in any app. No ads.",
+  "deal": {
+   "dateFound": "2026-11-03",
+   "offer": "Pro Lifetime FREE (normally $7.99): open the paywall and pick Lifetime — it shows $0.00 on the live listing right now. One-time unlock, not a trial or subscription. Verify before grabbing.",
+   "expiry": "Nov 5, 2026 (3-day promo from the Nov 2 post — verify before grabbing)",
+   "source": "https://www.reddit.com/r/AppGiveaway/comments/1xlsbr3/ios_799_free_lifetime_3_days_pastekit_saved/",
+   "wasPrice": "$7.99",
+   "dealKind": "free-unlock",
+   "firstTimeFree": false
+  }
+ },
+ {
+  "name": "Remindio: Reminders & Alarms",
+  "appStoreId": "6820248731",
+  "appStoreUrl": "https://apps.apple.com/us/app/remindio-reminders-alarms/id6820248731",
+  "developer": "Dmytro Palamarchuk",
+  "category": "Productivity",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-03",
+  "adsCheckMethod": "listing",
+  "adsFree": false,
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/a3/76/7ba37614-c126-595e-7914-6e48055fbd70/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+  "oneLine": "Smart reminders with alarms that ring even in Silent mode, flexible repeats, location reminders and widgets.",
+  "deal": {
+   "dateFound": "2026-11-03",
+   "offer": "Premium Lifetime FREE (normally $5.99): download, go to Settings (or Upgrade → Giveaway), select Lifetime and tap 'Get for Free' — one-time unlock, not a subscription. No expiry date stated. Note: live listing flags the app as containing advertising (free tier). Verify before grabbing.",
+   "expiry": "unknown (limited-time promo — verify before grabbing)",
+   "source": "https://www.reddit.com/r/AppGiveaway/comments/1xm1tg4/ios599_free_lifetime_remindio_more_than_basic/",
+   "wasPrice": "$5.99",
+   "dealKind": "free-unlock",
+   "firstTimeFree": false
+  }
  }
 ]
