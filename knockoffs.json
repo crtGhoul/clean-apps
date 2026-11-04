@@ -68,5 +68,15 @@
     "knockoffSeller": "Emrullah Bas",
     "whyFlagged": "Uses 'MJ' (standard Midjourney shorthand) as its brand in Midjourney search results, with an auto-renewing $6.99/week subscription (in the $2.99–$9.99 trap band); 1.0★ (2 ratings). Description says 'Prompts for Stable Diffusion', so impersonation rests on branding + trap pricing.",
     "dateFlagged": "2026-10-28"
+  },
+  {
+    "name": "AI Chat powered by Claude AI",
+    "appStoreId": "6448258432",
+    "appStoreUrl": "https://apps.apple.com/us/app/id6448258432",
+    "impersonates": "Claude",
+    "officialDeveloper": "Anthropic PBC",
+    "knockoffSeller": "SimpleAsk",
+    "whyFlagged": "free download with weekly-subscription IAP trap",
+    "dateFlagged": "2026-11-04"
   }
 ]
