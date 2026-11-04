@@ -1,82 +1,92 @@
 [
- {
-  "name": "Daylivia: Self Care & Routine",
-  "reason": "expired (stated window ended 2026-10-06 ~1:38 PM CT)",
-  "dateBlocked": "2026-10-06"
- },
- {
-  "name": "Elements - Aesthetic Widgets",
-  "reason": "user-pulled 2026-10-06: redeem codes didn't work",
-  "dateBlocked": "2026-10-06"
- },
- {
-  "name": "Letter Tangle",
-  "reason": "user-pulled 2026-10-06: redeem codes didn't work",
-  "dateBlocked": "2026-10-06"
- },
- {
-  "name": "Morrow — Curated Wallpapers",
-  "reason": "expired 2026-10-11: dev ended the 100-iOS-pass giveaway (stated on the r/AppGiveaway post — 'Not taking any new requests')",
-  "dateBlocked": "2026-10-11"
- },
- {
-  "name": "Castlevania: 40th Anniversary",
-  "reason": "expired: expired 2026-10-24; delisted from US App Store (lookup returns no result)",
-  "dateBlocked": "2026-10-28"
- },
- {
-  "name": "Say In Bulbs: LED Message Sign",
-  "reason": "expired: stated expiry 2026-10-23 passed (1,000-code promo)",
-  "dateBlocked": "2026-10-28"
- },
- {
-  "name": "Winged Game",
-  "reason": "expired: price back up to $0.99 on live US listing",
-  "dateBlocked": "2026-10-28"
- },
- {
-  "name": "Level HD.",
-  "reason": "expired: price back up to $0.99 on live US listing",
-  "dateBlocked": "2026-10-28"
- },
- {
-  "name": "8bitWar: Apokalyps",
-  "reason": "expired: price back up to $3.99 on live US listing",
-  "dateBlocked": "2026-10-28"
- },
- {
-  "name": "Offline Quran Kareem Pro 3 HD",
-  "reason": "expired: price back up to $3.99 on live US listing (verified 2026-10-30)",
-  "dateBlocked": "2026-10-30"
- },
- {
-  "name": "World of Juice",
-  "reason": "expired: price back up to $3.99 on live US listing (verified 2026-10-31)",
-  "dateBlocked": "2026-10-31"
- },
- {
-  "name": "PocketTok - Save Videos",
-  "reason": "expired: 2+ independent commenters on the r/AppGiveaway post report the Lifetime option no longer shows as free (verified 2026-10-31)",
-  "dateBlocked": "2026-10-31"
- },
- {
-  "name": "Pulse - Metronome",
-  "reason": "expired: free-through-October promo ended; price back up to $0.99 on live US listing (verified 2026-11-01)",
-  "dateBlocked": "2026-11-01"
- },
- {
-  "name": "Palang Book: Kids Animation",
-  "reason": "expired: stated promo end 2026-10-31 passed (free Lifetime Pass via code OCTO)",
-  "dateBlocked": "2026-11-01"
- },
- {
-  "name": "HibiDo Pro: Todo Calendar Note",
-  "reason": "expired: price back up to $2.99 on live US listing (verified 2026-11-01, one day after being added)",
-  "dateBlocked": "2026-11-01"
- },
- {
-  "name": "AniMeteo",
-  "reason": "expired: price back up to $0.99 on live US listing (verified 2026-11-01)",
-  "dateBlocked": "2026-11-01"
- }
+  {
+    "name": "Daylivia: Self Care & Routine",
+    "reason": "expired (stated window ended 2026-10-06 ~1:38 PM CT)",
+    "dateBlocked": "2026-10-06"
+  },
+  {
+    "name": "Elements - Aesthetic Widgets",
+    "reason": "user-pulled 2026-10-06: redeem codes didn't work",
+    "dateBlocked": "2026-10-06"
+  },
+  {
+    "name": "Letter Tangle",
+    "reason": "user-pulled 2026-10-06: redeem codes didn't work",
+    "dateBlocked": "2026-10-06"
+  },
+  {
+    "name": "Morrow — Curated Wallpapers",
+    "reason": "expired 2026-10-11: dev ended the 100-iOS-pass giveaway (stated on the r/AppGiveaway post — 'Not taking any new requests')",
+    "dateBlocked": "2026-10-11"
+  },
+  {
+    "name": "Castlevania: 40th Anniversary",
+    "reason": "expired: expired 2026-10-24; delisted from US App Store (lookup returns no result)",
+    "dateBlocked": "2026-10-28"
+  },
+  {
+    "name": "Say In Bulbs: LED Message Sign",
+    "reason": "expired: stated expiry 2026-10-23 passed (1,000-code promo)",
+    "dateBlocked": "2026-10-28"
+  },
+  {
+    "name": "Winged Game",
+    "reason": "expired: price back up to $0.99 on live US listing",
+    "dateBlocked": "2026-10-28"
+  },
+  {
+    "name": "Level HD.",
+    "reason": "expired: price back up to $0.99 on live US listing",
+    "dateBlocked": "2026-10-28"
+  },
+  {
+    "name": "8bitWar: Apokalyps",
+    "reason": "expired: price back up to $3.99 on live US listing",
+    "dateBlocked": "2026-10-28"
+  },
+  {
+    "name": "Offline Quran Kareem Pro 3 HD",
+    "reason": "expired: price back up to $3.99 on live US listing (verified 2026-10-30)",
+    "dateBlocked": "2026-10-30"
+  },
+  {
+    "name": "World of Juice",
+    "reason": "expired: price back up to $3.99 on live US listing (verified 2026-10-31)",
+    "dateBlocked": "2026-10-31"
+  },
+  {
+    "name": "PocketTok - Save Videos",
+    "reason": "expired: 2+ independent commenters on the r/AppGiveaway post report the Lifetime option no longer shows as free (verified 2026-10-31)",
+    "dateBlocked": "2026-10-31"
+  },
+  {
+    "name": "Pulse - Metronome",
+    "reason": "expired: free-through-October promo ended; price back up to $0.99 on live US listing (verified 2026-11-01)",
+    "dateBlocked": "2026-11-01"
+  },
+  {
+    "name": "Palang Book: Kids Animation",
+    "reason": "expired: stated promo end 2026-10-31 passed (free Lifetime Pass via code OCTO)",
+    "dateBlocked": "2026-11-01"
+  },
+  {
+    "name": "HibiDo Pro: Todo Calendar Note",
+    "reason": "expired: price back up to $2.99 on live US listing (verified 2026-11-01, one day after being added)",
+    "dateBlocked": "2026-11-01"
+  },
+  {
+    "name": "AniMeteo",
+    "reason": "expired: price back up to $0.99 on live US listing (verified 2026-11-01)",
+    "dateBlocked": "2026-11-01"
+  },
+  {
+    "name": "Paydrip: Live Salary Tracker",
+    "reason": "expired: stated expiry Nov 3, 2026 passed (verified 2026-11-04)",
+    "dateBlocked": "2026-11-04"
+  },
+  {
+    "name": "Christmas Countdown & Widget",
+    "reason": "expired: stated expiry 2026-11-03 passed (verified 2026-11-04)",
+    "dateBlocked": "2026-11-04"
+  }
 ]
