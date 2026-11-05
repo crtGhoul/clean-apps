@@ -88,5 +88,10 @@
     "name": "Christmas Countdown & Widget",
     "reason": "expired: stated expiry 2026-11-03 passed (verified 2026-11-04)",
     "dateBlocked": "2026-11-04"
+  },
+  {
+    "name": "PasteKit: Clipboard Keyboard",
+    "reason": "expired: 3-day promo ended Nov 5, 2026 — OP edited post 'Promo ended Nov 5' and confirmed App Store shows regular price again (verified 2026-11-05)",
+    "dateBlocked": "2026-11-05"
   }
 ]
