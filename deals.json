@@ -1754,29 +1754,6 @@
     }
   },
   {
-    "name": "PasteKit: Clipboard Keyboard",
-    "appStoreId": "6798929348",
-    "appStoreUrl": "https://apps.apple.com/us/app/pastekit-clipboard-keyboard/id6798929348",
-    "developer": "PT. PEMROGRAM KODE INDONESIA",
-    "category": "Utilities",
-    "price": "Free",
-    "hasIAP": true,
-    "iapVerifiedDate": "2026-11-03",
-    "adsCheckMethod": "listing+description",
-    "adsFree": true,
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c6/08/dc/c608dc01-06c5-207d-a1e9-f7c5ab957a13/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-    "oneLine": "Clipboard keyboard for your go-to replies and snippets: save once, insert from the keyboard in any app. No ads.",
-    "deal": {
-      "dateFound": "2026-11-03",
-      "offer": "Pro Lifetime FREE (normally $7.99): open the paywall and pick Lifetime — it shows $0.00 on the live listing right now. One-time unlock, not a trial or subscription. Verify before grabbing.",
-      "expiry": "Nov 5, 2026 (3-day promo from the Nov 2 post — verify before grabbing)",
-      "source": "https://www.reddit.com/r/AppGiveaway/comments/1xlsbr3/ios_799_free_lifetime_3_days_pastekit_saved/",
-      "wasPrice": "$7.99",
-      "dealKind": "free-unlock",
-      "firstTimeFree": false
-    }
-  },
-  {
     "name": "Remindio: Reminders & Alarms",
     "appStoreId": "6820248731",
     "appStoreUrl": "https://apps.apple.com/us/app/remindio-reminders-alarms/id6820248731",
@@ -1936,6 +1913,144 @@
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/2c/6e/3b2c6e9e-8915-8ef3-7fdc-ab16fb3421fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "name": "Planet Gravity - SimulateOrbit",
     "oneLine": "Physics sandbox — fling asteroids and planets through space and watch gravity shape their orbits.",
+    "price": "Free"
+  },
+  {
+    "name": "LAM · Film Camera & Cinema",
+    "appStoreId": "6773256954",
+    "appStoreUrl": "https://apps.apple.com/app/id6773256954",
+    "developer": "Nguyen Tuan Viet",
+    "category": "Photo & Video",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-04",
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "iconUrl": "",
+    "oneLine": "Vintage 35mm film & CCD camera with Twin Lens waist-level viewfinder, zero-copy GPU processing, live film color in the viewfinder.",
+    "deal": {
+      "dateFound": "2026-11-04",
+      "offer": "LAM Pro Lifetime FREE (normally $19.99): the live App Store listing shows 'LAM Pro · Lifetime $0.00' — unlocks every camera and film, every recipe outside the Food Pack, LUT export/import, Steal the Look, no LAM mark, and clips longer than 3 minutes. Food Pack ($4.99) not included. Grab it from the in-app paywall while priced at zero.",
+      "expiry": "48h from post (posted 2026-11-04 — verify before grabbing)",
+      "source": "@freegames",
+      "wasPrice": "$19.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false
+    }
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "757055069",
+    "appStoreUrl": "https://apps.apple.com/us/app/solutionist/id757055069",
+    "category": "Productivity",
+    "deal": {
+      "dateFound": "2026-11-05",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "offer": "Full app FREE (was $24.99): powerful calculator hidden behind a clean, simple interface — everyday and complex calculations made easier. 4.4 stars (12 ratings). No in-app purchases.",
+      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+      "wasPrice": "$24.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "Domnic Francis",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-11-05",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/69/17/1f691714-e1ac-f68b-14b0-322e1fa99b88/AppIcon-8-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
+    "name": "Solutionist",
+    "oneLine": "Powerful calculator behind a clean, simple interface — everyday and complex calculations made easier.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "1515294700",
+    "appStoreUrl": "https://apps.apple.com/us/app/mouse-keyboard/id1515294700",
+    "category": "Productivity",
+    "deal": {
+      "dateFound": "2026-11-05",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "offer": "Full app FREE (was $4.99): turn your iPhone or iPad into a trackpad and keyboard for your Mac or PC — present, browse from the couch, or answer messages without reaching for your computer. 4.7 stars (2,498 ratings). No in-app purchases.",
+      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+      "wasPrice": "$4.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "Remote Sunrise LTD",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-11-05",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/4d/9c/884d9cf5-255a-e901-f437-b12d9f9eb32d/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
+    "name": "Mouse · Keyboard",
+    "oneLine": "Turn your iPhone or iPad into a trackpad and keyboard for your Mac or PC.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "6740195165",
+    "appStoreUrl": "https://apps.apple.com/us/app/pumli-your-private-agent/id6740195165",
+    "category": "Productivity",
+    "deal": {
+      "dateFound": "2026-11-05",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "offer": "Full app FREE (was $9.99): everyday AI assistant for chatting, working with documents and exploring ideas — pick a compatible on-device model for local conversations. 4.7 stars (21 ratings). No in-app purchases.",
+      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+      "wasPrice": "$9.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "ESOTECH LTD",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-11-05",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/11/e1/cd/11e1cdfb-cf3b-4755-246a-1e820d6ff9c9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "name": "Pumli: Your Private Agent",
+    "oneLine": "Everyday AI assistant for chatting, working with documents and exploring ideas — on-device models for local conversations.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "834715612",
+    "appStoreUrl": "https://apps.apple.com/us/app/forgotten-memories/id834715612",
+    "category": "Games",
+    "deal": {
+      "dateFound": "2026-11-05",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "offer": "Full game FREE (was $4.99): award-nominated horror game — finalist at the CVA video game awards (Best Audio, Best Original Music, Best Indie Game, Best iOS Game). 4.4 stars (528 ratings). No in-app purchases, the whole game is yours at no cost.",
+      "source": "https://360-reader.com/paid-iphone-games-gone-free/",
+      "wasPrice": "$4.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "Psychose Interactive Inc.",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-11-05",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/51/2d/a6/512da63f-7d64-0d30-b626-6745556bcf3e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-85-220.png/100x100bb.jpg",
+    "name": "Forgotten Memories",
+    "oneLine": "Award-nominated horror game — CVA finalist for Best Audio, Best Original Music, Best Indie Game and Best iOS Game.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing",
+    "adsFree": true,
+    "appStoreId": "6501973975",
+    "appStoreUrl": "https://apps.apple.com/us/app/off-day/id6501973975",
+    "category": "Lifestyle",
+    "deal": {
+      "dateFound": "2026-11-05",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "offer": "Full app FREE (was $3.99): open-source alarm clock built around holidays and days off — anyone can compile it themselves, or buy the App Store version to support the project. 5.0 stars (33 ratings). No in-app purchases.",
+      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+      "wasPrice": "$3.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "ZIZICICI LIMITED",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-11-05",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/d2/8b/59d28bb2-b747-f538-7957-d10c71432cc5/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "name": "Off Day",
+    "oneLine": "Open-source alarm clock built around holidays and days off.",
     "price": "Free"
   }
 ]
