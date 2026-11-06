@@ -93,5 +93,10 @@
     "name": "PasteKit: Clipboard Keyboard",
     "reason": "expired: 3-day promo ended Nov 5, 2026 — OP edited post 'Promo ended Nov 5' and confirmed App Store shows regular price again (verified 2026-11-05)",
     "dateBlocked": "2026-11-05"
+  },
+  {
+    "name": "Todo-Cat",
+    "reason": "expired: price back up to $0.99 on live US listing (verified 2026-11-06, 360-reader re-check)",
+    "dateBlocked": "2026-11-06"
   }
 ]
