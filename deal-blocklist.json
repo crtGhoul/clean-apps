@@ -98,5 +98,15 @@
     "name": "Todo-Cat",
     "reason": "expired: price back up to $0.99 on live US listing (verified 2026-11-06, 360-reader re-check)",
     "dateBlocked": "2026-11-06"
+  },
+  {
+    "name": "PrepWell Pro",
+    "reason": "deal claim no longer holds: live App Store description says 'free to start — upgrade to Premium for unlimited recipes, batch imports, AI meal planning'; 360-reader dropped it Nov 8 for key features behind a paid unlock (verified on live listing 2026-11-08)",
+    "dateBlocked": "2026-11-08"
+  },
+  {
+    "name": "LAM · Film Camera & Cinema",
+    "reason": "expired: stated 48h free-Lifetime promo from Nov 4 post ended ~Nov 6 (verified 2026-11-08)",
+    "dateBlocked": "2026-11-08"
   }
 ]
