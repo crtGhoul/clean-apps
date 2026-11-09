@@ -2455,5 +2455,53 @@
       "dealKind": "gone-free",
       "firstTimeFree": true
     }
+  },
+  {
+    "name": "PixelFlip: Retro Arcade",
+    "appStoreId": "6801722747",
+    "appStoreUrl": "https://apps.apple.com/us/app/pixelflip-retro-arcade/id6801722747",
+    "developer": "Robert Laramee",
+    "category": "Games",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-08",
+    "adsTier": null,
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cc/32/8c/cc328cd6-b106-1374-b0f3-eb910663a08a/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/100x100bb.jpg",
+    "oneLine": "Pinball where draining drops you into Breakout, then a hurdle runner — three retro arcade games stacked in one run.",
+    "deal": {
+      "dateFound": "2026-11-08",
+      "offer": "Full Unlock ($0.99) FREE for the first 500 with a code from Promies — unlocks saving, every hidden game, and all future updates. App itself is free; no ads, no subscription.",
+      "expiry": "limited to first 500 free codes (cap may be reached)",
+      "source": "https://t.me/freegames/9269",
+      "wasPrice": "$0.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false
+    }
+  },
+  {
+    "name": "KeepEatClean",
+    "appStoreId": "6760924217",
+    "appStoreUrl": "https://apps.apple.com/us/app/keepeatclean/id6760924217",
+    "developer": "Velcrest Group LLC",
+    "category": "Health & Fitness",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-09",
+    "adsTier": null,
+    "adsFree": true,
+    "adsCheckMethod": "listing",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cb/68/5c/cb685cb9-32d2-37dd-9c34-14814d093a11/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "Understand which eating habits suit you through patterns from your own meals and wearable data — food diary plus Apple Health / WHOOP history.",
+    "deal": {
+      "dateFound": "2026-11-09",
+      "offer": "1 year of KeepEatClean Pro FREE (normally $49.99/year): redeem Apple offer code KECYEAR2026 at apps.apple.com/redeem — new subscribers only, capped at 500 redemptions. Renews at the standard price after the year unless cancelled — set a reminder.",
+      "expiry": "Nov 10, 2026 00:00 PT or when the 500-redemption cap is reached (dev's own offer page)",
+      "source": "https://keepeatclean.com/guides/keepeatclean-pro-offer",
+      "wasPrice": "$49.99/year",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false
+    }
   }
 ]
