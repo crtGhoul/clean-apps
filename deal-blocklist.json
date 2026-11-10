@@ -108,5 +108,15 @@
     "name": "LAM · Film Camera & Cinema",
     "reason": "expired: stated 48h free-Lifetime promo from Nov 4 post ended ~Nov 6 (verified 2026-11-08)",
     "dateBlocked": "2026-11-08"
+  },
+  {
+    "name": "Sync: Plan & Actual",
+    "reason": "expired: price back up to $4.99 on live US listing (verified 2026-11-10)",
+    "dateBlocked": "2026-11-10"
+  },
+  {
+    "name": "KeepEatClean",
+    "reason": "expired: stated expiry Nov 10, 2026 00:00 PT passed (verified 2026-11-10)",
+    "dateBlocked": "2026-11-10"
   }
 ]
