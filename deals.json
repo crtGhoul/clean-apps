@@ -922,30 +922,6 @@
     }
   },
   {
-    "name": "Tuner Universal",
-    "appStoreId": "6759379649",
-    "appStoreUrl": "https://apps.apple.com/us/app/tuner-universal/id6759379649",
-    "developer": "Bamuda Corporation Pty Ltd",
-    "category": "Music",
-    "price": "Free",
-    "hasIAP": true,
-    "iapVerifiedDate": "2026-10-27",
-    "adsTier": null,
-    "adsFree": true,
-    "adsCheckMethod": "listing",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7e/ba/78/7eba7866-491b-0206-db2b-8f31dfc7fd20/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-    "oneLine": "Precise tuning for every instrument: fast pitch detection, instrument profiles and guided tuning across a full 10-octave range.",
-    "deal": {
-      "dateFound": "2026-10-27",
-      "offer": "Lifetime Access FREE (normally $29.99): unlocks the complete tuning experience across all instruments — full 10-octave range, complete piano reference and all Pro features forever. Note: may be exhausted — verify before grabbing (a promo tracker now lists this offer as expired).",
-      "expiry": "unknown (limited-time promo — verify before grabbing)",
-      "source": "https://t.me/freegames/9232",
-      "wasPrice": "$29.99",
-      "dealKind": "free-unlock",
-      "firstTimeFree": false
-    }
-  },
-  {
     "name": "Fotospot Road Trip Community",
     "appStoreId": "1200952700",
     "appStoreUrl": "https://apps.apple.com/us/app/fotospot-road-trip-community/id1200952700?uo=4",
@@ -2478,6 +2454,29 @@
       "expiry": "unknown (gone-free price drop — verify before grabbing)",
       "source": "https://9to5toys.com/2026/11/10/ios-app-deals-broken-sword-reforged/",
       "wasPrice": "$15",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    }
+  },
+  {
+    "name": "Neo Monsters",
+    "appStoreId": "983143183",
+    "appStoreUrl": "https://apps.apple.com/us/app/neo-monsters/id983143183",
+    "developer": "ZigZaGame Inc.",
+    "category": "Games",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-11",
+    "adsFree": true,
+    "adsCheckMethod": "listing",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/98/a5/e8/98a5e8bd-fd63-3422-9fa4-edc4ceb2590d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "oneLine": "Monster-collecting strategy RPG — capture, train and evolve 3,000+ monsters, 4v4 turn-based battles, 60+ hour campaign, real-time PvP.",
+    "deal": {
+      "dateFound": "2026-11-11",
+      "offer": "Full game FREE (was $0.99): monster-collecting strategy RPG — capture, train and evolve 3,000+ monsters, 4v4 turn-based battles, 60+ hour campaign and real-time PvP. Gems are optional IAP ($0.99–$79.99) and the listing flags loot boxes.",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "source": "https://360-reader.com/paid-iphone-games-gone-free/",
+      "wasPrice": "$0.99",
       "dealKind": "gone-free",
       "firstTimeFree": true
     }
