@@ -118,5 +118,10 @@
     "name": "KeepEatClean",
     "reason": "expired: stated expiry Nov 10, 2026 00:00 PT passed (verified 2026-11-10)",
     "dateBlocked": "2026-11-10"
+  },
+  {
+    "name": "Tuner Universal",
+    "reason": "expired: promo platform (promies) lists both lifetime promos as Expired, 0 codes remaining (verified 2026-11-11)",
+    "dateBlocked": "2026-11-11"
   }
 ]
