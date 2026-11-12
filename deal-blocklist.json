@@ -123,5 +123,15 @@
     "name": "Tuner Universal",
     "reason": "expired: promo platform (promies) lists both lifetime promos as Expired, 0 codes remaining (verified 2026-11-11)",
     "dateBlocked": "2026-11-11"
+  },
+  {
+    "name": "Solutionist",
+    "reason": "expired: price back up to $139.00 on live US listing (verified 2026-11-12)",
+    "dateBlocked": "2026-11-12"
+  },
+  {
+    "name": "Sandbox Planet",
+    "reason": "expired: price back up to $14.99 on live US listing (verified 2026-11-12)",
+    "dateBlocked": "2026-11-12"
   }
 ]
