@@ -1780,29 +1780,6 @@
   {
     "adsCheckMethod": "listing",
     "adsFree": false,
-    "appStoreId": "1527841661",
-    "appStoreUrl": "https://apps.apple.com/us/app/sandbox-planet/id1527841661",
-    "category": "Entertainment",
-    "deal": {
-      "dateFound": "2026-11-04",
-      "expiry": "unknown (gone-free price drop — verify before grabbing)",
-      "offer": "Full app FREE (was $14.99): solar-system sandbox — build planets, suns, neutron stars and black holes and watch your system evolve. 4.5 stars (305 ratings). Note: the free version is ad-supported; removing ads is a paid IAP.",
-      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
-      "wasPrice": "$14.99",
-      "dealKind": "gone-free",
-      "firstTimeFree": true
-    },
-    "developer": "Oscar Tsang",
-    "hasIAP": true,
-    "iapVerifiedDate": "2026-11-04",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/49/ff/ca49ff25-758f-ea45-7adb-e6eefe30318d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-    "name": "Sandbox Planet",
-    "oneLine": "Solar-system sandbox — build planets, suns, neutron stars and black holes and watch your system evolve.",
-    "price": "Free"
-  },
-  {
-    "adsCheckMethod": "listing",
-    "adsFree": false,
     "appStoreId": "1566504157",
     "appStoreUrl": "https://apps.apple.com/us/app/planet-gravity-simulateorbit/id1566504157",
     "category": "Entertainment",
@@ -1821,29 +1798,6 @@
     "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/2c/6e/3b2c6e9e-8915-8ef3-7fdc-ab16fb3421fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
     "name": "Planet Gravity - SimulateOrbit",
     "oneLine": "Physics sandbox — fling asteroids and planets through space and watch gravity shape their orbits.",
-    "price": "Free"
-  },
-  {
-    "adsCheckMethod": "listing",
-    "adsFree": true,
-    "appStoreId": "757055069",
-    "appStoreUrl": "https://apps.apple.com/us/app/solutionist/id757055069",
-    "category": "Productivity",
-    "deal": {
-      "dateFound": "2026-11-05",
-      "expiry": "unknown (gone-free price drop — verify before grabbing)",
-      "offer": "Full app FREE (was $24.99): powerful calculator hidden behind a clean, simple interface — everyday and complex calculations made easier. 4.4 stars (12 ratings). No in-app purchases.",
-      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
-      "wasPrice": "$24.99",
-      "dealKind": "gone-free",
-      "firstTimeFree": true
-    },
-    "developer": "Domnic Francis",
-    "hasIAP": false,
-    "iapVerifiedDate": "2026-11-05",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/69/17/1f691714-e1ac-f68b-14b0-322e1fa99b88/AppIcon-8-0-0-1x_U007emarketing-0-8-0-0-85-220.png/100x100bb.jpg",
-    "name": "Solutionist",
-    "oneLine": "Powerful calculator behind a clean, simple interface — everyday and complex calculations made easier.",
     "price": "Free"
   },
   {
@@ -1951,7 +1905,8 @@
       "source": "https://t.me/freegames/9260",
       "wasPrice": "$19.99",
       "dealKind": "free-unlock",
-      "firstTimeFree": false
+      "firstTimeFree": false,
+      "lastChecked": "2026-11-12"
     },
     "developer": "Jimmy Chan",
     "hasIAP": true,
@@ -2479,6 +2434,29 @@
       "wasPrice": "$0.99",
       "dealKind": "gone-free",
       "firstTimeFree": true
+    }
+  },
+  {
+    "name": "Riddonkulous: Word Riddles",
+    "appStoreId": "6760267855",
+    "appStoreUrl": "https://apps.apple.com/us/app/riddonkulous-word-riddles/id6760267855",
+    "developer": "PATRICK OBERMULLER",
+    "category": "Games",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-11",
+    "adsFree": false,
+    "adsCheckMethod": "listing",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/4e/14/b84e142c-5357-0519-e5e1-cd06f8c023c4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "Solve tricky riddles letter by letter across 1,000 hand-picked riddles, with decoy letters, a boss riddle every 10th step, and themed campaigns.",
+    "deal": {
+      "dateFound": "2026-11-11",
+      "offer": "Founder Pack FREE (normally €8.99) via one of 500 promo codes — the top-priced unlock on the live listing. The app itself is free to download; themed campaigns (€1.99 each) and ad removal (€2.99) are otherwise paid one-time unlocks. Only 500 codes — verify before grabbing, they may already be gone.",
+      "expiry": "unknown (limited to 500 codes — verify before grabbing)",
+      "source": "https://t.me/freegames/9273",
+      "wasPrice": "€8.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false
     }
   }
 ]
