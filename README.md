@@ -6,7 +6,7 @@ A curated, verified directory of iPhone apps: **no ads, no paywalls, no paid pur
 - **No ads** tier = zero ads, zero IAP.
 - **Minimal ads** tier = zero IAP, banner-only non-intrusive ads.
 
-190 verified apps · 50 "clean alternative to X" comparisons · daily deal hunt for free-premium / lifetime-unlock offers.
+198 verified apps · 50 "clean alternative to X" comparisons · daily deal hunt for free-premium / lifetime-unlock offers.
 
 ## How verification works
 
@@ -29,7 +29,7 @@ Deal entries may carry an IAP label only when the deal itself makes premium/life
 | Path | What it is |
 |---|---|
 | `index.html` | The live site — self-contained built export of Clean Apps, served by GitHub Pages (4.4MB, all assets inlined) |
-| `apps.json` | 190 verified apps (fields: name, appStoreId, category, price, hasIAP, adsTier, version, catchLabel, privacy, …) |
+| `apps.json` | 198 verified apps (fields: name, appStoreId, category, price, hasIAP, adsTier, version, catchLabel, privacy, …) |
 | `deals.json` | Time-sensitive free-premium / lifetime-unlock deals (`deal.wasPrice`, `deal.dealKind`, `deal.firstTimeFree`) |
 | `knockoffs.json` | Flagged App Store knockoffs (feeds the checker's warning banner) |
 | `traitors.json` | Apps that turned dirty after being listed (never silently deleted) |
