@@ -964,7 +964,8 @@
    "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
    "wasPrice": "$2.99",
    "dealKind": "gone-free",
-   "firstTimeFree": true
+   "firstTimeFree": true,
+   "lastChecked": "2026-11-14"
   }
  },
  {
@@ -1744,7 +1745,7 @@
    "wasPrice": "$4.99",
    "dealKind": "gone-free",
    "firstTimeFree": true,
-   "lastChecked": "2026-11-08"
+   "lastChecked": "2026-11-14"
   },
   "developer": "Code Organa",
   "hasIAP": true,
@@ -1767,7 +1768,8 @@
    "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
    "wasPrice": "$10.99",
    "dealKind": "gone-free",
-   "firstTimeFree": true
+   "firstTimeFree": true,
+   "lastChecked": "2026-11-14"
   },
   "developer": "Oscar Tsang",
   "hasIAP": true,
@@ -2404,7 +2406,7 @@
   "oneLine": "A quiet camera that straightens lecture slides and keeps them by session — silent capture, searchable text, study PDFs.",
   "deal": {
    "dateFound": "2026-11-12",
-   "offer": "Pro Lifetime FREE (normally $35.99): redeem Apple offer code NOVE at apps.apple.com/redeem — unlocks AI summaries, Markdown and PowerPoint export, and iCloud sync.",
+   "offer": "Pro Lifetime FREE (normally $35.99): redeem Apple offer code NOVE at apps.apple.com/redeem — unlocks AI summaries, Markdown and PowerPoint export, and iCloud sync. A second code NOVE2 was also posted (Pro Lifetime $24.99 tier, also until Nov 22).",
    "expiry": "Nov 22, 2026",
    "source": "https://t.me/freegames/9277",
    "wasPrice": "$35.99",
@@ -2523,6 +2525,29 @@
    "expiry": "unknown (gone-free price drop — verify before grabbing)",
    "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
    "wasPrice": "$1.99",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  }
+ },
+ {
+  "name": "Ce Ma: Three Kingdoms TD",
+  "appStoreId": "1104158404",
+  "appStoreUrl": "https://apps.apple.com/us/app/ce-ma-three-kingdoms-td/id1104158404",
+  "developer": "Xinline Information Technology Co., Ltd",
+  "category": "Games",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-14",
+  "adsFree": true,
+  "adsCheckMethod": "listing",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c9/3d/a1/c93da1c5-1f0b-91e6-f0c3-44299e7dd4d2/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+  "oneLine": "Three Kingdoms tower defense — heroes, towers and card builds across a 7-chapter campaign, playable offline.",
+  "deal": {
+   "dateFound": "2026-11-14",
+   "offer": "Full game FREE (was $0.99): Three Kingdoms tower defense — heroes, towers and card builds across a 7-chapter campaign, playable offline. 4.5 stars (23 ratings). Game-coin IAPs ($0.99–$99.99) and the listing flags loot boxes.",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "source": "https://360-reader.com/paid-iphone-games-gone-free/",
+   "wasPrice": "$0.99",
    "dealKind": "gone-free",
    "firstTimeFree": true
   }
