@@ -158,5 +158,10 @@
   "name": "BarcodeUtilityApp",
   "reason": "expired: app still free to download but main features now locked behind an in-app purchase (verified 2026-11-13, 360-reader re-check)",
   "dateBlocked": "2026-11-13"
+ },
+ {
+  "name": "Sekki: Photo Food Diary",
+  "reason": "expired: stated expiry Nov 14, 2026 passed (verified 2026-11-15)",
+  "dateBlocked": "2026-11-15"
  }
 ]
