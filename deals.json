@@ -1500,30 +1500,6 @@
   "price": "Free"
  },
  {
-  "name": "Sekki: Photo Food Diary",
-  "appStoreId": "6755164924",
-  "appStoreUrl": "https://apps.apple.com/us/app/sekki-photo-food-diary/id6755164924",
-  "developer": "hyunho lee",
-  "category": "Lifestyle",
-  "price": "Free",
-  "hasIAP": true,
-  "iapVerifiedDate": "2026-11-01",
-  "adsTier": null,
-  "adsFree": true,
-  "adsCheckMethod": "listing",
-  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/61/02/bb6102a4-a2d9-6df0-2706-a0fa83aad516/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-  "oneLine": "Photo food diary with no calorie counting: snap a meal photo and it files itself under breakfast, lunch, dinner or snack, with streaks and friend cheers. Developer collects no data.",
-  "deal": {
-   "dateFound": "2026-11-01",
-   "offer": "Lifetime Pro FREE (normally $39.99): redeem with code NOVE in-app — unlocks multiple groups, side-by-side meal comparison, most-eaten foods and Face ID lock. The live listing confirms the $39.99 Sekki Pro Lifetime IAP. Verify before grabbing.",
-   "expiry": "Nov 14, 2026 (per post — verify before grabbing)",
-   "source": "https://t.me/freegames/9248",
-   "wasPrice": "$39.99",
-   "dealKind": "free-unlock",
-   "firstTimeFree": false
-  }
- },
- {
   "name": "Inclinometer Pro",
   "appStoreId": "6742665082",
   "appStoreUrl": "https://apps.apple.com/us/app/inclinometer-pro/id6742665082",
@@ -2548,6 +2524,75 @@
    "expiry": "unknown (gone-free price drop — verify before grabbing)",
    "source": "https://360-reader.com/paid-iphone-games-gone-free/",
    "wasPrice": "$0.99",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  }
+ },
+ {
+  "name": "Rogue Hearts",
+  "appStoreId": "1212726570",
+  "appStoreUrl": "https://apps.apple.com/us/app/rogue-hearts/id1212726570",
+  "developer": "NINETAIL Co., Ltd.",
+  "category": "Games",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-15",
+  "adsFree": true,
+  "adsCheckMethod": "listing",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/44/9e/95/449e9576-f16b-59cc-2d70-62a5934faec8/AppIcon-1x_U007emarketing-0-6-85-220-0.png/100x100bb.jpg",
+  "oneLine": "Modern rogue-like dungeon crawler: explore randomly generated dungeons, fight boss monsters and earn loot — network connection required.",
+  "deal": {
+   "dateFound": "2026-11-15",
+   "offer": "Full game FREE (was $1): modern rogue-like dungeon crawler — explore randomly generated dungeons, fight boss monsters and earn loot. 4.3 stars (326 ratings). Crystals are optional in-app purchases ($0.99–$49.99). Note: network connection required, 490 MB download.",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "source": "https://9to5toys.com/2026/11/13/ios-app-deals-sagrada/",
+   "wasPrice": "$1",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  }
+ },
+ {
+  "name": "Brightly - Fix Dark Photos",
+  "appStoreId": "1270382069",
+  "appStoreUrl": "https://apps.apple.com/us/app/brightly-fix-dark-photos/id1270382069",
+  "developer": "Code Organa LLC",
+  "category": "Photo & Video",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-15",
+  "adsFree": true,
+  "adsCheckMethod": "listing",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/23/db/eb23db20-492a-f031-f6c0-1338eca3dc1b/AppIcon-0-1x_U007epad-0-1-0-85-220-0.png/100x100bb.jpg",
+  "oneLine": "Brighten dark photos and videos with one slider — adaptive lighting, RAW and 4K support, no data collected.",
+  "deal": {
+   "dateFound": "2026-11-15",
+   "offer": "Full app FREE (was 145 Kč): brighten dark photos and videos with one slider — adaptive lighting, RAW and 4K video support. 4.7 stars (1,087 ratings). Developer collects no data. Note: the description still says full features need a purchase — the listed in-app purchases are Brightly unlocks ($4.99–$49.99); verify before grabbing.",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "source": "https://www.archynewsy.com/android-and-ios-apps-available-for-free-or-at-a-discount/",
+   "wasPrice": "145 Kč",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  }
+ },
+ {
+  "name": "The Mutiny",
+  "appStoreId": "1524415528",
+  "appStoreUrl": "https://apps.apple.com/us/app/the-mutiny/id1524415528",
+  "developer": "Luis Dalmasy",
+  "category": "Games",
+  "price": "Free",
+  "hasIAP": false,
+  "iapVerifiedDate": "2026-11-15",
+  "adsFree": true,
+  "adsCheckMethod": "listing",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/bf/75/c5bf7565-cd43-6a0e-6000-bf73ddd6fce7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+  "oneLine": "Third-person zombie survival RPG from a solo dev: open world, crafting, farming, base building and horde mode — solo or online co-op.",
+  "deal": {
+   "dateFound": "2026-11-15",
+   "offer": "Full game FREE (was 115 Kč): third-person zombie survival RPG from a solo developer — open world, crafting, farming, base building and horde mode, solo or online co-op. 4.2 stars (22 ratings). No in-app purchases, developer collects no data. Note: 1.5 GB download.",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "source": "https://www.archynewsy.com/android-and-ios-apps-available-for-free-or-at-a-discount/",
+   "wasPrice": "115 Kč",
    "dealKind": "gone-free",
    "firstTimeFree": true
   }
