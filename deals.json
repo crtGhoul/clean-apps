@@ -653,7 +653,7 @@
    "wasPrice": "$9.99",
    "dealKind": "free-unlock",
    "firstTimeFree": false,
-   "lastChecked": "2026-11-10"
+   "lastChecked": "2026-11-16"
   },
   "developer": "hyunho lee",
   "hasIAP": true,
@@ -781,7 +781,7 @@
    "wasPrice": "$24.99",
    "dealKind": "free-unlock",
    "firstTimeFree": false,
-   "lastChecked": "2026-11-10"
+   "lastChecked": "2026-11-16"
   }
  },
  {
@@ -868,11 +868,12 @@
   "deal": {
    "dateFound": "2026-10-23",
    "offer": "Lifetime Pro FREE (normally US$29.99): the live App Store listing shows 'Three Routes Pro Lifetime $0.00' — grab the lifetime IAP from the in-app paywall while it's priced at zero. Unlocks unlimited route searches and all Pro features.",
-   "expiry": "unknown (limited-time promo — verify before grabbing)",
+   "expiry": "2026-11-30 (dev post Nov 15, 2026: Lifetime Pro free until Nov 30)",
    "source": "@freegames",
    "wasPrice": "US$29.99",
    "dealKind": "free-unlock",
-   "firstTimeFree": false
+   "firstTimeFree": false,
+   "lastChecked": "2026-11-16"
   }
  },
  {
@@ -2593,6 +2594,29 @@
    "expiry": "unknown (gone-free price drop — verify before grabbing)",
    "source": "https://www.archynewsy.com/android-and-ios-apps-available-for-free-or-at-a-discount/",
    "wasPrice": "115 Kč",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  }
+ },
+ {
+  "name": "Aria Magic Voice",
+  "appStoreId": "6819769588",
+  "appStoreUrl": "https://apps.apple.com/us/app/aria-magic-voice/id6819769588",
+  "developer": "政维 吴",
+  "category": "Utilities",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-16",
+  "adsFree": true,
+  "adsCheckMethod": "listing+description",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/33/6d/3b336dc9-7b8c-bc2a-a183-42ec4e910af9/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+  "oneLine": "Offline multilingual keyboard with on-device voice dictation — English, Pinyin, Zhuyin, Cangjie and Japanese — no account, no data collected, no ads.",
+  "deal": {
+   "dateFound": "2026-11-16",
+   "offer": "Full app FREE (was $19.99): offline voice dictation + multilingual keyboard (English, Pinyin, Zhuyin, Cangjie, Japanese). Note: the listing says 'Already bought the app? Aria Max is included at no extra cost' — grabbing it while free should include the $19.99 Max tier (voice input + e-signature). No data collected, no ads.",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "source": "https://www.macgift.com/us/app/6819769588/",
+   "wasPrice": "$19.99",
    "dealKind": "gone-free",
    "firstTimeFree": true
   }
