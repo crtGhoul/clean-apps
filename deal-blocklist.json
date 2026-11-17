@@ -163,5 +163,10 @@
   "name": "Sekki: Photo Food Diary",
   "reason": "expired: stated expiry Nov 14, 2026 passed (verified 2026-11-15)",
   "dateBlocked": "2026-11-15"
+ },
+ {
+  "name": "LÒMÒGRAPH",
+  "reason": "expired: price back up to $1.99 on live US listing (verified 2026-11-17)",
+  "dateBlocked": "2026-11-17"
  }
 ]
