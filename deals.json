@@ -519,31 +519,6 @@
   }
  },
  {
-  "name": "LÒMÒGRAPH",
-  "appStoreId": "930743975",
-  "appStoreUrl": "https://apps.apple.com/us/app/x/id930743975",
-  "developer": "LI HUNG WANG",
-  "category": "Utilities",
-  "price": "Free",
-  "hasIAP": true,
-  "iapVerifiedDate": "2026-10-14",
-  "adsTier": null,
-  "adsFree": true,
-  "adsCheckMethod": "listing+description",
-  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3e/b3/b0/3eb3b09a-6c9b-a319-aa6b-9b103e820b0b/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-  "oneLine": "Retro photo app for lomography-style shots. 4.5 stars from 292 ratings. Has in-app purchases.",
-  "deal": {
-   "dateFound": "2026-10-14",
-   "offer": "Full app FREE (was $1.99): Retro photo app for lomography-style shots. 4.5 stars from 292 ratings. Has in-app purchases. Note (360 Reader Oct 28 re-check): main features may now sit behind an in-app unlock — verify before grabbing.",
-   "expiry": "unknown (gone-free price drop — verify before grabbing)",
-   "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
-   "lastChecked": "2026-10-15",
-   "wasPrice": "$1.99",
-   "dealKind": "gone-free",
-   "firstTimeFree": true
-  }
- },
- {
   "name": "Pixelcos: Pixel Art Editor",
   "appStoreId": "6499064941",
   "appStoreUrl": "https://apps.apple.com/us/app/x/id6499064941",
@@ -873,7 +848,7 @@
    "wasPrice": "US$29.99",
    "dealKind": "free-unlock",
    "firstTimeFree": false,
-   "lastChecked": "2026-11-16"
+   "lastChecked": "2026-11-17"
   }
  },
  {
@@ -1962,7 +1937,8 @@
    "source": "https://t.me/freegames/9265",
    "wasPrice": "£19.99",
    "dealKind": "free-unlock",
-   "firstTimeFree": false
+   "firstTimeFree": false,
+   "lastChecked": "2026-11-17"
   }
  },
  {
@@ -2081,7 +2057,8 @@
    "source": "https://www.promies.net/promotion/d58181cb-f757-4624-869a-30bb7d326841",
    "wasPrice": "$2.99",
    "dealKind": "free-unlock",
-   "firstTimeFree": false
+   "firstTimeFree": false,
+   "lastChecked": "2026-11-17"
   }
  },
  {
@@ -2249,7 +2226,8 @@
    "source": "https://t.me/freegames/9269",
    "wasPrice": "$0.99",
    "dealKind": "free-unlock",
-   "firstTimeFree": false
+   "firstTimeFree": false,
+   "lastChecked": "2026-11-17"
   }
  },
  {
@@ -2319,7 +2297,8 @@
    "source": "https://t.me/freegames/9273",
    "wasPrice": "€8.99",
    "dealKind": "free-unlock",
-   "firstTimeFree": false
+   "firstTimeFree": false,
+   "lastChecked": "2026-11-17"
   }
  },
  {
@@ -2342,7 +2321,8 @@
    "source": "https://t.me/freegames/9275",
    "wasPrice": "$39.99",
    "dealKind": "free-unlock",
-   "firstTimeFree": false
+   "firstTimeFree": false,
+   "lastChecked": "2026-11-17"
   }
  },
  {
@@ -2365,7 +2345,8 @@
    "source": "https://t.me/freegames/9276",
    "wasPrice": "$9.99",
    "dealKind": "free-unlock",
-   "firstTimeFree": false
+   "firstTimeFree": false,
+   "lastChecked": "2026-11-17"
   }
  },
  {
@@ -2388,7 +2369,8 @@
    "source": "https://t.me/freegames/9277",
    "wasPrice": "$35.99",
    "dealKind": "free-unlock",
-   "firstTimeFree": false
+   "firstTimeFree": false,
+   "lastChecked": "2026-11-17"
   }
  },
  {
@@ -2619,6 +2601,121 @@
    "wasPrice": "$19.99",
    "dealKind": "gone-free",
    "firstTimeFree": true
+  }
+ },
+ {
+  "name": "EARTH 3D | Ultra real planet",
+  "appStoreId": "550152297",
+  "appStoreUrl": "https://apps.apple.com/us/app/earth-3d-ultra-real-planet/id550152297",
+  "developer": "Dmitry Alaev",
+  "category": "Utilities",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-17",
+  "adsFree": false,
+  "adsCheckMethod": "listing",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b5/cc/f0/b5ccf03d-3f5f-a152-4f31-b85e592a6726/LivingPlanetIcon-0-1x_U007epad-0-10-0-P3-85-220-0.png/100x100bb.jpg",
+  "oneLine": "Real-time 3D Earth rendered with Apple's Metal engine — spin the globe, watch clouds, city lights and real sun and moon positions.",
+  "deal": {
+   "dateFound": "2026-11-17",
+   "offer": "Full app FREE (was $14.99): real-time 3D Earth with clouds, city lights and real sun and moon positions, rendered with Apple's Metal engine. 4.5 stars (6,190 ratings). Note: the free version is ad-supported; Ad-free Experience is a $17.99 in-app purchase.",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+   "wasPrice": "$14.99",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  }
+ },
+ {
+  "name": "Tide Graph Pro",
+  "appStoreId": "721000562",
+  "appStoreUrl": "https://apps.apple.com/us/app/tide-graph-pro/id721000562",
+  "developer": "Brainware LLC",
+  "category": "Navigation",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-17",
+  "adsFree": true,
+  "adsCheckMethod": "listing",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/3f/de/7a3fde24-d8e4-c917-792d-8cc87901dcca/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+  "oneLine": "Tide graphs and planning tools for fishing, surfing and boating — worldwide stations, offline predictions, no data collected.",
+  "deal": {
+   "dateFound": "2026-11-17",
+   "offer": "Full app FREE (was $5.99): tide graphs, sunrise/sunset and moon info for coastal stations worldwide, with offline predictions. 4.8 stars (3,667 ratings). Free tier covers today's graph at selected stations; Premium ($9.99/year) unlocks all stations and planning tools.",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+   "wasPrice": "$5.99",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  }
+ },
+ {
+  "name": "Rock Drum Machine: Real Drums",
+  "appStoreId": "725234217",
+  "appStoreUrl": "https://apps.apple.com/us/app/rock-drum-machine-real-drums/id725234217",
+  "developer": "Lumbeat Ltd.",
+  "category": "Music",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-17",
+  "adsFree": true,
+  "adsCheckMethod": "listing",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/5f/42/0c5f42d1-d137-2604-d880-a40ca7bfa9ab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+  "oneLine": "A rock drummer that improvises fills and variations — practice, write songs and play live, standalone or as an AUv3 plugin. No data collected.",
+  "deal": {
+   "dateFound": "2026-11-17",
+   "offer": "Full app FREE (was $17.99): a rock drummer that improvises fills and ghost notes instead of looping recordings — 114 grooves, 70 fills, AUv3 plugin. 4.7 stars (544 ratings). Free to explore with all features for 7 days, then limited features; full version is a $22.99 one-time unlock.",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+   "wasPrice": "$17.99",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  }
+ },
+ {
+  "name": "Pocket Radar: Weather Map",
+  "appStoreId": "574399713",
+  "appStoreUrl": "https://apps.apple.com/us/app/pocket-radar-weather-map/id574399713",
+  "developer": "Dmitry Alaev",
+  "category": "Weather",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-17",
+  "adsFree": false,
+  "adsCheckMethod": "listing",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/e1/f6/5ee1f650-8ff2-d8f2-c8f0-e2b3eb3834f8/PocketRadarAppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+  "oneLine": "Animated precipitation maps with hourly forecasts, pressure, wind, air quality and cyclone tracks — widgets and Apple Watch.",
+  "deal": {
+   "dateFound": "2026-11-17",
+   "offer": "Full app FREE (was $14.99): animated rain maps, hourly forecasts, pressure and wind readings, air quality and cyclone tracks. 4.6 stars (1,612 ratings). Note: the free version is ad-supported; Pocket Radar Pro (no ads) is a $99.99 lifetime or $34.99/year in-app purchase.",
+   "expiry": "unknown (gone-free price drop — verify before grabbing)",
+   "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+   "wasPrice": "$14.99",
+   "dealKind": "gone-free",
+   "firstTimeFree": true
+  }
+ },
+ {
+  "name": "Progressive Overload: Plus One",
+  "appStoreId": "6818854662",
+  "appStoreUrl": "https://apps.apple.com/us/app/progressive-overload-plus-one/id6818854662",
+  "developer": "Rajesh Kumar Madhavan",
+  "category": "Health & Fitness",
+  "price": "Free",
+  "hasIAP": true,
+  "iapVerifiedDate": "2026-11-17",
+  "adsFree": true,
+  "adsCheckMethod": "dev-statement",
+  "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/23/ef/0623ef1f-8871-9caa-60c3-9c0eb4b760c1/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/100x100bb.jpg",
+  "oneLine": "Workout tracker built on progressive overload — every set shows the number to beat, on iPhone and Apple Watch. No account, no ads.",
+  "deal": {
+   "dateFound": "2026-11-17",
+   "offer": "Pro Lifetime FREE (normally $79.99): the dev is giving 1,000 lifters Pro for life — claim your real App Store offer code at plusonelifts.com/free, redeem in the App Store, and Pro stays yours for good. No card, no subscription, no trial. Unlocks next-set targets, stall fixes, progress charts, 3D muscle map and voice logging.",
+   "expiry": "unknown (1,000 codes — verify before grabbing)",
+   "source": "https://plusonelifts.com/free",
+   "wasPrice": "$79.99",
+   "dealKind": "free-unlock",
+   "firstTimeFree": false
   }
  }
 ]
