@@ -78,5 +78,15 @@
     "knockoffSeller": "SimpleAsk",
     "whyFlagged": "free download with weekly-subscription IAP trap",
     "dateFlagged": "2026-11-04"
+  },
+  {
+    "name": "Claude Code Notifier Companion",
+    "appStoreId": "6757701908",
+    "appStoreUrl": "https://apps.apple.com/us/app/id6757701908",
+    "impersonates": "Claude",
+    "officialDeveloper": "Anthropic PBC",
+    "knockoffSeller": "TouchTap",
+    "whyFlagged": "free download with weekly-subscription IAP trap",
+    "dateFlagged": "2026-11-18"
   }
 ]
