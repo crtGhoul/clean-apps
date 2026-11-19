@@ -1,5 +1,120 @@
 [
   {
+    "adsCheckMethod": "listing+description",
+    "adsFree": true,
+    "appStoreId": "1008067212",
+    "appStoreUrl": "https://apps.apple.com/us/app/coverpad/id1008067212?uo=4",
+    "category": "Graphics & Design",
+    "deal": {
+      "dateFound": "2026-11-19",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "offer": "Full app FREE (was $1.99): layered editor for covers, thumbnails, posts and stories — start from a blank canvas or draft a layout with your own AI agent, then finish every detail yourself. No account, no analytics, no ads, no tracking; designs stay on your device. 4.6 stars (335 ratings). Has in-app purchases — 14-day free trial, then Lifetime Unlock ($4.99 one-time). Requires iOS 18.6.",
+      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+      "wasPrice": "$1.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "Maysoft Inc.",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-19",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/ca/89/68ca89de-a511-6696-274f-9d1551684c81/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "name": "Coverpad",
+    "oneLine": "Layered editor for covers, thumbnails and posts: draft with your own AI agent, finish every detail yourself — no account, no ads.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing+description",
+    "adsFree": true,
+    "appStoreId": "317435796",
+    "appStoreUrl": "https://apps.apple.com/us/app/danger-map-live-crime-alert/id317435796?uo=4",
+    "category": "News",
+    "deal": {
+      "dateFound": "2026-11-19",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "offer": "Full app FREE (was $2.99): Responder.ai puts local crime reports, live police and fire dispatch calls, plus weather and earthquake warnings on one dark map — pick your radius and get push alerts. 4.6 stars (3,944 ratings). Has in-app purchases — full incident details, exact addresses and registry records need Responder Premium (from $4.99/week or $29.99/year). Requires iOS 18.",
+      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+      "wasPrice": "$2.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "Extruder App Inc.",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-19",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/ea/e4/cdeae401-faec-b828-0020-1a6cfaadbdd6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+    "name": "Danger Map: Live Crime & Alert",
+    "oneLine": "Crime reports, live dispatch calls and weather warnings on one map — alerts for the radius you pick.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing+description",
+    "adsFree": true,
+    "appStoreId": "301270080",
+    "appStoreUrl": "https://apps.apple.com/us/app/instant-ecg-12-lead-simulator/id301270080?uo=4",
+    "category": "Medical",
+    "deal": {
+      "dateFound": "2026-11-19",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "offer": "Full app FREE (was $5.99): learn to read EKGs on strips that move like a real monitor — 27 rhythms, 12-lead STEMI patterns, a built-in textbook and adaptive practice questions. Written by physicians, for nursing and paramedic students, EMTs and ACLS candidates. 4.1 stars (532 ratings). Has in-app purchases — Unlock Everything ($19.99 one-time) for the full content. Requires iOS 26.",
+      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+      "wasPrice": "$5.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "iAnesthesia LLC",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-19",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/45/b5/4645b56d-4d55-550a-e4a7-73b79c60a41d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "name": "Instant ECG: 12-Lead Simulator",
+    "oneLine": "Learn to read EKGs on live-moving strips: 27 rhythms, 12-lead STEMI patterns and a built-in textbook.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing+description",
+    "adsFree": true,
+    "appStoreId": "1396346170",
+    "appStoreUrl": "https://apps.apple.com/us/app/daily-english-grammar-practice/id1396346170?uo=4",
+    "category": "Education",
+    "deal": {
+      "dateFound": "2026-11-19",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "offer": "Full app FREE (was $6.99): master English grammar with interactive quizzes, instant explanations, AI-powered memory stories and speed modes — IELTS, TOEFL, TOEIC and Cambridge prep. 4.6 stars (301 ratings). Has in-app purchases — Pro subscriptions ($0.99/week, $2.99/month, $18.99/year) unlock extra features.",
+      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+      "wasPrice": "$6.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "Hau Bui Van",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-19",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b1/4b/2c/b14b2cd5-1bf8-6ade-86af-7dd2c5f1bfcd/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "name": "Daily English Grammar Practice",
+    "oneLine": "Master English grammar with quizzes, instant explanations and AI memory stories — IELTS, TOEFL and Cambridge prep.",
+    "price": "Free"
+  },
+  {
+    "adsCheckMethod": "listing+description",
+    "adsFree": true,
+    "appStoreId": "1512214163",
+    "appStoreUrl": "https://apps.apple.com/us/app/weathercast-24-local-forecast/id1512214163?uo=4",
+    "category": "Weather",
+    "deal": {
+      "dateFound": "2026-11-19",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "offer": "Full app FREE (was $14.99): hyper-local weather with 48 detailed hourly data points and 15-day forecasts, from millions of weather stations worldwide. 4.7 stars (186 ratings). No in-app purchases.",
+      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+      "wasPrice": "$14.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true
+    },
+    "developer": "Dmitry Alaev",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-11-19",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c4/b9/a9/c4b9a9b3-c681-1d32-264b-20d42e721046/AppIcon-0-1x_U007emarketing-0-7-0-85-220-0.png/100x100bb.jpg",
+    "name": "WEATHERCAST 24 local forecast",
+    "oneLine": "Hyper-local weather: 48 hours of detailed hourly data and 15-day forecasts in a small, simple app.",
+    "price": "Free"
+  },
+  {
     "adsCheckMethod": "listing",
     "adsFree": false,
     "appStoreId": "1155749575",
@@ -965,7 +1080,7 @@
       "wasPrice": "US$29.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-19"
     }
   },
   {
@@ -1149,7 +1264,7 @@
       "wasPrice": "$2.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-19"
     }
   },
   {
@@ -1938,7 +2053,7 @@
       "wasPrice": "$4.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-19"
     },
     "developer": "馬志遠 劉",
     "hasIAP": true,
@@ -2016,7 +2131,7 @@
       "wasPrice": "$9.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-19"
     }
   },
   {
@@ -2041,7 +2156,7 @@
       "wasPrice": "£19.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-19"
     }
   },
   {
@@ -2089,7 +2204,7 @@
       "wasPrice": "$4.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-19"
     }
   },
   {
@@ -2162,7 +2277,7 @@
       "wasPrice": "$2.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-19"
     }
   },
   {
@@ -2331,7 +2446,7 @@
       "wasPrice": "$0.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-19"
     }
   },
   {
@@ -2402,7 +2517,7 @@
       "wasPrice": "€8.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-19"
     }
   },
   {
@@ -2426,7 +2541,7 @@
       "wasPrice": "$39.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-19"
     }
   },
   {
@@ -2450,7 +2565,7 @@
       "wasPrice": "$35.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-19"
     }
   },
   {
