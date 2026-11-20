@@ -178,5 +178,10 @@
     "name": "Pelorus: Multi-Engine Search",
     "reason": "expired (confirmed 2026-11-18: Unlimited unlock back to $4.99 on live listing; site shows introductory $4.99 through Dec 14, 2026)",
     "dateBlocked": "2026-11-18"
+  },
+  {
+    "name": "WEATHERCAST 24 local forecast",
+    "reason": "expired: price back up to $14.99 on live US listing (verified 2026-11-20, one day after being added)",
+    "dateBlocked": "2026-11-20"
   }
 ]
