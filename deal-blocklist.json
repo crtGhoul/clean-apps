@@ -183,5 +183,10 @@
     "name": "WEATHERCAST 24 local forecast",
     "reason": "expired: price back up to $14.99 on live US listing (verified 2026-11-20, one day after being added)",
     "dateBlocked": "2026-11-20"
+  },
+  {
+    "name": "mySolar - Build your Planets",
+    "reason": "expired: price back up to $14.99 on live US listing (verified 2026-11-21)",
+    "dateBlocked": "2026-11-21"
   }
 ]
