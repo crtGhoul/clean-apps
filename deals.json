@@ -12,7 +12,8 @@
       "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
       "wasPrice": "$0.99",
       "dealKind": "gone-free",
-      "firstTimeFree": true
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-21"
     },
     "developer": "Guy Harris",
     "hasIAP": false,
@@ -35,7 +36,8 @@
       "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
       "wasPrice": "$1.99",
       "dealKind": "gone-free",
-      "firstTimeFree": true
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-21"
     },
     "developer": "雷 戴",
     "hasIAP": true,
@@ -58,7 +60,8 @@
       "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
       "wasPrice": "$0.49",
       "dealKind": "gone-free",
-      "firstTimeFree": true
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-21"
     },
     "developer": "Oz Pinhas",
     "hasIAP": true,
@@ -81,7 +84,8 @@
       "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
       "wasPrice": "$2.99",
       "dealKind": "gone-free",
-      "firstTimeFree": true
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-21"
     },
     "developer": "Alessandro Graziani",
     "hasIAP": false,
@@ -105,7 +109,7 @@
       "wasPrice": "$1.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "developer": "Maysoft Inc.",
     "hasIAP": true,
@@ -129,7 +133,7 @@
       "wasPrice": "$2.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "developer": "Extruder App Inc.",
     "hasIAP": true,
@@ -153,7 +157,7 @@
       "wasPrice": "$5.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "developer": "iAnesthesia LLC",
     "hasIAP": true,
@@ -177,7 +181,7 @@
       "wasPrice": "$6.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "developer": "Hau Bui Van",
     "hasIAP": true,
@@ -201,7 +205,7 @@
       "wasPrice": "$2.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "developer": "giang pham",
     "hasIAP": false,
@@ -225,7 +229,7 @@
       "wasPrice": "$1.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "developer": "pierre gougelet",
     "hasIAP": false,
@@ -249,7 +253,7 @@
       "wasPrice": "$2.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "developer": "Denys Ievenko",
     "hasIAP": true,
@@ -273,7 +277,7 @@
       "wasPrice": "$4.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "developer": "Sleep Laugh Studios LLC",
     "hasIAP": true,
@@ -297,7 +301,7 @@
       "wasPrice": "$4.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "developer": "Hamilton Feltman",
     "hasIAP": true,
@@ -2647,29 +2651,6 @@
     }
   },
   {
-    "name": "mySolar - Build your Planets",
-    "appStoreId": "1237470522",
-    "appStoreUrl": "https://apps.apple.com/us/app/mysolar-build-your-planets/id1237470522",
-    "developer": "Oscar Tsang",
-    "category": "Entertainment",
-    "price": "Free",
-    "hasIAP": true,
-    "iapVerifiedDate": "2026-11-13",
-    "adsFree": false,
-    "adsCheckMethod": "listing",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/f1/1a/c5f11a31-6dd9-6cff-061e-7746d66fb08f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-    "oneLine": "Build your own solar system: grow planets, battle rival systems and absorb their resources in a relaxing space sandbox.",
-    "deal": {
-      "dateFound": "2026-11-13",
-      "offer": "Full game FREE (was $14.99): build your own solar system — grow planets, battle rival systems and absorb their resources. 4.2 stars (410 ratings). Optional GP currency packs ($2.99–$9.99) are IAP and the listing flags Advertising.",
-      "expiry": "unknown (gone-free price drop — verify before grabbing)",
-      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
-      "wasPrice": "$14.99",
-      "dealKind": "gone-free",
-      "firstTimeFree": true
-    }
-  },
-  {
     "name": "ADHD Tool - Do This",
     "appStoreId": "6563141268",
     "appStoreUrl": "https://apps.apple.com/us/app/adhd-tool-do-this/id6563141268",
@@ -2897,7 +2878,7 @@
       "wasPrice": "$14.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     }
   },
   {
@@ -2921,7 +2902,7 @@
       "wasPrice": "$5.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     }
   },
   {
@@ -2945,7 +2926,7 @@
       "wasPrice": "$17.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     }
   },
   {
@@ -2969,7 +2950,7 @@
       "wasPrice": "$14.99",
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     }
   },
   {
