@@ -193,5 +193,15 @@
     "name": "CatchSlide: Lecture Slide Scan",
     "reason": "expired: Pro Lifetime codes NOVE/NOVE2 stated expiry Nov 22, 2026 (verified 2026-11-22)",
     "dateBlocked": "2026-11-22"
+  },
+  {
+    "name": "Multima",
+    "reason": "expired: Promies promotion page reads 'Promotion not found' (verified 2026-11-23)",
+    "dateBlocked": "2026-11-23"
+  },
+  {
+    "name": "nomi - Meal Planner & Recipes",
+    "reason": "expired: OzBargain page marked EXPIRED, expiry Nov 19, 2026 12:57pm (verified 2026-11-23)",
+    "dateBlocked": "2026-11-23"
   }
 ]
