@@ -1,5 +1,125 @@
 [
   {
+    "name": "Spamveto: Spam Call Blocker",
+    "appStoreId": "6811833735",
+    "appStoreUrl": "https://apps.apple.com/us/app/spam-call-blocker-spamveto/id6811833735?uo=4",
+    "developer": "Xiamen Dehui Chengzhen Network Technology Co., Ltd.",
+    "category": "Utilities",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-23",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/4b/c7/ca4bc7f3-3fc5-7d56-8758-d629ebbfe405/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "Identify and block spam, robocall and scam numbers — community-shared database, private block list and bulk-blocking rules.",
+    "deal": {
+      "dateFound": "2026-11-23",
+      "offer": "FREE Lifetime unlock (normally paid): the 'Go Lifetime' in-app purchase currently shows $0.00 on the live listing — community spam-number database, private block list and bulk-blocking rules. 5.0 stars (33 ratings). Has in-app purchases — Monthly $0.99 / Yearly $9.99 plans also listed.",
+      "expiry": "unknown (free lifetime unlock showing $0.00 on the live listing — verify before grabbing)",
+      "source": "https://www.reddit.com/r/ooapps/comments/1y37b37/limitedtime_free_apps_11222026/",
+      "wasPrice": null,
+      "dealKind": "free-unlock",
+      "firstTimeFree": false,
+      "lastChecked": "2026-11-23"
+    }
+  },
+  {
+    "name": "iVerify Basic",
+    "appStoreId": "1466120520",
+    "appStoreUrl": "https://apps.apple.com/us/app/iverify-basic/id1466120520?uo=4",
+    "developer": "iVerify LLC",
+    "category": "Utilities",
+    "price": "Free",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-11-23",
+    "adsFree": true,
+    "adsCheckMethod": "listing",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e4/2a/68/e42a6841-cdf4-39f9-966e-afbd52eda459/IvyRelease-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "Mobile security toolkit: scan your device for vulnerabilities and stay on top of threats, one tap.",
+    "deal": {
+      "dateFound": "2026-11-23",
+      "offer": "Full app FREE (was paid): scan your iPhone for vulnerabilities and stay proactive against threats — device security checks in one tap. 4.6 stars (2,415 ratings). No in-app purchases.",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "source": "https://iappstores.com/",
+      "wasPrice": null,
+      "dealKind": "gone-free",
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-23"
+    }
+  },
+  {
+    "name": "Euchre HD",
+    "appStoreId": "407124620",
+    "appStoreUrl": "https://apps.apple.com/us/app/euchre-hd/id407124620?uo=4",
+    "developer": "Five Lakes Studio, LLC",
+    "category": "Card",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-23",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/b5/6e/feb56e2f-deb1-c0f7-cbac-4dc2c2e814ac/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+    "oneLine": "The classic partnership card game: call trump, take tricks, play online with friends or offline against smart computer players.",
+    "deal": {
+      "dateFound": "2026-11-23",
+      "offer": "Full game FREE (was $0.99): the classic partnership card game — team up, call trump and take tricks online with friends or offline. 3.9 stars (200 ratings). No ads, no tracking. Has in-app purchases — Steampunk card set ($2.99) only.",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "source": "https://360-reader.com/paid-iphone-games-gone-free/",
+      "wasPrice": "$0.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-23"
+    }
+  },
+  {
+    "name": "8bitWar: Netherworld",
+    "appStoreId": "827101160",
+    "appStoreUrl": "https://apps.apple.com/us/app/8bitwar-netherworld/id827101160?uo=4",
+    "developer": "Rosendahl Software AB",
+    "category": "Entertainment",
+    "price": "Free",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-11-23",
+    "adsFree": true,
+    "adsCheckMethod": "listing",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/49/76/0e49762c-6632-846b-1ea3-33cedd350092/mzl.wnucliws.png/100x100bb.jpg",
+    "oneLine": "Strategy game: hire units, arrange formations and counter the enemy army across 180 levels — solo or online.",
+    "deal": {
+      "dateFound": "2026-11-23",
+      "offer": "Full game FREE (was $2.99): hire units and arrange them in formations to counter the enemy's army, across 180 levels, with local and online play. 4.8 stars (150 ratings). No in-app purchases.",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "source": "https://360-reader.com/paid-iphone-games-gone-free/",
+      "wasPrice": "$2.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-23"
+    }
+  },
+  {
+    "name": "Instant Video Background Music",
+    "appStoreId": "681042189",
+    "appStoreUrl": "https://apps.apple.com/us/app/instant-video-background-music/id681042189?uo=4",
+    "developer": "Tran Huy Bao Giang",
+    "category": "Photo & Video",
+    "price": "Free",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-11-23",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/5a/54/a05a54d4-de95-a8cd-8158-2800f4234e66/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "Add background music to your videos on-device — trim, mix, fade and export, no uploads, no account.",
+    "deal": {
+      "dateFound": "2026-11-23",
+      "offer": "Full app FREE (was $0.99): add a soundtrack to any video on-device — trim, mix, fade in/out, live preview and export at 1080p. 3.8 stars (39 ratings). No in-app purchases, no ads, collects no data. Requires iOS 17.",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+      "wasPrice": "$0.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-23"
+    }
+  },
+  {
     "name": "SimpleToDo - Todo & Calendar",
     "appStoreId": "1294530516",
     "appStoreUrl": "https://apps.apple.com/us/app/simpletodo-todo-calendar/id1294530516?uo=4",
@@ -972,7 +1092,7 @@
       "source": "https://t.me/freegames/9207",
       "wasPrice": "$5.99",
       "dealKind": "free-unlock",
-      "lastChecked": "2026-10-15",
+      "lastChecked": "2026-11-23",
       "firstTimeFree": false
     }
   },
@@ -1037,7 +1157,7 @@
       "wasPrice": "$9.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-23"
     },
     "developer": "hyunho lee",
     "hasIAP": true,
@@ -1165,7 +1285,7 @@
       "wasPrice": "$24.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-23"
     }
   },
   {
@@ -1226,7 +1346,7 @@
       "wasPrice": "US$29.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-23"
     },
     "developer": "Bamuda Corporation Pty Ltd",
     "hasIAP": true,
@@ -1581,7 +1701,7 @@
       "wasPrice": "$4.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-23"
     }
   },
   {
@@ -1604,7 +1724,7 @@
       "wasPrice": "$12.99/year",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-23"
     }
   },
   {
@@ -1958,30 +2078,6 @@
     }
   },
   {
-    "name": "nomi - Meal Planner & Recipes",
-    "appStoreId": "6815107888",
-    "appStoreUrl": "https://apps.apple.com/us/app/nomi-meal-planner-recipes/id6815107888",
-    "developer": "SUGI STUDIO PTY LTD",
-    "category": "Food & Drink",
-    "price": "Free",
-    "hasIAP": true,
-    "iapVerifiedDate": "2026-11-03",
-    "adsCheckMethod": "listing",
-    "adsFree": true,
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/84/2a/e0/842ae0f1-6917-2c2e-30e1-b37c13b520d7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-    "oneLine": "Weekly meal planner built around your budget: a week of dinners, one grocery list sorted by aisle, and recipes you can actually follow.",
-    "deal": {
-      "dateFound": "2026-11-03",
-      "offer": "Lifetime Premium FREE (normally $39.99): enter code SORTEDFORLIFE on the paywall (tap 'Offer code' in the small print) — 2,000 codes per the Nov 2 post. Verify before grabbing.",
-      "expiry": "unknown (2,000 codes — verify before grabbing)",
-      "source": "https://www.ozbargain.com.au/node/980043",
-      "wasPrice": "$39.99",
-      "dealKind": "free-unlock",
-      "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
-    }
-  },
-  {
     "name": "Phone Cleaner-AI Clean Storage",
     "appStoreId": "6444253288",
     "appStoreUrl": "https://apps.apple.com/us/app/phone-cleaner-ai-clean-storage/id6444253288",
@@ -2002,7 +2098,7 @@
       "wasPrice": "$69.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-23"
     }
   },
   {
@@ -2026,7 +2122,7 @@
       "wasPrice": "$14.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-23"
     }
   },
   {
@@ -2050,7 +2146,7 @@
       "wasPrice": "$5.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-23"
     }
   },
   {
@@ -2334,7 +2430,7 @@
       "wasPrice": "£19.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-19"
+      "lastChecked": "2026-11-23"
     }
   },
   {
@@ -2431,31 +2527,6 @@
       "wasPrice": "$1.99",
       "dealKind": "gone-free",
       "firstTimeFree": true
-    }
-  },
-  {
-    "name": "Multima",
-    "appStoreId": "6754284174",
-    "appStoreUrl": "https://apps.apple.com/us/app/multima/id6754284174",
-    "developer": "Marko Sabotin",
-    "category": "Lifestyle",
-    "price": "Free",
-    "hasIAP": true,
-    "iapVerifiedDate": "2026-11-07",
-    "adsTier": null,
-    "adsFree": true,
-    "adsCheckMethod": "listing",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/7a/bb/dd7abb34-8b23-a895-0169-68cc52ec9b58/AppIconMultima-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
-    "oneLine": "All-in-one utility toolbox: converters, scientific formulas, car specs, generative art, globe tools and mini-games — Pro unlock free via code.",
-    "deal": {
-      "dateFound": "2026-11-07",
-      "offer": "FREE lifetime Multima Pro unlock (normally $2.99): 1,000 promo codes via promies — redeem your code in the App Store, then open Multima and tap Restore purchases. Unlocks the full toolbox (converters, formulas, car specs, Tizima art studio, globe tools).",
-      "expiry": "unknown (1,000 codes — may be exhausted; verify before grabbing)",
-      "source": "https://www.promies.net/promotion/d58181cb-f757-4624-869a-30bb7d326841",
-      "wasPrice": "$2.99",
-      "dealKind": "free-unlock",
-      "firstTimeFree": false,
-      "lastChecked": "2026-11-20"
     }
   },
   {
@@ -2624,7 +2695,7 @@
       "wasPrice": "$0.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-19"
+      "lastChecked": "2026-11-23"
     }
   },
   {
@@ -2695,7 +2766,7 @@
       "wasPrice": "€8.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-19"
+      "lastChecked": "2026-11-23"
     }
   },
   {
@@ -2719,7 +2790,7 @@
       "wasPrice": "$39.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-19"
+      "lastChecked": "2026-11-23"
     }
   },
   {
@@ -3041,12 +3112,12 @@
     "deal": {
       "dateFound": "2026-11-17",
       "offer": "Pro Lifetime FREE (normally $79.99): the dev is giving 1,000 lifters Pro for life — claim your real App Store offer code at plusonelifts.com/free, redeem in the App Store, and Pro stays yours for good. No card, no subscription, no trial. Unlocks next-set targets, stall fixes, progress charts, 3D muscle map and voice logging.",
-      "expiry": "unknown (1,000 codes — verify before grabbing)",
+      "expiry": "unknown (518 of 1,000 lifetime codes left as of Nov 23, 2026 — verify before grabbing)",
       "source": "https://plusonelifts.com/free",
       "wasPrice": "$79.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-23"
     }
   }
 ]
