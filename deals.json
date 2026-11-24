@@ -1,5 +1,101 @@
 [
   {
+    "name": "LearnBack: Active Recall",
+    "appStoreId": "6757343516",
+    "appStoreUrl": "https://apps.apple.com/us/app/learnback-active-recall/id6757343516?uo=4",
+    "developer": "Mohammed Attwa",
+    "category": "Education",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-24",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/1b/7b/871b7bba-a575-bf69-031a-def4e7ae1994/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "oneLine": "Active-recall study app — capture by text or voice, review with spaced repetition. No account, 100% on-device.",
+    "deal": {
+      "dateFound": "2026-11-24",
+      "offer": "FREE Lifetime unlock (LearnBack Pro, normally $19.99): comment and message the dev on r/AppGiveaway for the unlock. Active recall + spaced repetition — capture by text or voice, review before you forget. 5.0 stars (23 ratings). No ads mentioned, collects no data, no account, everything on-device.",
+      "expiry": "unknown (dev giveaway — verify before grabbing)",
+      "source": "https://www.reddit.com/r/AppGiveaway/comments/1y4aqxn/ios_20_free_lifetime_learnback_active_recall_i/",
+      "wasPrice": "$19.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false,
+      "lastChecked": "2026-11-24"
+    }
+  },
+  {
+    "name": "Ares - Workout Interval Timer",
+    "appStoreId": "6743498963",
+    "appStoreUrl": "https://apps.apple.com/us/app/ares-workout-interval-timer/id6743498963?uo=4",
+    "developer": "Krzysztof Orlowski",
+    "category": "Health & Fitness",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-24",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b7/5e/67/b75e67cc-a26c-b163-f08e-2436a8703b6c/Ares-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "Interval timer with a voice coach — HIIT, Tabata, EMOM, yoga and stretching, no ads, no account, works with Apple Watch.",
+    "deal": {
+      "dateFound": "2026-11-24",
+      "offer": "FREE Lifetime unlock (Ares Plus Forever, normally $24.99): first 100 people — comment on the dev's r/AppGiveaway post and DM for a personal link. Voice-coach interval timer for HIIT, Tabata, yoga and stretching. 5.0 stars (26 ratings). No ads, no account needed. Note: the separate public code ARESREDDIT is a 1-year offer, not lifetime.",
+      "expiry": "unknown (first 100 people — verify before grabbing)",
+      "source": "https://www.reddit.com/r/AppGiveaway/comments/1y4bd4x/ios_2499_free_lifetime_ares_interval_timer_with_a/",
+      "wasPrice": "$24.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false,
+      "lastChecked": "2026-11-24"
+    }
+  },
+  {
+    "name": "Eco inc. Save the Earth",
+    "appStoreId": "1504760106",
+    "appStoreUrl": "https://apps.apple.com/us/app/eco-inc-save-the-earth/id1504760106?uo=4",
+    "developer": "GameFirst LLC",
+    "category": "Strategy",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-24",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/b4/a9/4fb4a924-6875-8b1e-fa59-f90a571750aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "oneLine": "Strategy game about protecting a living planet — plastic pollution, food waste, alien invasion scenarios on a 3D Earth.",
+    "deal": {
+      "dateFound": "2026-11-24",
+      "offer": "Full game FREE (was paid): strategy game about protecting a living planet — take on plastic pollution, food waste, global cooling and alien invasion scenarios on a 3D Earth. 4.7 stars (1,845 ratings). Has in-app purchases — Full scenarios $4.99, Buy Premium $0.99. No ads.",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "source": "https://iappstores.com/",
+      "wasPrice": null,
+      "dealKind": "gone-free",
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-24"
+    }
+  },
+  {
+    "name": "Religion Inc. God Simulator",
+    "appStoreId": "1484622401",
+    "appStoreUrl": "https://apps.apple.com/us/app/religion-inc-god-simulator/id1484622401?uo=4",
+    "developer": "GameFirst LLC",
+    "category": "Strategy",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-24",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/87/69/15/87691594-051a-b165-2e23-4e7e964b6608/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "oneLine": "Found your own religion and guide it through history — create beliefs, perform miracles, watch civilizations develop.",
+    "deal": {
+      "dateFound": "2026-11-24",
+      "offer": "Full game FREE (was paid): found your own religion and guide it through history — create beliefs and traditions, perform miracles, watch civilizations develop. 4.6 stars (6,160 ratings). Has in-app purchases — expansions and archetypes from $0.99, 'All at once' $4.99. No ads mentioned.",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "source": "https://iappstores.com/",
+      "wasPrice": null,
+      "dealKind": "gone-free",
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-24"
+    }
+  },
+  {
     "name": "Spamveto: Spam Call Blocker",
     "appStoreId": "6811833735",
     "appStoreUrl": "https://apps.apple.com/us/app/spam-call-blocker-spamveto/id6811833735?uo=4",
@@ -15,12 +111,12 @@
     "deal": {
       "dateFound": "2026-11-23",
       "offer": "FREE Lifetime unlock (normally paid): the 'Go Lifetime' in-app purchase currently shows $0.00 on the live listing — community spam-number database, private block list and bulk-blocking rules. 5.0 stars (33 ratings). Has in-app purchases — Monthly $0.99 / Yearly $9.99 plans also listed.",
-      "expiry": "unknown (free lifetime unlock showing $0.00 on the live listing — verify before grabbing)",
+      "expiry": "ends Nov 25, 2026 (dev's Facebook post: free Lifetime promo Nov 18-25 — verify before grabbing)",
       "source": "https://www.reddit.com/r/ooapps/comments/1y37b37/limitedtime_free_apps_11222026/",
       "wasPrice": null,
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-23"
+      "lastChecked": "2026-11-24"
     }
   },
   {
@@ -1378,7 +1474,7 @@
       "wasPrice": "US$29.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-24"
     }
   },
   {
@@ -3112,12 +3208,12 @@
     "deal": {
       "dateFound": "2026-11-17",
       "offer": "Pro Lifetime FREE (normally $79.99): the dev is giving 1,000 lifters Pro for life — claim your real App Store offer code at plusonelifts.com/free, redeem in the App Store, and Pro stays yours for good. No card, no subscription, no trial. Unlocks next-set targets, stall fixes, progress charts, 3D muscle map and voice logging.",
-      "expiry": "unknown (518 of 1,000 lifetime codes left as of Nov 23, 2026 — verify before grabbing)",
+      "expiry": "unknown (518 of 1,000 lifetime codes left as of Nov 23, 2026; offer page still live Nov 24 — verify before grabbing)",
       "source": "https://plusonelifts.com/free",
       "wasPrice": "$79.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-23"
+      "lastChecked": "2026-11-24"
     }
   }
 ]
