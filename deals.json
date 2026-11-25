@@ -20,7 +20,7 @@
       "wasPrice": "$19.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-24"
+      "lastChecked": "2026-11-25"
     }
   },
   {
@@ -44,7 +44,7 @@
       "wasPrice": "$24.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-24"
+      "lastChecked": "2026-11-25"
     }
   },
   {
@@ -3214,6 +3214,30 @@
       "dealKind": "free-unlock",
       "firstTimeFree": false,
       "lastChecked": "2026-11-24"
+    }
+  },
+  {
+    "name": "EveryCord: Co-host Live Stream",
+    "appStoreId": "1336328583",
+    "appStoreUrl": "https://apps.apple.com/us/app/everycord-co-host-live-stream/id1336328583?uo=4",
+    "developer": "Symaro, LLC",
+    "category": "Utilities",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-25",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description+reviews",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/b4/fa/09b4fafc-6118-5679-46ac-af2fb26998a1/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+    "oneLine": "Record your screen and go live with friends — co-host streams with up to three friends on camera and post clips anyone can watch.",
+    "deal": {
+      "dateFound": "2026-11-25",
+      "offer": "FREE (was $1.99): co-host live streams with friends on camera, record your screen and post clips. 4.2 stars (2,347 ratings). In-App Purchases label is on the listing (extras stay paid); the base app is free and ad-free per its listing, with 0 ad complaints in 50 recent reviews.",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+      "wasPrice": "$1.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-25"
     }
   }
 ]
