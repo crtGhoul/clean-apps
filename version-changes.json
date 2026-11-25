@@ -1,470 +1,470 @@
 [
   {
+    "appStoreId": "1212616790",
+    "name": "Microsoft To Do",
+    "oldVersion": "2.177",
+    "newVersion": "2.183",
+    "dateDetected": "2026-11-25",
+    "status": "reverified",
+    "date": "2026-11-25"
+  },
+  {
     "appStoreId": "1029207872",
     "name": "Google Keep",
-    "oldVersion": "2.2026.45100",
-    "newVersion": "2.2026.46102",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "2.2026.46102",
+    "newVersion": "2.2026.47101",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "1353634006",
-    "name": "Google Tasks",
-    "oldVersion": "26.45.0",
-    "newVersion": "26.46.0",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "1315599797",
+    "name": "Joplin",
+    "oldVersion": "13.7.6",
+    "newVersion": "13.7.8",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "414706506",
-    "name": "Google Translate",
-    "oldVersion": "10.46.361",
-    "newVersion": "10.47.381",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "1473805438",
+    "name": "a-Shell",
+    "oldVersion": "2.3.2",
+    "newVersion": "2.4.0",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "1557175442",
-    "name": "Obsidian",
-    "oldVersion": "1.15.0",
-    "newVersion": "1.15.1",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "1480640210",
+    "name": "NetNewsWire",
+    "oldVersion": "7.2",
+    "newVersion": "7.3.1",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "1217793794",
-    "name": "2FAS",
-    "oldVersion": "6.0.2",
-    "newVersion": "6.0.3",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "6444121398",
+    "name": "Ente Auth",
+    "oldVersion": "v4.4.26",
+    "newVersion": "v4.4.27",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "1504416652",
     "name": "GeoGebra Calculator Suite",
-    "oldVersion": "5.4.932",
-    "newVersion": "5.4.936",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "5.4.936",
+    "newVersion": "5.4.937",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
-  },
-  {
-    "appStoreId": "1470499037",
-    "name": "Tailscale",
-    "oldVersion": "1.104.5",
-    "newVersion": "1.104.7",
-    "dateDetected": "2026-11-18",
-    "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "439438619",
     "name": "Snapseed: Photo Editor",
-    "oldVersion": "4.2.0",
-    "newVersion": "4.2.1",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "4.2.1",
+    "newVersion": "4.2.2",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "1072807669",
-    "name": "foobar2000",
-    "oldVersion": "2.26.2",
-    "newVersion": "2.26.3",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "6469552837",
+    "name": "Final Cut Camera",
+    "oldVersion": "2.4",
+    "newVersion": "3.0",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "1604098728",
-    "name": "Swiftfin",
-    "oldVersion": "1.6.1",
-    "newVersion": "1.7.1",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "1443964192",
+    "name": "Dolby On: Record Audio & Video",
+    "oldVersion": "2.0",
+    "newVersion": "2.0.1",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "1491270519",
-    "name": "Audius Music",
-    "oldVersion": "1.1.199",
-    "newVersion": "1.1.203",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "310211433",
+    "name": "Radio France - podcast, direct",
+    "oldVersion": "10.1.2",
+    "newVersion": "10.2.0",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
+  },
+  {
+    "appStoreId": "433155921",
+    "name": "DR LYD",
+    "oldVersion": "8.44.0",
+    "newVersion": "8.45.0",
+    "dateDetected": "2026-11-25",
+    "status": "reverified",
+    "date": "2026-11-25"
+  },
+  {
+    "appStoreId": "401928833",
+    "name": "NRK Radio",
+    "oldVersion": "23.5.2",
+    "newVersion": "23.6",
+    "dateDetected": "2026-11-25",
+    "status": "reverified",
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "385114898",
     "name": "NRK TV",
-    "oldVersion": "26.45.0",
-    "newVersion": "26.46.0",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "26.46.0",
+    "newVersion": "26.47.0",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "989804926",
     "name": "Firefox",
-    "oldVersion": "160.0",
-    "newVersion": "160.1",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "160.1",
+    "newVersion": "161.0",
+    "dateDetected": "2026-11-25",
+    "status": "flagged-traitor",
+    "date": "2026-11-25"
+  },
+  {
+    "appStoreId": "6472513080",
+    "name": "Arc Search",
+    "oldVersion": "1.49.0",
+    "newVersion": "1.50.0",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "1374073304",
     "name": "Whale - Naver Whale Browser",
-    "oldVersion": "4.0.5",
-    "newVersion": "4.1.0",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "4.1.0",
+    "newVersion": "4.1.1",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "388497605",
-    "name": "Google Authenticator",
-    "oldVersion": "5.2.0",
-    "newVersion": "5.2.1",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "6497335175",
+    "name": "Bitwarden Authenticator",
+    "oldVersion": "2026.10.1",
+    "newVersion": "2026.11.0",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "983156458",
-    "name": "Microsoft Authenticator",
-    "oldVersion": "6.8.57",
-    "newVersion": "6.8.58",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "422663827",
+    "name": "Duo Mobile",
+    "oldVersion": "4.125.0",
+    "newVersion": "4.126.0",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
-  },
-  {
-    "appStoreId": "1082229305",
-    "name": "Tofu Authenticator",
-    "oldVersion": "1.11",
-    "newVersion": "1.12",
-    "dateDetected": "2026-11-18",
-    "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "490989206",
     "name": "Yr.no",
-    "oldVersion": "6.5.1",
-    "newVersion": "6.5.2",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "6.5.2",
+    "newVersion": "6.5.3",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
-  },
-  {
-    "appStoreId": "318698524",
-    "name": "Google Voice",
-    "oldVersion": "26.44",
-    "newVersion": "26.46",
-    "dateDetected": "2026-11-18",
-    "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "1500780518",
     "name": "Medito: Mindfulness Meditation",
-    "oldVersion": "2611.1.2",
-    "newVersion": "2611.11.0",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "2611.11.0",
+    "newVersion": "2611.17.0",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "1146717204",
     "name": "GeoGebra Graphing Calculator",
-    "oldVersion": "5.4.932",
-    "newVersion": "5.4.936",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "5.4.936",
+    "newVersion": "5.4.937",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
+  },
+  {
+    "appStoreId": "1326310617",
+    "name": "Healthy Minds Program by Humin",
+    "oldVersion": "9.0.0",
+    "newVersion": "9.0.2",
+    "dateDetected": "2026-11-25",
+    "status": "reverified",
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "560442518",
     "name": "Smiling Mind: Mental Wellbeing",
-    "oldVersion": "8.0.4",
-    "newVersion": "8.0.6",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "8.0.6",
+    "newVersion": "8.0.8",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
-  },
-  {
-    "appStoreId": "1273719339",
-    "name": "Plum Village: Mindfulness",
-    "oldVersion": "6.0.0",
-    "newVersion": "6.1.0",
-    "dateDetected": "2026-11-18",
-    "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "334325516",
     "name": "NASA",
-    "oldVersion": "6.92",
-    "newVersion": "6.93",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "6.93",
+    "newVersion": "6.94",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
-  },
-  {
-    "appStoreId": "1523108871",
-    "name": "Calmaria",
-    "oldVersion": "3.1",
-    "newVersion": "3.1.1",
-    "dateDetected": "2026-11-18",
-    "status": "reverified",
-    "date": "2026-11-18"
-  },
-  {
-    "appStoreId": "293622097",
-    "name": "Google Earth",
-    "oldVersion": "10.123.75",
-    "newVersion": "10.127.83",
-    "dateDetected": "2026-11-18",
-    "status": "reverified",
-    "date": "2026-11-18"
-  },
-  {
-    "appStoreId": "376183339",
-    "name": "TED Talks: Watch and Learn",
-    "oldVersion": "8013",
-    "newVersion": "8014",
-    "dateDetected": "2026-11-18",
-    "status": "reverified",
-    "date": "2026-11-18"
-  },
-  {
-    "appStoreId": "284993459",
-    "name": "Shazam: Find Music & Concerts",
-    "oldVersion": "27.2",
-    "newVersion": "27.3",
-    "dateDetected": "2026-11-18",
-    "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "323229106",
     "name": "Waze Navigation & Live Traffic",
-    "oldVersion": "5.27.5.0",
-    "newVersion": "5.28.0.0",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "5.28.0.0",
+    "newVersion": "5.28.5.0",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "284910350",
     "name": "Yelp: Food, Services & Reviews",
-    "oldVersion": "26.46.0",
-    "newVersion": "26.47.0",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "26.47.0",
+    "newVersion": "26.48.0",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "292987597",
     "name": "White Noise Lite",
-    "oldVersion": "9.0.6",
-    "newVersion": "9.0.8",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "9.0.8",
+    "newVersion": "9.0.10",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "725097967",
-    "name": "Flipp: Shop Grocery Deals",
-    "oldVersion": "115.0.1",
-    "newVersion": "116.0.0",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "315241195",
+    "name": "Xe Money Transfer & Currency",
+    "oldVersion": "8.0.18",
+    "newVersion": "8.0.20",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
-  },
-  {
-    "appStoreId": "376888389",
-    "name": "trivago: Compare hotel prices",
-    "oldVersion": "7.2.0",
-    "newVersion": "7.3.0",
-    "dateDetected": "2026-11-18",
-    "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "415458524",
     "name": "Skyscanner Flights & Travel",
-    "oldVersion": "7.217",
-    "newVersion": "7.218",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "7.218",
+    "newVersion": "7.219",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
+  },
+  {
+    "appStoreId": "305204535",
+    "name": "KAYAK: Flights, Hotels & Cars",
+    "oldVersion": "298.0.1",
+    "newVersion": "299.0.0",
+    "dateDetected": "2026-11-25",
+    "status": "reverified",
+    "date": "2026-11-25"
+  },
+  {
+    "appStoreId": "284876795",
+    "name": "Tripadvisor: Plan & Book Trips",
+    "oldVersion": "70.6.0",
+    "newVersion": "70.8.0",
+    "dateDetected": "2026-11-25",
+    "status": "reverified",
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "569793256",
     "name": "Rome2Rio: Travel Route Planner",
-    "oldVersion": "2026.11.04",
-    "newVersion": "2026.11.13",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "2026.11.13",
+    "newVersion": "2026.11.17",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "324906251",
-    "name": "NPR: National & Local News",
-    "oldVersion": "7.11.0",
-    "newVersion": "7.11.1",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "904052407",
+    "name": "Hopper: Flights, Hotels & Cars",
+    "oldVersion": "7.121.1",
+    "newVersion": "7.122.1",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
-  },
-  {
-    "appStoreId": "470493202",
-    "name": "RTÉ Listen",
-    "oldVersion": "30.26.0 (298)",
-    "newVersion": "30.28.0 (300)",
-    "dateDetected": "2026-11-18",
-    "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "6745342698",
     "name": "uBlock Origin Lite",
-    "oldVersion": "2026.1110.1816",
-    "newVersion": "2026.1116.1650",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "2026.1116.1650",
+    "newVersion": "2026.1124.1811",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "734046126",
-    "name": "ChatterPix Kids",
-    "oldVersion": "1.4.1",
-    "newVersion": "1.4.2",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "504750621",
+    "name": "Draw and Tell",
+    "oldVersion": "2.3.3",
+    "newVersion": "2.3.4",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "1112482869",
     "name": "ABC Kids - Tracing & Phonics",
-    "oldVersion": "2.3.2",
-    "newVersion": "2.3.3",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "2.3.3",
+    "newVersion": "2.3.5",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "1455967837",
     "name": "Baby Games: Piano, Baby Phone",
-    "oldVersion": "2.0.5",
-    "newVersion": "2.0.6",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "2.0.6",
+    "newVersion": "2.0.7",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
-  },
-  {
-    "appStoreId": "1486159728",
-    "name": "LEGO® Builder: 3D Instructions",
-    "oldVersion": "4.3.11",
-    "newVersion": "4.4.0",
-    "dateDetected": "2026-11-18",
-    "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "6476327393",
     "name": "YouTube Create: Video editor",
-    "oldVersion": "0.150.948",
-    "newVersion": "0.151.945",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "0.151.945",
+    "newVersion": "0.153.945",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "6749085434",
-    "name": "Taskly: To Do List & Checklist",
-    "oldVersion": "1.3.08",
-    "newVersion": "1.3.09",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "6809212757",
+    "name": "Filio - File Manager",
+    "oldVersion": "1.0.9",
+    "newVersion": "1.0.10",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "6747517228",
-    "name": "Simplio Notepad - Quick Notes",
-    "oldVersion": "1.56",
-    "newVersion": "1.57",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "6788490726",
+    "name": "HelixNotes",
+    "oldVersion": "1.3.6",
+    "newVersion": "1.3.8",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "6759653021",
     "name": "Muzi",
-    "oldVersion": "2.2.5",
-    "newVersion": "3.0.0",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "3.0.0",
+    "newVersion": "3.1.0",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "6780555505",
-    "name": "Luma - Offline Music Player",
-    "oldVersion": "1.7.0",
-    "newVersion": "2.1.0",
-    "dateDetected": "2026-11-18",
-    "status": "flagged-traitor",
-    "date": "2026-11-18"
+    "appStoreId": "6749644488",
+    "name": "TAG Casts : Podcast player",
+    "oldVersion": "1.7",
+    "newVersion": "1.8",
+    "dateDetected": "2026-11-25",
+    "status": "reverified",
+    "date": "2026-11-25"
+  },
+  {
+    "appStoreId": "6770309003",
+    "name": "LISTND - Podcast Player",
+    "oldVersion": "1.1.1",
+    "newVersion": "1.1.2",
+    "dateDetected": "2026-11-25",
+    "status": "reverified",
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "6828163879",
     "name": "Football Kick Live: Soccer",
-    "oldVersion": "1.0",
-    "newVersion": "1.2",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "1.2",
+    "newVersion": "1.2.1",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "6828098466",
     "name": "Bitfold: Retro Game Emulator",
-    "oldVersion": "1.1",
-    "newVersion": "1.3",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "1.3",
+    "newVersion": "1.3.1",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "6829163472",
     "name": "Pockling: Cute Virtual Pet",
-    "oldVersion": "1.1",
-    "newVersion": "1.3",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "1.3",
+    "newVersion": "1.3.2",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
+  },
+  {
+    "appStoreId": "1137397744",
+    "name": "Bitwarden Password Manager",
+    "oldVersion": "2026.10.1",
+    "newVersion": "2026.11.0",
+    "dateDetected": "2026-11-25",
+    "status": "reverified",
+    "date": "2026-11-25"
+  },
+  {
+    "appStoreId": "1314362549",
+    "name": "Class Calc Graphing Calculator",
+    "oldVersion": "1.12.26",
+    "newVersion": "1.13.4",
+    "dateDetected": "2026-11-25",
+    "status": "reverified",
+    "date": "2026-11-25"
   },
   {
     "appStoreId": "6785608571",
     "name": "Insight Weather",
-    "oldVersion": "1.05",
-    "newVersion": "1.08",
-    "dateDetected": "2026-11-18",
+    "oldVersion": "1.08",
+    "newVersion": "1.09",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
   },
   {
-    "appStoreId": "6818778080",
-    "name": "Weather: Live",
-    "oldVersion": "1.2",
-    "newVersion": "1.3",
-    "dateDetected": "2026-11-18",
+    "appStoreId": "6825040593",
+    "name": "Salis — Arabic Keyboard",
+    "oldVersion": "1.7",
+    "newVersion": "1.9",
+    "dateDetected": "2026-11-25",
     "status": "reverified",
-    "date": "2026-11-18"
+    "date": "2026-11-25"
+  },
+  {
+    "appStoreId": "1036898971",
+    "name": "Rocketbook App",
+    "oldVersion": "4.0.1",
+    "newVersion": "4.1",
+    "dateDetected": "2026-11-25",
+    "status": "reverified",
+    "date": "2026-11-25"
   }
 ]
