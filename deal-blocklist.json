@@ -203,5 +203,10 @@
     "name": "nomi - Meal Planner & Recipes",
     "reason": "expired: OzBargain page marked EXPIRED, expiry Nov 19, 2026 12:57pm (verified 2026-11-23)",
     "dateBlocked": "2026-11-23"
+  },
+  {
+    "name": "Spamveto: Spam Call Blocker",
+    "reason": "expired: stated promo Nov 18-25 ended; Go Lifetime now $29.99 on live US listing, no $0.00 option (verified 2026-11-26)",
+    "dateBlocked": "2026-11-26"
   }
 ]
