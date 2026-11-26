@@ -20,7 +20,7 @@
       "wasPrice": "$19.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-25"
+      "lastChecked": "2026-11-26"
     }
   },
   {
@@ -44,7 +44,7 @@
       "wasPrice": "$24.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-25"
+      "lastChecked": "2026-11-26"
     }
   },
   {
@@ -92,30 +92,6 @@
       "wasPrice": null,
       "dealKind": "gone-free",
       "firstTimeFree": true,
-      "lastChecked": "2026-11-24"
-    }
-  },
-  {
-    "name": "Spamveto: Spam Call Blocker",
-    "appStoreId": "6811833735",
-    "appStoreUrl": "https://apps.apple.com/us/app/spam-call-blocker-spamveto/id6811833735?uo=4",
-    "developer": "Xiamen Dehui Chengzhen Network Technology Co., Ltd.",
-    "category": "Utilities",
-    "price": "Free",
-    "hasIAP": true,
-    "iapVerifiedDate": "2026-11-23",
-    "adsFree": true,
-    "adsCheckMethod": "listing+description",
-    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/4b/c7/ca4bc7f3-3fc5-7d56-8758-d629ebbfe405/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-    "oneLine": "Identify and block spam, robocall and scam numbers — community-shared database, private block list and bulk-blocking rules.",
-    "deal": {
-      "dateFound": "2026-11-23",
-      "offer": "FREE Lifetime unlock (normally paid): the 'Go Lifetime' in-app purchase currently shows $0.00 on the live listing — community spam-number database, private block list and bulk-blocking rules. 5.0 stars (33 ratings). Has in-app purchases — Monthly $0.99 / Yearly $9.99 plans also listed.",
-      "expiry": "ends Nov 25, 2026 (dev's Facebook post: free Lifetime promo Nov 18-25 — verify before grabbing)",
-      "source": "https://www.reddit.com/r/ooapps/comments/1y37b37/limitedtime_free_apps_11222026/",
-      "wasPrice": null,
-      "dealKind": "free-unlock",
-      "firstTimeFree": false,
       "lastChecked": "2026-11-24"
     }
   },
@@ -3238,6 +3214,78 @@
       "dealKind": "gone-free",
       "firstTimeFree": true,
       "lastChecked": "2026-11-25"
+    }
+  },
+  {
+    "name": "Oasis: Sleep & Nature Sounds",
+    "appStoreId": "6759493932",
+    "appStoreUrl": "https://apps.apple.com/us/app/oasis-sleep-nature-sounds/id6759493932?uo=4",
+    "developer": "Jonathan Luquet",
+    "category": "Health & Fitness",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-26",
+    "adsFree": true,
+    "adsCheckMethod": "listing",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/e0/f8/abe0f81a-a49b-7e7e-7384-6a4f00b36c7e/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/100x100bb.jpg",
+    "oneLine": "Nature sounds for sleep and focus — 120 recordings from 43 countries, binaural beats, focus sessions and offline listening. No account, no ads.",
+    "deal": {
+      "dateFound": "2026-11-26",
+      "offer": "FREE Lifetime unlock (Oasis Infinite, normally $24.99): the listing itself says 'Lifetime Oasis Infinite is free until December 1' — open the app, choose Lifetime and confirm only if Apple's sheet shows $0.00. 120 nature recordings, binaural beats, focus sessions, offline listening. 5.0 stars (4 ratings — brand-new app, offer confirmed on the live listing). No ads, no account.",
+      "expiry": "ends Dec 1, 2026 (stated on the live App Store listing — verify before grabbing)",
+      "source": "https://haowego.com/en/offer/oasis-infinite-free-lifetime-black-friday-2026/",
+      "wasPrice": "$24.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false,
+      "lastChecked": "2026-11-26"
+    }
+  },
+  {
+    "name": "Watch Tuner Lite",
+    "appStoreId": "968820626",
+    "appStoreUrl": "https://apps.apple.com/us/app/watch-tuner-lite/id968820626?uo=4",
+    "developer": "Bartlomiej Swiatek",
+    "category": "Utilities",
+    "price": "Free",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-11-26",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/76/55/27/7655271f-8938-6bda-66f9-bc118c69086d/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/100x100bb.jpg",
+    "oneLine": "Measures your mechanical or automatic watch's accuracy with the iPhone mic — seconds-per-day deviation. No ads, collects no data.",
+    "deal": {
+      "dateFound": "2026-11-26",
+      "offer": "Full app FREE (was $1.99): check how fast or slow your mechanical watch runs — the mic records the tick and calculates seconds-per-day deviation. 3.2 stars (38 ratings). No in-app purchases, no ads, collects no data.",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "source": "https://360-reader.com/paid-iphone-apps-gone-free/",
+      "wasPrice": "$1.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-26"
+    }
+  },
+  {
+    "name": "GALAXIA: Arcade Game",
+    "appStoreId": "1153954222",
+    "appStoreUrl": "https://apps.apple.com/us/app/galaxia-arcade-game/id1153954222?uo=4",
+    "developer": "Thye Chean Lim",
+    "category": "Games",
+    "price": "Free",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-11-26",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/4e/b5/424eb548-09f0-1fba-8c30-1dbcb180faa7/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/100x100bb.jpg",
+    "oneLine": "Retro space shooter — Space Invaders meets Galaxian with 3D backgrounds and power-ups. Family friendly, no ads.",
+    "deal": {
+      "dateFound": "2026-11-26",
+      "offer": "Full game FREE (was $0.99): classic arcade space shooting — blast waves of aliens, dodge attacks, grab power-ups, in modern and retro styles. 3.5 stars (20 ratings). No in-app purchases, no ads per the listing, collects no data.",
+      "expiry": "unknown (gone-free price drop — verify before grabbing)",
+      "source": "https://360-reader.com/paid-iphone-games-gone-free/",
+      "wasPrice": "$0.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-26"
     }
   }
 ]
