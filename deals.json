@@ -1,5 +1,125 @@
 [
   {
+    "name": "Lara's Coloring Zoo: Kids Art",
+    "appStoreId": "6806780575",
+    "appStoreUrl": "https://apps.apple.com/us/app/laras-coloring-zoo-kids-art/id6806780575?uo=4",
+    "developer": "Sasa Kolda",
+    "category": "Education",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-27",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/50/c2/f250c25b-ef26-b2d3-e9d2-fff44d1ec31d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "Hand-drawn coloring book for little hands — 12 animals, crayon, brush and pencil tools, 100% offline, zero ads.",
+    "deal": {
+      "dateFound": "2026-11-27",
+      "offer": "FREE Lifetime unlock (normally $9.99): the Premium IAP shows $0.00 on the live App Store listing right now — download the free app, tap a locked animal, pass the grown-ups math gate, then tap 'Unlock Full Zoo Forever — $0.00'. 12 hand-drawn animals, 100% offline, zero ads, zero subscriptions. No ratings yet — brand-new app, but the $0.00 price is confirmed on the listing itself.",
+      "expiry": "Nov 28, 2026 (48-hour Black Friday window, Fri-Sat)",
+      "source": "https://www.threads.com/@babynewtapps/post/DgPf2o1kVWx",
+      "wasPrice": "$9.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false,
+      "lastChecked": "2026-11-27"
+    }
+  },
+  {
+    "name": "Abvy: BAC Calculator & Tracker",
+    "appStoreId": "6822179029",
+    "appStoreUrl": "https://apps.apple.com/us/app/abvy-bac-calculator-tracker/id6822179029?uo=4",
+    "developer": "ANTONIN WINGENDER",
+    "category": "Health & Fitness",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-27",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/d7/43/94d74300-dfd0-4a44-7e71-f44062d2e3f9/Abvy-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "Drink tracker that estimates your BAC and when you'll be sober — live sessions, limits, widgets and Apple Watch.",
+    "deal": {
+      "dateFound": "2026-11-27",
+      "offer": "FREE Abvy Plus Lifetime (normally $29.99): the Lifetime IAP shows $0.00 on the live App Store listing — download, go to Settings → Abvy Plus → Lifetime for $0.00. Log drinks, see your estimated BAC and sober time, set a personal limit. No account, no ads. 18+ only. No ratings yet — brand-new app, updated today, but the $0.00 price is confirmed on the listing itself.",
+      "expiry": "48 hours from Nov 27, 2026",
+      "source": "https://www.reddit.com/r/AppGiveaway/comments/1y6vm38/ios_2999_free_lifetime_abvy_track_your_drinks_and/",
+      "wasPrice": "$29.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false,
+      "lastChecked": "2026-11-27"
+    }
+  },
+  {
+    "name": "YouPlay: AdBlock Video Browser",
+    "appStoreId": "6751497996",
+    "appStoreUrl": "https://apps.apple.com/us/app/youplay-adblock-video-browser/id6751497996?uo=4",
+    "developer": "Simon Zvara",
+    "category": "Photo & Video",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-27",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/88/cb/d8/88cbd831-1254-07c9-0e26-2321b1d1bbc9/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/100x100bb.jpg",
+    "oneLine": "Watch YouTube without ads — background playback and Picture in Picture in one video browser.",
+    "deal": {
+      "dateFound": "2026-11-27",
+      "offer": "FREE YouPlay Premium Lifetime (normally $5.99): the Premium Lifetime IAP shows $0.00 on the live App Store listing — ad-free YouTube viewing, background playback with the screen locked, Picture in Picture, Shorts/Reels blocking, AirPlay. 4.7 stars (2,085 ratings).",
+      "expiry": "unknown (Black Friday promo, listed Nov 26 — verify before grabbing)",
+      "source": "https://appsliced.co/",
+      "wasPrice": "$5.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false,
+      "lastChecked": "2026-11-27"
+    }
+  },
+  {
+    "name": "Petals: Period & Cycle Tracker",
+    "appStoreId": "6751436384",
+    "appStoreUrl": "https://apps.apple.com/us/app/petals-period-cycle-tracker/id6751436384?uo=4",
+    "developer": "PRISMTREE",
+    "category": "Health & Fitness",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-27",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f5/3c/ec/f53cec43-da7f-43b1-fa18-eb6720e60861/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/100x100bb.jpg",
+    "oneLine": "Private, offline period tracker — your data never leaves your phone; Apple Health import, 52 signals tracked.",
+    "deal": {
+      "dateFound": "2026-11-27",
+      "offer": "FREE Lifetime Plus (normally $29.99): 1,000 redeem codes — open the Apple redeem link and use code OOAPPS, or redeem in the App Store app. Private offline cycle tracking, no account, no ads, no servers. 4.9 stars (7 ratings).",
+      "expiry": "unknown (limited time, 1,000 codes — verify before grabbing)",
+      "source": "https://www.reddit.com/r/ooapps/comments/1y51qm0/giveaway_petals_period_cycle_tracker_private/",
+      "wasPrice": "$29.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false,
+      "lastChecked": "2026-11-27"
+    }
+  },
+  {
+    "name": "MicroRockets",
+    "appStoreId": "6832079385",
+    "appStoreUrl": "https://apps.apple.com/us/app/microrockets/id6832079385?uo=4",
+    "developer": "SCOTT DANNA MARPLE",
+    "category": "Games",
+    "price": "Free",
+    "hasIAP": false,
+    "iapVerifiedDate": "2026-11-27",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/04/c0/eb04c08c-aa62-93a5-4e78-d5309db4f66d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "oneLine": "Run a tiny rocket company in pixel art — take jobs, launch on a real clock, grow from a dirt pad to a fleet.",
+    "deal": {
+      "dateFound": "2026-11-27",
+      "offer": "Full game FREE (was $2.99): run a tiny rocket company — take jobs, load cargo, launch on a real clock. 13 rockets, 12 long-haul ships, no ads, no in-app purchases, no data collected. 5.0 stars (4 ratings).",
+      "expiry": "Monday night, Nov 30, 2026 (free this weekend)",
+      "source": "https://www.reddit.com/r/AppGiveaway/comments/1y6rwdk/ios_microrockets_299_free_run_a_tiny_rocket/",
+      "wasPrice": "$2.99",
+      "dealKind": "gone-free",
+      "firstTimeFree": true,
+      "lastChecked": "2026-11-27"
+    }
+  },
+  {
     "name": "LearnBack: Active Recall",
     "appStoreId": "6757343516",
     "appStoreUrl": "https://apps.apple.com/us/app/learnback-active-recall/id6757343516?uo=4",
@@ -20,7 +140,7 @@
       "wasPrice": "$19.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-26"
+      "lastChecked": "2026-11-27"
     }
   },
   {
@@ -44,7 +164,7 @@
       "wasPrice": "$24.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-26"
+      "lastChecked": "2026-11-27"
     }
   },
   {
