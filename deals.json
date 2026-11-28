@@ -1,5 +1,77 @@
 [
   {
+    "name": "Goal Setting - Maseer",
+    "appStoreId": "6769218083",
+    "appStoreUrl": "https://apps.apple.com/us/app/goal-setting-maseer/id6769218083?uo=4",
+    "developer": "Achievero",
+    "category": "Productivity",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-28",
+    "adsFree": true,
+    "adsCheckMethod": "listing",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/24/5f/91245fca-1744-1228-c623-39dd972ff62c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/100x100bb.jpg",
+    "oneLine": "Vision boards turned into weekly goals and daily actions — plan the life you want, with an accountability partner option.",
+    "deal": {
+      "dateFound": "2026-11-28",
+      "offer": "FREE Lifetime Membership (normally $49.99): download, finish onboarding, go to Profile → Upgrade to Maseer Unlimited → tap 'Have a promo code?' → enter OZBARGAIN. No card, nothing auto-renews. Vision board, goals, habits, journaling and retrospectives. No ratings yet — brand-new app, so grab it while the code works.",
+      "expiry": "unknown (code OZBARGAIN — verify before grabbing)",
+      "source": "https://www.ozbargain.com.au/node/981109",
+      "wasPrice": "$49.99",
+      "dealKind": "free-unlock",
+      "firstTimeFree": false,
+      "lastChecked": "2026-11-28"
+    }
+  },
+  {
+    "name": "OneScan: PDF & ID Scanner App",
+    "appStoreId": "6788495535",
+    "appStoreUrl": "https://apps.apple.com/app/id6788495535",
+    "developer": "Freedom Dimension (shenzhen) Technology Co., Ltd",
+    "category": "Productivity",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-28",
+    "adsFree": true,
+    "adsCheckMethod": "listing+description",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/22/8f/b9228fef-ffbb-9a3a-6b56-6f57663de8dc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+    "oneLine": "Scan documents, IDs and cards into searchable PDFs — on-device OCR, no account, no ads, no uploads.",
+    "deal": {
+      "dateFound": "2026-11-28",
+      "offer": "FREE Pro Lifetime (Black Friday, Nov 27–30): the listing shows Pro Lifetime at $0.00 — download, open the upgrade screen, choose Lifetime and confirm $0. On-device OCR, card wallet, PDF merge, signatures and Face ID lock. 5.0 stars (3 ratings).",
+      "expiry": "Nov 30, 2026 (Black Friday window Nov 27–30)",
+      "source": "https://press.oneapps.studio/black-friday-2026/",
+      "wasPrice": null,
+      "dealKind": "free-unlock",
+      "firstTimeFree": false,
+      "lastChecked": "2026-11-28"
+    }
+  },
+  {
+    "name": "OneVoice: Offline Recorder",
+    "appStoreId": "6789639056",
+    "appStoreUrl": "https://apps.apple.com/app/id6789639056",
+    "developer": "Freedom Dimension (shenzhen) Technology Co., Ltd",
+    "category": "Productivity",
+    "price": "Free",
+    "hasIAP": true,
+    "iapVerifiedDate": "2026-11-28",
+    "adsFree": true,
+    "adsCheckMethod": "listing",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8a/13/f9/8a13f9a5-97ae-e4a9-4b95-7f8d0ec6462b/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/100x100bb.jpg",
+    "oneLine": "Private voice recorder with on-device transcription — meetings, lectures and ideas, searchable transcripts, no account, no server.",
+    "deal": {
+      "dateFound": "2026-11-28",
+      "offer": "FREE Lifetime Membership (Black Friday, Nov 27–30): the listing shows OneVoice Pro at $0.00 — download, open the upgrade screen, choose Lifetime and confirm $0. On-device transcription, Apple Watch recording, transcript search, TXT/SRT export. No ratings yet — brand-new, but the $0.00 price is on the listing itself.",
+      "expiry": "Nov 30, 2026 (Black Friday window Nov 27–30)",
+      "source": "https://press.oneapps.studio/black-friday-2026/",
+      "wasPrice": null,
+      "dealKind": "free-unlock",
+      "firstTimeFree": false,
+      "lastChecked": "2026-11-28"
+    }
+  },
+  {
     "name": "Lara's Coloring Zoo: Kids Art",
     "appStoreId": "6806780575",
     "appStoreUrl": "https://apps.apple.com/us/app/laras-coloring-zoo-kids-art/id6806780575?uo=4",
@@ -20,7 +92,7 @@
       "wasPrice": "$9.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-27"
+      "lastChecked": "2026-11-28"
     }
   },
   {
@@ -92,7 +164,7 @@
       "wasPrice": "$29.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-27"
+      "lastChecked": "2026-11-28"
     }
   },
   {
@@ -140,7 +212,7 @@
       "wasPrice": "$19.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-27"
+      "lastChecked": "2026-11-28"
     }
   },
   {
@@ -164,7 +236,7 @@
       "wasPrice": "$24.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-27"
+      "lastChecked": "2026-11-28"
     }
   },
   {
@@ -733,7 +805,7 @@
       "wasPrice": null,
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-18"
+      "lastChecked": "2026-11-28"
     },
     "developer": "David Wieland",
     "hasIAP": true,
@@ -3351,13 +3423,13 @@
     "oneLine": "Nature sounds for sleep and focus — 120 recordings from 43 countries, binaural beats, focus sessions and offline listening. No account, no ads.",
     "deal": {
       "dateFound": "2026-11-26",
-      "offer": "FREE Lifetime unlock (Oasis Infinite, normally $24.99): the listing itself says 'Lifetime Oasis Infinite is free until December 1' — open the app, choose Lifetime and confirm only if Apple's sheet shows $0.00. 120 nature recordings, binaural beats, focus sessions, offline listening. 5.0 stars (4 ratings — brand-new app, offer confirmed on the live listing). No ads, no account.",
+      "offer": "FREE Lifetime unlock (Oasis Infinite, normally $24.99): the listing itself says 'Lifetime Oasis Infinite is free until December 1' — open the app, choose Lifetime and confirm only if Apple's sheet shows $0.00. 120 nature recordings, binaural beats, focus sessions, offline listening. 5.0 stars (7 ratings — brand-new app, offer confirmed on the live listing). No ads, no account.",
       "expiry": "ends Dec 1, 2026 (stated on the live App Store listing — verify before grabbing)",
       "source": "https://haowego.com/en/offer/oasis-infinite-free-lifetime-black-friday-2026/",
       "wasPrice": "$24.99",
       "dealKind": "free-unlock",
       "firstTimeFree": false,
-      "lastChecked": "2026-11-26"
+      "lastChecked": "2026-11-28"
     }
   },
   {
